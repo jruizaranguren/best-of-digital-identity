@@ -3,9 +3,9 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "authorization"
+    title: "Authorization"
+    subtitle: "Authorization and access control libraries, tools and projects."
 
 labels:
   # - label: "python"
@@ -13,7 +13,9 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: casbin
+    github_id: casbin/casbin
+    category: authorization
+    pypi_id: casbin
+    npm_id: casbin
+    maven_id: org.casbin:casbin-spring-boot-starter
