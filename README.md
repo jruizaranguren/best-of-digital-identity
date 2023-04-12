@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome Digital Identity open-source projects. Updated weekly.</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
-
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -37,7 +36,6 @@ This curated list contains 0 awesome open-source projects with a total of 0 star
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
-
 
 ---
 
