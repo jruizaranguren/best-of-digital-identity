@@ -19,6 +19,9 @@ categories:
   - category: standards
     title: Standards
     subtitle: "Standard protocols, schemas, formats, etc."
+  - category: pki
+    title: Public Key Infrastructure
+    subtitle: "Tools, proxies, secured communications, certificate mangers"
 
 labels:
   - label: ory
@@ -66,6 +69,15 @@ projects:
     github_id: permify/permify
     category: authorization
     dockerhub_id: ghcr.io/permify/permify
+  - name: ladon
+    github_id: ory/ladon
+    category: authorization
+    labels: ["ory"]
+  - name: keto
+    github_id: ory/keto
+    category: authorization
+    labels: ["ory"]
+    dockerhub_id: oryd/keto
   - name: oso
     github_id: osohq/oso
     category: authorization
@@ -139,8 +151,10 @@ projects:
   - name: ockam
     github_id: build-trust/ockam
     brew_id: build-trust/ockam/ockam
+    category: pki
   - name: cert-manager
     github_id: cert-manager/cert-manager
+    category: pki
   - name: spiffe
     github_id: spiffe/spiffe
     category: standards
@@ -151,6 +165,17 @@ projects:
   - name: pomerium
     github_id: pomerium/pomerium
     dockerhub_id: pomerium/pomerium
+  - name: athenz
+    github_id: athenz/athenz
+    category: pki
+  - name: ja3
+    github_id: salesforce/ja3
+    category: pki
+    pypi_id: pyja3
+  - name: cfssl
+    github_id: cloudfare/cfssl
+    category: pki
+    dockerhub_id: cfssl/cfssl
 
 
 
