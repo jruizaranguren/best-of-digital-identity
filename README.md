@@ -50,7 +50,7 @@ This curated list contains 22 awesome open-source projects with a total of 140K 
 
 _Authorization and access control libraries, tools and projects._
 
-<details><summary><b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇40 ·  ⭐ 2.6K · ➕) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇40 ·  ⭐ 2.6K) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/oauthlib/oauthlib) (👨‍💻 190 · 🔀 450 · 📦 350K · 📋 360 - 20% open · ⏱️ 10.01.2023):
 
@@ -98,7 +98,7 @@ _Authorization and access control libraries, tools and projects._
 	</dependency>
 	```
 </details>
-<details><summary><b><a href="https://github.com/stalniy/casl">casl</a></b> (🥈35 ·  ⭐ 4.8K · ➕) - CASL is an isomorphic authorization JavaScript library which restricts.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stalniy/casl">casl</a></b> (🥈35 ·  ⭐ 4.8K) - CASL is an isomorphic authorization JavaScript library which restricts what.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stalniy/casl) (👨‍💻 64 · 🔀 240 · 📦 40K · 📋 410 - 2% open · ⏱️ 12.04.2023):
 
@@ -110,7 +110,7 @@ _Authorization and access control libraries, tools and projects._
 	npm install @casl/ability
 	```
 </details>
-<details><summary><b><a href="https://github.com/CanCanCommunity/cancancan">cancancan</a></b> (🥉30 ·  ⭐ 5.3K · ➕) - The authorization Gem for Ruby on Rails. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/CanCanCommunity/cancancan">cancancan</a></b> (🥉30 ·  ⭐ 5.3K) - The authorization Gem for Ruby on Rails. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/CanCanCommunity/cancancan) (👨‍💻 220 · 🔀 600 · 📦 40K · 📋 400 - 9% open · ⏱️ 03.04.2023):
 
@@ -118,7 +118,7 @@ _Authorization and access control libraries, tools and projects._
 	git clone https://github.com/cancancommunity/cancancan
 	```
 </details>
-<details><summary><b><a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper</a></b> (🥉30 ·  ⭐ 5.1K · ➕) - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper</a></b> (🥉30 ·  ⭐ 5.1K) - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/doorkeeper-gem/doorkeeper) (👨‍💻 310 · 🔀 990 · 📦 7.6K · 📋 840 - 2% open · ⏱️ 29.03.2023):
 
@@ -126,7 +126,7 @@ _Authorization and access control libraries, tools and projects._
 	git clone https://github.com/doorkeeper-gem/doorkeeper
 	```
 </details>
-<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥉30 ·  ⭐ 3.4K · ➕) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥉30 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/authzed/spicedb) (👨‍💻 26 · 🔀 170 · 📥 11K · 📦 22 · 📋 320 - 30% open · ⏱️ 13.04.2023):
 
@@ -206,7 +206,7 @@ _Authentication libraries, tools and projects_
 	docker pull oryd/hydra
 	```
 </details>
-<details><summary><b><a href="https://github.com/panva/node-oidc-provider">node-oidc-provider</a></b> (🥉31 ·  ⭐ 2.6K · ➕) - OpenID Certified OAuth 2.0 Authorization Server.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/panva/node-oidc-provider">node-oidc-provider</a></b> (🥉31 ·  ⭐ 2.6K) - OpenID Certified OAuth 2.0 Authorization Server.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/panva/node-oidc-provider) (👨‍💻 60 · 🔀 700 · 📦 930 · ⏱️ 06.04.2023):
 
@@ -218,7 +218,7 @@ _Authentication libraries, tools and projects_
 	npm install oidc-provider
 	```
 </details>
-<details><summary><b><a href="https://github.com/dexidp/dex">dex</a></b> (🥉28 ·  ⭐ 8K · ➕) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dexidp/dex">dex</a></b> (🥉28 ·  ⭐ 8K) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/dexidp/dex) (👨‍💻 220 · 🔀 1.4K · 📥 230 · 📦 15 · 📋 1K - 26% open · ⏱️ 13.04.2023):
 
@@ -286,7 +286,19 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull casbin/casdoor
 	```
 </details>
-<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 3.1K · ➕) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥉27 ·  ⭐ 5.6K) - Logto is a cost-effective open-source alternative to Auth0. It offers.. <code><a href="https://www.mozilla.org/en-US/MPL/2.0/">❗️Custom</a></code></summary>
+
+- [GitHub](https://github.com/logto-io/logto) (👨‍💻 33 · 🔀 190 · 📥 1.4K · 📦 6 · 📋 220 - 24% open · ⏱️ 12.04.2023):
+
+	```
+	git clone https://github.com/logto-io/logto
+	```
+- [Docker Hub](https://hub.docker.com/r/svhd/logto) (📥 5.8K · ⭐ 1 · ⏱️ 12.04.2023):
+	```
+	docker pull svhd/logto
+	```
+</details>
+<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 3.1K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 51 · 🔀 170 · 📥 1.9K · 📦 1 · 📋 1.4K - 23% open · ⏱️ 13.04.2023):
 
@@ -298,7 +310,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull ghcr.io/zitadel/zitadel
 	```
 </details>
-<details><summary><b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉25 ·  ⭐ 3.6K · ➕) - The authentication glue you need. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉25 ·  ⭐ 3.6K) - The authentication glue you need. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/goauthentik/authentik) (👨‍💻 140 · 🔀 290 · 📥 840 · 📋 1.2K - 24% open · ⏱️ 13.04.2023):
 
@@ -317,10 +329,6 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	```
 	docker pull freeipa/freeipa-server
 	```
-</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://github.com/logto-io/logto">logto</a></b> (🥉27 ·  ⭐ 5.6K · 📈) - Logto is a cost-effective open-source alternative to Auth0. It.. <code><a href="https://www.mozilla.org/en-US/MPL/2.0/">❗️Custom</a></code>
 </details>
 <br>
 
