@@ -10,20 +10,20 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-3-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-7-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 3 awesome open-source projects with a total of 36K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 7 awesome open-source projects with a total of 55K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Authorization](#authorization) _1 projects_
-- [Authentication](#authentication) _0 projects_
-- [Identity Providers](#identity-providers) _2 projects_
+- [Authorization](#authorization) _3 projects_
+- [Authentication](#authentication) _1 projects_
+- [Identity Providers](#identity-providers) _3 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -73,6 +73,30 @@ _Authorization and access control libraries, tools and projects._
 	</dependency>
 	```
 </details>
+<details><summary><b><a href="https://github.com/cerbos/cerbos">cerbos</a></b> (🥉26 ·  ⭐ 1.3K · ➕) - Cerbos is the open core, language-agnostic, scalable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/cerbos/cerbos) (👨‍💻 18 · 🔀 61 · 📥 32K · 📦 11 · 📋 230 - 16% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/cerbos/cerbos
+	```
+- [Docker Hub](https://hub.docker.com/r/ghcr.io/cerbos/cerbos):
+	```
+	docker pull ghcr.io/cerbos/cerbos
+	```
+</details>
+<details><summary><b><a href="https://github.com/Permify/permify">permify</a></b> (🥉22 ·  ⭐ 1.3K · ➕) - Permify is an open-source authorization service inspired by.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Permify/permify) (👨‍💻 17 · 🔀 41 · 📥 340 · 📋 79 - 32% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/permify/permify
+	```
+- [Docker Hub](https://hub.docker.com/r/ghcr.io/permify/permify):
+	```
+	docker pull ghcr.io/permify/permify
+	```
+</details>
 <br>
 
 ## Authentication
@@ -81,6 +105,18 @@ _Authorization and access control libraries, tools and projects._
 
 _Authentication libraries, tools and projects_
 
+<details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇40 ·  ⭐ 16K · ➕) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+
+- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 71K · 📋 2.9K - 3% open · ⏱️ 12.04.2023):
+
+	```
+	git clone https://github.com/nextauthjs/next-auth
+	```
+- [npm](https://www.npmjs.com/package/next-auth) (📥 1.7M / month):
+	```
+	npm install next-auth
+	```
+</details>
 <br>
 
 ## Identity Providers
@@ -111,6 +147,18 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 - [Docker Hub](https://hub.docker.com/r/casbin/casdoor) (📥 44K · ⭐ 6 · ⏱️ 13.04.2023):
 	```
 	docker pull casbin/casdoor
+	```
+</details>
+<details><summary><b><a href="https://github.com/freeipa/freeipa">freeipa</a></b> (🥉23 ·  ⭐ 920 · ➕) - Mirror of FreeIPA, an integrated security information management.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/freeipa/freeipa) (👨‍💻 210 · 🔀 300 · ⏱️ 12.04.2023):
+
+	```
+	git clone https://github.com/freeipa/freeipa
+	```
+- [Docker Hub](https://hub.docker.com/r/freeipa/freeipa-server) (📥 5.4M · ⭐ 140 · ⏱️ 12.04.2023):
+	```
+	docker pull freeipa/freeipa-server
 	```
 </details>
 
