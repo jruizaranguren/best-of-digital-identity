@@ -10,18 +10,20 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-1-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-3-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 1 awesome open-source projects with a total of 14K stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 3 awesome open-source projects with a total of 36K stars grouped into 3 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Authorization](#authorization) _1 projects_
+- [Authentication](#authentication) _0 projects_
+- [Identity Providers](#identity-providers) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -47,7 +49,7 @@ This curated list contains 1 awesome open-source projects with a total of 14K st
 
 _Authorization and access control libraries, tools and projects._
 
-<details><summary><b><a href="https://github.com/casbin/casbin">casbin</a></b> (🥇35 ·  ⭐ 14K · ➕) - An authorization library that supports access control models like.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/casbin/casbin">casbin</a></b> (🥇35 ·  ⭐ 14K) - An authorization library that supports access control models like ACL,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/casbin/casbin) (👨‍💻 130 · 🔀 1.5K · 📦 2.3K · 📋 710 - 1% open · ⏱️ 07.04.2023):
 
@@ -58,7 +60,7 @@ _Authorization and access control libraries, tools and projects._
 	```
 	pip install casbin
 	```
-- [npm](https://www.npmjs.com/package/casbin) (📥 150K / month):
+- [npm](https://www.npmjs.com/package/casbin) (📥 140K / month):
 	```
 	npm install casbin
 	```
@@ -69,6 +71,46 @@ _Authorization and access control libraries, tools and projects._
 		<artifactId>casbin-spring-boot-starter</artifactId>
 		<version>[VERSION]</version>
 	</dependency>
+	```
+</details>
+<br>
+
+## Authentication
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Authentication libraries, tools and projects_
+
+<br>
+
+## Identity Providers
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
+
+<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K · ➕) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 27% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/keycloak/keycloak
+	```
+- [Docker Hub](https://hub.docker.com/r/quay.io/keycloak/keycloak):
+	```
+	docker pull quay.io/keycloak/keycloak
+	```
+</details>
+<details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥉27 ·  ⭐ 5.8K · ➕) - An open-source Identity and Access Management (IAM) / Single-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 670 · 📦 1 · 📋 730 - 14% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/casdoor/casdoor
+	```
+- [Docker Hub](https://hub.docker.com/r/casbin/casdoor) (📥 44K · ⭐ 6 · ⏱️ 13.04.2023):
+	```
+	docker pull casbin/casdoor
 	```
 </details>
 
