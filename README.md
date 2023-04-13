@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-12-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-13-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 12 awesome open-source projects with a total of 90K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 13 awesome open-source projects with a total of 100K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,7 +23,7 @@ This curated list contains 12 awesome open-source projects with a total of 90K s
 
 - [Authorization](#authorization) _5 projects_
 - [Authentication](#authentication) _2 projects_
-- [Identity Providers](#identity-providers) _5 projects_
+- [Identity Providers](#identity-providers) _6 projects_
 - [Standards](#standards) _0 projects_
 
 ## Explanation
@@ -41,6 +41,7 @@ This curated list contains 12 awesome open-source projects with a total of 90K s
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
+- <img src="https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png" style="display:inline;" width="13" height="13">&nbsp; Advanced open source security software solving authentication, authorization, access control, application network security, and delegation. 
 
 <br>
 
@@ -50,7 +51,7 @@ This curated list contains 12 awesome open-source projects with a total of 90K s
 
 _Authorization and access control libraries, tools and projects._
 
-<details><summary><b><a href="https://github.com/open-policy-agent/opa">open-policy-agent</a></b> (🥇37 ·  ⭐ 7.9K · ➕) - An open source, general-purpose policy engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/open-policy-agent/opa">open-policy-agent</a></b> (🥇37 ·  ⭐ 7.9K) - An open source, general-purpose policy engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/open-policy-agent/opa) (👨‍💻 380 · 🔀 1.1K · 📥 2.8M · 📦 2.3K · 📋 2.2K - 12% open · ⏱️ 12.04.2023):
 
@@ -86,7 +87,7 @@ _Authorization and access control libraries, tools and projects._
 	</dependency>
 	```
 </details>
-<details><summary><b><a href="https://github.com/osohq/oso">oso</a></b> (🥉28 ·  ⭐ 3K · ➕) - Oso is a batteries-included framework for building authorization in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/osohq/oso">oso</a></b> (🥉28 ·  ⭐ 3K) - Oso is a batteries-included framework for building authorization in your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/osohq/oso) (👨‍💻 61 · 🔀 140 · 📥 2.1K · 📦 69 · 📋 190 - 50% open · ⏱️ 03.04.2023):
 
@@ -130,28 +131,9 @@ _Authorization and access control libraries, tools and projects._
 
 _Authentication libraries, tools and projects_
 
-<details><summary><b><a href="https://github.com/ory/hydra">ory-hydra</a></b> (🥇41 ·  ⭐ 22K · ➕) - OpenID Certified OpenID Connect and OAuth Provider written in Go - cloud..</summary>
+<details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇40 ·  ⭐ 16K) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-
----
-<details><summary><b><a href="https://github.com/ory/kratos">ory-kratos</a></b> (🥇36 ·  ⭐ 8.4K · ➕) - Next-gen identity server (think Auth0, Okta, Firebase) with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 720 · 📥 28K · 📦 310 · 📋 1.1K - 20% open · ⏱️ 13.04.2023):
-
-	```
-	git clone https://github.com/ory/kratos
-	```
-- [Docker Hub](https://hub.docker.com/r/oryd/kratos) (📥 100M · ⭐ 16 · ⏱️ 14.01.2023):
-	```
-	docker pull oryd/kratos
-	```
-</details>
-
----
-</details>
-<details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥉40 ·  ⭐ 16K) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
-
-- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 71K · 📋 2.9K - 4% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 72K · 📋 2.9K - 4% open · ⏱️ 12.04.2023):
 
 	```
 	git clone https://github.com/nextauthjs/next-auth
@@ -159,6 +141,18 @@ _Authentication libraries, tools and projects_
 - [npm](https://www.npmjs.com/package/next-auth) (📥 1.7M / month):
 	```
 	npm install next-auth
+	```
+</details>
+<details><summary><b><a href="https://github.com/ory/hydra">ory-hydra</a></b> (🥉36 ·  ⭐ 14K) - OpenID Certified OpenID Connect and OAuth Provider written in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/ory/hydra) (👨‍💻 280 · 🔀 1.3K · 📥 530K · 📦 2 · 📋 1.4K - 3% open · ⏱️ 11.04.2023):
+
+	```
+	git clone https://github.com/ory/hydra
+	```
+- [Docker Hub](https://hub.docker.com/r/oryd/hydra) (📥 380M · ⭐ 72 · ⏱️ 11.04.2023):
+	```
+	docker pull oryd/hydra
 	```
 </details>
 <br>
@@ -171,7 +165,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
 <details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern Applications.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 27% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/keycloak/keycloak
@@ -181,7 +175,19 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull quay.io/keycloak/keycloak
 	```
 </details>
-<details><summary><b><a href="https://github.com/apereo/cas">cas</a></b> (🥈31 ·  ⭐ 10K · ➕) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ory/kratos">ory-kratos</a></b> (🥇36 ·  ⭐ 8.4K) - Next-gen identity server (think Auth0, Okta, Firebase) with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 720 · 📥 28K · 📦 310 · 📋 1.1K - 20% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/ory/kratos
+	```
+- [Docker Hub](https://hub.docker.com/r/oryd/kratos) (📥 100M · ⭐ 16 · ⏱️ 14.01.2023):
+	```
+	docker pull oryd/kratos
+	```
+</details>
+<details><summary><b><a href="https://github.com/apereo/cas">cas</a></b> (🥈31 ·  ⭐ 10K) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/apereo/cas) (👨‍💻 340 · 🔀 3.8K · ⏱️ 13.04.2023):
 
@@ -219,7 +225,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/logto-io/logto">logto</a></b> (🥉26 ·  ⭐ 5.6K · ➕) - Logto is a cost-effective open-source alternative to Auth0. It.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/logto-io/logto">logto</a></b> (🥉26 ·  ⭐ 5.6K) - Logto is a cost-effective open-source alternative to Auth0. It.. <code>❗Unlicensed</code>
 </details>
 <br>
 
