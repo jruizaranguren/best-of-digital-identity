@@ -18,9 +18,9 @@ categories:
 
 labels:
   - label: ory
-    image: "https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png"
+    name: ory
     description: "Advanced open source security software solving authentication, authorization, access control, application network security, and delegation. "
-
+   # add labels? linux foundation, cloud native linux founation, apache foundation, red hat, etc?
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -32,6 +32,14 @@ projects:
     labels: ["ory"]
     dockerhub_id: oryd/hydra
     helm_id: https://k8s.ory.sh/helm/charts
+  - name: dex
+    github_id: dexidp/dex
+    category: authentication
+    dockerhub_id: quay.io/dexidp/dex
+  - name: node-oidc-provider
+    github_id: panva/node-oidc-provider
+    category: authentication
+    npm_id: oidc-provider
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -55,6 +63,14 @@ projects:
     github_id: open-policy-agent/opa
     category: authorization
     dockerhub_id: openpolicyagent/opa
+  - name: oauthlib
+    github_id: oauthlib/oauthlib
+    category: authorization
+    pypi_id: oauthlib
+  - name: casl
+    github_id: stalniy/casl
+    category: authorization
+    npm_id: @casl/ability
   - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
@@ -81,5 +97,15 @@ projects:
     github_id: logto-io/logto
     category: idp
     dockerhub_id: svhd/logto
+  - name: zitadel
+    github_id: zitadel/zitadel
+    category: idp
+    dockerhub_id: ghcr.io/zitadel/zitadel
+    helm_id: https://charts.zitadel.com
+  - name: authentik
+    github_id: goauthentik/authentik
+    category: idp
+    helm_id: https://charts.goauthentik.io
+
 
 
