@@ -1,6 +1,7 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  allowed_licenses: ["all"]
 
 categories:
   - category: authorization
