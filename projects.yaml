@@ -12,6 +12,8 @@ categories:
   - category: idp
     title: Identity Providers
     subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
+  - category: standards
+    title: Standard protocols, schemas, formats, etc.
 
 labels:
   # - label: "python"
@@ -23,6 +25,12 @@ projects:
     github_id: nextauthjs/next-auth
     category: authentication
     npm_id: next-auth
+  - name: ory-hydra
+    github_id: ory/hydra
+    group: Yes
+    category: authentication
+    dockerhub_id: oryd/hydra
+    helm_id: https://k8s.ory.sh/helm/charts
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -38,6 +46,14 @@ projects:
     github_id: permify/permify
     category: authorization
     dockerhub_id: ghcr.io/permify/permify
+  - name: oso
+    github_id: osohq/oso
+    category: authorization
+    pypi_id: oso
+  - name: open-policy-agent
+    github_id: open-policy-agent/opa
+    category: authorization
+    dockerhub_id: openpolicyagent/opa
   - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
@@ -50,4 +66,18 @@ projects:
     github_id: freeipa/freeipa
     category: idp
     dockerhub_id: freeipa/freeipa-server
+  - name: ory-kratos
+    github_id: ory/kratos
+    category: idp
+    dockerhub_id: oryd/kratos
+    helm_id: https://k8s.ory.sh/helm/charts
+  - name: cas
+    github_id: apereo/cas
+    category: idp
+    dockerhub_id: apereo/cas
+  - name: logto
+    github_id: logto-io/logto
+    category: idp
+    dockerhub_id: svhd/logto
+
 
