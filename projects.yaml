@@ -6,7 +6,10 @@ configuration:
 categories:
   - category: authorization
     title: Authorization
-    subtitle: "Authorization and access control libraries, tools and projects."
+    subtitle: "Authorization and policy managing libraries, tools and projects."
+  - category: oauth2-oidc
+    title: OAuth2 and OIDC
+    subtitle: "Libraries, middleware and proxies implementing Oauth2 or OIDC"
   - category: authentication
     title: Authentication
     subtitle: "Authentication libraries, tools and projects"
@@ -20,8 +23,12 @@ categories:
 labels:
   - label: ory
     name: ory
+    url: https://www.ory.sh/
     description: "Advanced open source security software solving authentication, authorization, access control, application network security, and delegation. "
-   # add labels? linux foundation, cloud native linux founation, apache foundation, red hat, etc?
+  - label: cncf
+    name: cncf
+    url: https://www.cncf.io/
+    description: "CNCF is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable."
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -29,18 +36,21 @@ projects:
     npm_id: next-auth
   - name: ory-hydra
     github_id: ory/hydra
-    category: authentication
+    category: oauth2-oidc
     labels: ["ory"]
     dockerhub_id: oryd/hydra
     helm_id: https://k8s.ory.sh/helm/charts
   - name: dex
     github_id: dexidp/dex
-    category: authentication
+    category: oauth2-oidc
     dockerhub_id: quay.io/dexidp/dex
   - name: node-oidc-provider
     github_id: panva/node-oidc-provider
-    category: authentication
+    category: oauth2-oidc
     npm_id: oidc-provider
+  - name: identity-server
+    github_id: duendesoftware/identityserver
+    category: oauth2-oidc
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -64,9 +74,10 @@ projects:
     github_id: open-policy-agent/opa
     category: authorization
     dockerhub_id: openpolicyagent/opa
+    labels: ["cncf"]
   - name: oauthlib
     github_id: oauthlib/oauthlib
-    category: authorization
+    category: oauth2-oidc
     pypi_id: oauthlib
   - name: casl
     github_id: stalniy/casl
@@ -78,7 +89,7 @@ projects:
     dockerhub_id: authzed/spicedb
   - name: doorkeeper
     github_id: doorkeeper-gem/doorkeeper
-    category: authorization
+    category: oauth2-oidc
     gem_url: doorkeeper
   - name: cancancan
     github_id: cancancommunity/cancancan
@@ -88,6 +99,7 @@ projects:
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
     category: idp
+    labels: ["cncf"]
   - name: casdoor
     github_id: casdoor/casdoor
     category: idp
@@ -120,6 +132,29 @@ projects:
     github_id: goauthentik/authentik
     category: idp
     helm_id: https://charts.goauthentik.io
+  - name: kanidm
+    github_id: kanidm/kanidm
+    category: idp
+    dockerhub_id: kanidm/server
+  - name: ockam
+    github_id: build-trust/ockam
+    brew_id: build-trust/ockam/ockam
+  - name: cert-manager
+    github_id: cert-manager/cert-manager
+  - name: spiffe
+    github_id: spiffe/spiffe
+    category: standards
+    labels: ["cncf"]
+  - name: spire
+    github_id: spiffe/spire
+    dockerhub_id: ghcr.io/spiffe/spire-server
+  - name: pomerium
+    github_id: pomerium/pomerium
+    dockerhub_id: pomerium/pomerium
+
+
+
+
 
 
 
