@@ -133,7 +133,7 @@ _Authentication libraries, tools and projects_
 
 <details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇40 ·  ⭐ 16K) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 71K · 📋 2.9K - 4% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 72K · 📋 2.9K - 4% open · ⏱️ 12.04.2023):
 
 	```
 	git clone https://github.com/nextauthjs/next-auth
@@ -143,7 +143,7 @@ _Authentication libraries, tools and projects_
 	npm install next-auth
 	```
 </details>
-<details><summary><b><a href="https://github.com/ory/hydra">ory-hydra</a></b> (🥉36 ·  ⭐ 14K · 📉) - OpenID Certified OpenID Connect and OAuth Provider.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ory/hydra">ory-hydra</a></b> (🥉36 ·  ⭐ 14K) - OpenID Certified OpenID Connect and OAuth Provider written in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://raw.githubusercontent.com/ory/docs/53aaacd40cb9d8256bd3f205fad6af1c947c54d7/src/static/img/favico.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/ory/hydra) (👨‍💻 280 · 🔀 1.3K · 📥 530K · 📦 2 · 📋 1.4K - 3% open · ⏱️ 11.04.2023):
 
