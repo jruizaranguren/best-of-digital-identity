@@ -19,7 +19,7 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
-  - name: nextauth.js
+  - name: nextauthjs
     github_id: nextauthjs/next-auth
     category: authentication
     npm_id: next-auth
@@ -34,6 +34,10 @@ projects:
     category: authorization
     dockerhub_id: ghcr.io/cerbos/cerbos
     helm_id: oci://ghcr.io/cerbos/helm-charts/cerbos
+  - name: permify
+    github_id: permify/permify
+    category: authorization
+    dockerhub_id: ghcr.io/permify/permify
   - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
@@ -42,4 +46,8 @@ projects:
     github_id: casdoor/casdoor
     category: idp
     dockerhub_id: casbin/casdoor
+  - name: freeipa
+    github_id: freeipa/freeipa
+    category: idp
+    dockerhub_id: freeipa/freeipa-server
 
