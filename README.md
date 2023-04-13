@@ -10,23 +10,24 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-29-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-33-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 29 awesome open-source projects with a total of 160K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 33 awesome open-source projects with a total of 170K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Authorization](#authorization) _8 projects_
+- [Authorization](#authorization) _10 projects_
 - [OAuth2 and OIDC](#oauth2-and-oidc) _6 projects_
 - [Authentication](#authentication) _1 projects_
 - [Identity Providers](#identity-providers) _9 projects_
 - [Standards](#standards) _1 projects_
-- [Others](#others) _4 projects_
+- [Public Key Infrastructure](#public-key-infrastructure) _4 projects_
+- [Others](#others) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -100,7 +101,7 @@ _Authorization and policy managing libraries, tools and projects._
 	npm install @casl/ability
 	```
 </details>
-<details><summary><b><a href="https://github.com/CanCanCommunity/cancancan">cancancan</a></b> (🥉30 ·  ⭐ 5.3K) - The authorization Gem for Ruby on Rails. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/CanCanCommunity/cancancan">cancancan</a></b> (🥈30 ·  ⭐ 5.3K) - The authorization Gem for Ruby on Rails. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/CanCanCommunity/cancancan) (👨‍💻 220 · 🔀 600 · 📦 40K · 📋 400 - 9% open · ⏱️ 03.04.2023):
 
@@ -108,7 +109,7 @@ _Authorization and policy managing libraries, tools and projects._
 	git clone https://github.com/cancancommunity/cancancan
 	```
 </details>
-<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥉30 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈30 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/authzed/spicedb) (👨‍💻 26 · 🔀 170 · 📥 11K · 📦 22 · 📋 320 - 30% open · ⏱️ 13.04.2023):
 
@@ -118,6 +119,18 @@ _Authorization and policy managing libraries, tools and projects._
 - [Docker Hub](https://hub.docker.com/r/authzed/spicedb) (📥 150K · ⭐ 4 · ⏱️ 13.04.2023):
 	```
 	docker pull authzed/spicedb
+	```
+</details>
+<details><summary><b><a href="https://github.com/ory/keto">keto</a></b> (🥉28 ·  ⭐ 4K · ➕) - Open Source (Go) implementation of Zanzibar: Googles Consistent,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
+
+- [GitHub](https://github.com/ory/keto) (👨‍💻 65 · 🔀 280 · 📥 14K · 📦 2 · 📋 290 - 15% open · ⏱️ 11.04.2023):
+
+	```
+	git clone https://github.com/ory/keto
+	```
+- [Docker Hub](https://hub.docker.com/r/oryd/keto) (📥 43M · ⭐ 6 · ⏱️ 09.03.2023):
+	```
+	docker pull oryd/keto
 	```
 </details>
 <details><summary><b><a href="https://github.com/osohq/oso">oso</a></b> (🥉28 ·  ⭐ 3K) - Oso is a batteries-included framework for building authorization in your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -154,6 +167,14 @@ _Authorization and policy managing libraries, tools and projects._
 - [Docker Hub](https://hub.docker.com/r/ghcr.io/permify/permify):
 	```
 	docker pull ghcr.io/permify/permify
+	```
+</details>
+<details><summary><b><a href="https://github.com/ory/ladon">ladon</a></b> (🥉17 ·  ⭐ 2.2K · ➕) - A SDK for access control policies: authorization for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
+
+- [GitHub](https://github.com/ory/ladon) (👨‍💻 49 · 🔀 210 · 📋 57 - 7% open · ⏱️ 17.03.2023):
+
+	```
+	git clone https://github.com/ory/ladon
 	```
 </details>
 <br>
@@ -222,7 +243,7 @@ _Libraries, middleware and proxies implementing Oauth2 or OIDC_
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉28 ·  ⭐ 980 · ➕) - The most flexible and standards-compliant OpenID.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉28 ·  ⭐ 980) - The most flexible and standards-compliant OpenID.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -332,7 +353,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/goauthentik/authentik
 	```
 </details>
-<details><summary><b><a href="https://github.com/kanidm/kanidm">kanidm</a></b> (🥉25 ·  ⭐ 1.4K · ➕) - Kanidm: A simple, secure and fast identity management platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/kanidm/kanidm">kanidm</a></b> (🥉25 ·  ⭐ 1.4K) - Kanidm: A simple, secure and fast identity management platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/kanidm/kanidm) (👨‍💻 40 · 🔀 79 · 📥 18 · 📦 42 · 📋 440 - 23% open · ⏱️ 13.04.2023):
 
@@ -364,7 +385,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
 _Standard protocols, schemas, formats, etc._
 
-<details><summary><b><a href="https://github.com/spiffe/spiffe">spiffe</a></b> (🥇17 ·  ⭐ 1.2K · ➕) - The SPIFFE Project. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/spiffe/spiffe">spiffe</a></b> (🥇17 ·  ⭐ 1.2K) - The SPIFFE Project. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/spiffe/spiffe) (👨‍💻 55 · 🔀 140 · 📋 54 - 31% open · ⏱️ 13.04.2023):
 
@@ -374,11 +395,13 @@ _Standard protocols, schemas, formats, etc._
 </details>
 <br>
 
-## Others
+## Public Key Infrastructure
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/cert-manager/cert-manager">cert-manager</a></b> (🥇39 ·  ⭐ 10K · ➕) - Automatically provision and manage TLS certificates in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+_Tools, proxies, secured communications, certificate mangers_
+
+<details><summary><b><a href="https://github.com/cert-manager/cert-manager">cert-manager</a></b> (🥇39 ·  ⭐ 10K) - Automatically provision and manage TLS certificates in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/cert-manager/cert-manager) (👨‍💻 390 · 🔀 1.8K · 📥 44M · 📦 430 · 📋 3K - 5% open · ⏱️ 13.04.2023):
 
@@ -386,7 +409,41 @@ _Standard protocols, schemas, formats, etc._
 	git clone https://github.com/cert-manager/cert-manager
 	```
 </details>
-<details><summary><b><a href="https://github.com/pomerium/pomerium">pomerium</a></b> (🥈32 ·  ⭐ 3.5K · ➕) - Pomerium is an identity and context-aware access proxy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/build-trust/ockam">ockam</a></b> (🥈32 ·  ⭐ 3K) - Orchestrate end-to-end encryption, cryptographic identities, mutual.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/build-trust/ockam) (👨‍💻 180 · 🔀 320 · 📥 170K · 📦 180 · 📋 1.1K - 15% open · ⏱️ 13.04.2023):
+
+	```
+	git clone https://github.com/build-trust/ockam
+	```
+</details>
+<details><summary><b><a href="https://github.com/AthenZ/athenz">athenz</a></b> (🥉23 ·  ⭐ 760 · ➕) - Open source platform for X.509 certificate based service.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/AthenZ/athenz) (👨‍💻 70 · 🔀 230 · 📋 200 - 14% open · ⏱️ 12.04.2023):
+
+	```
+	git clone https://github.com/athenz/athenz
+	```
+</details>
+<details><summary><b><a href="https://github.com/salesforce/ja3">ja3</a></b> (🥉18 ·  ⭐ 2K · ➕) - JA3 is a standard for creating SSL client fingerprints in an easy to.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/salesforce/ja3) (👨‍💻 23 · 🔀 250 · 📋 51 - 56% open · ⏱️ 28.03.2023):
+
+	```
+	git clone https://github.com/salesforce/ja3
+	```
+- [PyPi](https://pypi.org/project/pyja3) (📥 1.4K / month):
+	```
+	pip install pyja3
+	```
+</details>
+<br>
+
+## Others
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/pomerium/pomerium">pomerium</a></b> (🥇32 ·  ⭐ 3.5K) - Pomerium is an identity and context-aware access proxy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/pomerium/pomerium) (👨‍💻 88 · 🔀 270 · 📥 41K · 📦 12 · 📋 850 - 7% open · ⏱️ 10.04.2023):
 
@@ -398,15 +455,7 @@ _Standard protocols, schemas, formats, etc._
 	docker pull pomerium/pomerium
 	```
 </details>
-<details><summary><b><a href="https://github.com/build-trust/ockam">ockam</a></b> (🥈32 ·  ⭐ 3K · ➕) - Orchestrate end-to-end encryption, cryptographic identities, mutual.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/build-trust/ockam) (👨‍💻 180 · 🔀 320 · 📥 170K · 📦 180 · 📋 1.1K - 15% open · ⏱️ 13.04.2023):
-
-	```
-	git clone https://github.com/build-trust/ockam
-	```
-</details>
-<details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥈32 ·  ⭐ 1.4K · ➕) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥇32 ·  ⭐ 1.4K) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/spiffe/spire) (👨‍💻 150 · 🔀 360 · 📥 120K · 📦 110 · 📋 1.2K - 16% open · ⏱️ 13.04.2023):
 
