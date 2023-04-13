@@ -30,6 +30,7 @@ projects:
     github_id: ory/hydra
     group: Yes
     category: authentication
+    group_id: ory
     dockerhub_id: oryd/hydra
     helm_id: https://k8s.ory.sh/helm/charts
   - name: casbin
@@ -71,6 +72,7 @@ projects:
     github_id: ory/kratos
     category: idp
     dockerhub_id: oryd/kratos
+    group_id: ory
     helm_id: https://k8s.ory.sh/helm/charts
   - name: cas
     github_id: apereo/cas
