@@ -1,8 +1,1 @@
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K · ➕) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥉27 ·  ⭐ 5.8K · ➕) - An open-source Identity and Access Management (IAM) / Single-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="{}">nextauth.js</a></b> (🥇6 · ➕) -  <code>❗Unlicensed</code>
-
+Nothing changed from last update.
