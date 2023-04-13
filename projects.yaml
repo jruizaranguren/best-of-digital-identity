@@ -13,7 +13,8 @@ categories:
     title: Identity Providers
     subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
   - category: standards
-    title: Standard protocols, schemas, formats, etc.
+    title: Standards
+    subtitle: "Standard protocols, schemas, formats, etc."
 
 labels:
   # - label: "python"
