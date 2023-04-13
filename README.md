@@ -89,7 +89,7 @@ _Authentication libraries, tools and projects_
 
 _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
-<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K · ➕) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern Applications.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 27% open · ⏱️ 13.04.2023):
 
@@ -101,7 +101,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull quay.io/keycloak/keycloak
 	```
 </details>
-<details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥉27 ·  ⭐ 5.8K · ➕) - An open-source Identity and Access Management (IAM) / Single-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥉27 ·  ⭐ 5.8K) - An open-source Identity and Access Management (IAM) / Single-Sign-On.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 670 · 📦 1 · 📋 730 - 14% open · ⏱️ 13.04.2023):
 
