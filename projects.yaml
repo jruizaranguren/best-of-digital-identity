@@ -19,20 +19,25 @@ labels:
   #   description: "Best-of list with Python projects"
 
 projects:
+  - name: nextauth.js
+    github_id: nextauthjs/next-auth
+    category: authentication
+    npm_id: next-auth
   - name: casbin
     github_id: casbin/casbin
     category: authorization
     pypi_id: casbin
     npm_id: casbin
     maven_id: org.casbin:casbin-spring-boot-starter
+  - name: cerbos
+    github_id: cerbos/cerbos
+    category: authorization
+    dockerhub_id: ghcr.io/cerbos/cerbos
+    helm_id: oci://ghcr.io/cerbos/helm-charts/cerbos
   - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
     category: idp
-  - name: nextauth.js
-    github_id: nextauthjs/next.auth
-    category: authentication
-    npm_id: next-auth
   - name: casdoor
     github_id: casdoor/casdoor
     category: idp
