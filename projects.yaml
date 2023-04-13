@@ -70,7 +70,19 @@ projects:
   - name: casl
     github_id: stalniy/casl
     category: authorization
-    npm_id: @casl/ability
+    npm_id: "@casl/ability"
+  - name: spicedb
+    github_id: authzed/spicedb
+    category: authorization
+    dockerhub_id: authzed/spicedb
+  - name: doorkeeper
+    github_id: doorkeeper-gem/doorkeeper
+    category: authorization
+    gem_url: doorkeeper
+  - name: cancancan
+    github_id: cancancommunity/cancancan
+    category: authorization
+    gem_url: cancancan
   - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
@@ -97,6 +109,7 @@ projects:
     github_id: logto-io/logto
     category: idp
     dockerhub_id: svhd/logto
+    license: MPL-2.0
   - name: zitadel
     github_id: zitadel/zitadel
     category: idp
