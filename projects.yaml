@@ -3,9 +3,15 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  - category: "authorization"
-    title: "Authorization"
+  - category: authorization
+    title: Authorization
     subtitle: "Authorization and access control libraries, tools and projects."
+  - category: authentication
+    title: Authentication
+    subtitle: "Authentication libraries, tools and projects"
+  - category: idp
+    title: Identity Providers
+    subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
 
 labels:
   # - label: "python"
@@ -19,3 +25,16 @@ projects:
     pypi_id: casbin
     npm_id: casbin
     maven_id: org.casbin:casbin-spring-boot-starter
+  - name: keycloak
+    github_id: keycloak/keycloak
+    dockerhub_id: quay.io/keycloak/keycloak
+    category: idp
+  - name: nextauth.js
+    github_id: nextauthjs/next.auth
+    category: authentication
+    npm_id: next-auth
+  - name: casdoor
+    github_id: casdoor/casdoor
+    category: idp
+    dockerhub_id: casbin/casdoor
+
