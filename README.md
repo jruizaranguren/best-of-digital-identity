@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-46-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-56-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 46 awesome open-source projects with a total of 200K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 56 awesome open-source projects with a total of 200K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -28,7 +28,7 @@ This curated list contains 46 awesome open-source projects with a total of 200K 
 - [Standards](#standards) _1 projects_
 - [Public Key Infrastructure](#public-key-infrastructure) _5 projects_
 - [DNS and Service Discovery](#dns-and-service-discovery) _1 projects_
-- [Decentralized Identity](#decentralized-identity) _4 projects_
+- [Decentralized Identity](#decentralized-identity) _8 projects_
 - [Others](#others) _2 projects_
 
 ## Explanation
@@ -139,7 +139,7 @@ _Authorization and policy managing libraries, tools and projects._
 	pip install oso
 	```
 </details>
-<details><summary><b><a href="https://github.com/cerbos/cerbos">cerbosreact-native-white-label-app</a></b> (🥉26 ·  ⭐ 1.3K · ➕) - Cerbos is the open core, language-agnostic, scalable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cerbos/cerbos">cerbosreact-native-white-label-app</a></b> (🥉26 ·  ⭐ 1.3K) - Cerbos is the open core, language-agnostic, scalable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/cerbos/cerbos) (👨‍💻 18 · 🔀 61 · 📥 32K · 📦 11 · 📋 230 - 16% open · ⏱️ 14.04.2023):
 
@@ -249,7 +249,7 @@ _Authentication libraries, tools and projects_
 
 <details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇40 ·  ⭐ 16K) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 72K · 📋 2.9K - 4% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 520 · 🔀 1.9K · 📦 72K · 📋 2.9K - 3% open · ⏱️ 12.04.2023):
 
 	```
 	git clone https://github.com/nextauthjs/next-auth
@@ -269,7 +269,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
 <details><summary><b><a href="https://github.com/keycloak/keycloak">cancancan</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
-- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 27% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/keycloak/keycloak
@@ -281,7 +281,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/ory/kratos">ory-kratos</a></b> (🥇36 ·  ⭐ 8.4K) - Next-gen identity server (think Auth0, Okta, Firebase) with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
 
-- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 720 · 📥 28K · 📦 310 · 📋 1.1K - 20% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 720 · 📥 28K · 📦 310 · 📋 1.1K - 20% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/ory/kratos
@@ -318,7 +318,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	```
 	git clone https://github.com/casdoor/casdoor
 	```
-- [Docker Hub](https://hub.docker.com/r/casbin/casdoor) (📥 44K · ⭐ 6 · ⏱️ 13.04.2023):
+- [Docker Hub](https://hub.docker.com/r/casbin/casdoor) (📥 44K · ⭐ 6 · ⏱️ 14.04.2023):
 	```
 	docker pull casbin/casdoor
 	```
@@ -335,9 +335,9 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull svhd/logto
 	```
 </details>
-<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥈27 ·  ⭐ 3.1K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥈27 ·  ⭐ 3.2K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 51 · 🔀 170 · 📥 1.9K · 📦 1 · 📋 1.4K - 23% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 51 · 🔀 170 · 📥 1.9K · 📦 1 · 📋 1.4K - 23% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/zitadel/zitadel
@@ -413,7 +413,7 @@ _Tools, proxies, secured communications, certificate mangers_
 
 <details><summary><b><a href="https://github.com/cert-manager/cert-manager">cert-manager</a></b> (🥇39 ·  ⭐ 10K) - Automatically provision and manage TLS certificates in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/cert-manager/cert-manager) (👨‍💻 390 · 🔀 1.8K · 📥 44M · 📦 430 · 📋 3K - 5% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/cert-manager/cert-manager) (👨‍💻 390 · 🔀 1.8K · 📥 44M · 📦 440 · 📋 3K - 5% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/cert-manager/cert-manager
@@ -487,7 +487,50 @@ _Tools and projects for DNS and service and device discovery_
 
 _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
-<details><summary><b><a href="https://github.com/Sphereon-Opensource/ssi-sdk">sphereon-ssi</a></b> (🥇24 ·  ⭐ 120 · ➕) - Self Sovereign Identity SDK extending Veramo.</summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries">aries</a></b> (🥇34 ·  ⭐ 1.5K · ➕) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer..</summary>
+
+
+---
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥇26 ·  ⭐ 220 · ➕) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 56 · 🔀 140 · 📦 280 · 📋 1.6K - 24% open · ⏱️ 10.04.2023):
+
+	```
+	git clone https://github.com/hyperledger/aries-framework-go
+	```
+</details>
+<details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥇24 ·  ⭐ 340 · ➕) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hyperledger/aries-cloudagent-python) (👨‍💻 110 · 🔀 390 · 📋 890 - 19% open · ⏱️ 06.04.2023):
+
+	```
+	git clone https://github.com/hyperledger/aries-cloudagent-python
+	```
+</details>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-javascript">aries-framework-javascript</a></b> (🥈21 ·  ⭐ 180 · ➕) - Aries Framework JavaScript (Built using TypeScript). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hyperledger/aries-framework-javascript) (👨‍💻 50 · 🔀 120 · 📦 2 · 📋 540 - 27% open · ⏱️ 14.04.2023):
+
+	```
+	git clone https://github.com/hyperledger/aries-framework-javascript
+	```
+</details>
+<details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥈19 ·  ⭐ 300 · ➕) - Hyperledger Aries is infrastructure for blockchain-rooted,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hyperledger/aries-rfcs) (👨‍💻 84 · 🔀 200 · 📋 220 - 21% open · ⏱️ 31.03.2023):
+
+	```
+	git clone https://github.com/hyperledger/aries-rfcs
+	```
+</details>
+
+<br>
+
+ _3 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<details><summary><b><a href="https://github.com/Sphereon-Opensource/ssi-sdk">sphereon-ssi</a></b> (🥇24 ·  ⭐ 120) - Self Sovereign Identity SDK extending Veramo.</summary>
 
 
 ---
@@ -498,7 +541,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/walt-id/waltid-ssikit">waltid-ssikit</a></b> (🥇23 ·  ⭐ 120) - Use web3 identity / self-sovereign identity (SSI).</summary>
+<details><summary><b><a href="https://github.com/walt-id/waltid-ssikit">waltid-ssikit</a></b> (🥈23 ·  ⭐ 120) - Use web3 identity / self-sovereign identity (SSI).</summary>
 
 
 ---
@@ -509,7 +552,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/uport-project/veramo">veramo</a></b> (🥈21 ·  ⭐ 300 · ➕) - A JavaScript Framework for Verifiable Data. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/uport-project/veramo">veramo</a></b> (🥈21 ·  ⭐ 300) - A JavaScript Framework for Verifiable Data. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/uport-project/veramo) (👨‍💻 48 · 🔀 95 · 📋 390 - 14% open · ⏱️ 11.04.2023):
 
@@ -517,9 +560,12 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/uport-project/veramo
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary>Show 4 hidden projects...</summary>
 
+- <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 48 · ➕) - Trinsic SDK repository.
+- <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥈19 ·  ⭐ 24 · ➕) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and..
 - <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥈18 ·  ⭐ 89) - Evernym Verity is a decentralized protocol platform for issuing and..
+- <b><a href="https://github.com/0xPolygonID/sh-id-platform">polygon-id</a></b> (🥉15 ·  ⭐ 51 · 🐣) - Self Hosted ID Platform.
 </details>
 <br>
 
