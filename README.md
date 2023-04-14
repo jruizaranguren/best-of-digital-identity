@@ -267,9 +267,9 @@ _Authentication libraries, tools and projects_
 
 _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
-<details><summary><b><a href="https://github.com/keycloak/keycloak">cancancan</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K · ➕) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
-- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 27% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/keycloak/keycloak
@@ -487,11 +487,11 @@ _Tools and projects for DNS and service and device discovery_
 
 _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
-<details><summary><b><a href="https://github.com/hyperledger/aries">aries</a></b> (🥇34 ·  ⭐ 1.5K · ➕) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer..</summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries">aries</a></b> (🥇34 ·  ⭐ 1.5K) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer..</summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥇26 ·  ⭐ 220 · ➕) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥇26 ·  ⭐ 220) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 56 · 🔀 140 · 📦 280 · 📋 1.6K - 24% open · ⏱️ 10.04.2023):
 
@@ -499,7 +499,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-framework-go
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥇24 ·  ⭐ 340 · ➕) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥇24 ·  ⭐ 340) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-cloudagent-python) (👨‍💻 110 · 🔀 390 · 📋 890 - 19% open · ⏱️ 06.04.2023):
 
@@ -507,7 +507,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-cloudagent-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-framework-javascript">aries-framework-javascript</a></b> (🥈21 ·  ⭐ 180 · ➕) - Aries Framework JavaScript (Built using TypeScript). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-javascript">aries-framework-javascript</a></b> (🥈21 ·  ⭐ 180) - Aries Framework JavaScript (Built using TypeScript). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-framework-javascript) (👨‍💻 50 · 🔀 120 · 📦 2 · 📋 540 - 27% open · ⏱️ 14.04.2023):
 
@@ -515,7 +515,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-framework-javascript
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥈19 ·  ⭐ 300 · ➕) - Hyperledger Aries is infrastructure for blockchain-rooted,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥈19 ·  ⭐ 300) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-rfcs) (👨‍💻 84 · 🔀 200 · 📋 220 - 21% open · ⏱️ 31.03.2023):
 
@@ -562,8 +562,8 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-- <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 48 · ➕) - Trinsic SDK repository.
-- <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥈19 ·  ⭐ 24 · ➕) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and..
+- <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 48) - Trinsic SDK repository.
+- <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥈19 ·  ⭐ 24) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and NFT..
 - <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥈18 ·  ⭐ 89) - Evernym Verity is a decentralized protocol platform for issuing and..
 - <b><a href="https://github.com/0xPolygonID/sh-id-platform">polygon-id</a></b> (🥉15 ·  ⭐ 51 · 🐣) - Self Hosted ID Platform.
 </details>
