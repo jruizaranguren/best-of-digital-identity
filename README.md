@@ -10,24 +10,26 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-37-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-40-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 37 awesome open-source projects with a total of 200K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 40 awesome open-source projects with a total of 200K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Authorization](#authorization) _10 projects_
+- [Authorization](#authorization) _9 projects_
 - [OAuth2 and OIDC](#oauth2-and-oidc) _6 projects_
 - [Authentication](#authentication) _1 projects_
 - [Identity Providers](#identity-providers) _11 projects_
 - [Standards](#standards) _1 projects_
 - [Public Key Infrastructure](#public-key-infrastructure) _5 projects_
 - [DNS and Service Discovery](#dns-and-service-discovery) _1 projects_
+- [Identity Wallets](#identity-wallets) _1 projects_
+- [Decentralized Identity](#decentralized-identity) _0 projects_
 - [Others](#others) _2 projects_
 
 ## Explanation
@@ -100,14 +102,6 @@ _Authorization and policy managing libraries, tools and projects._
 - [npm](https://www.npmjs.com/package/@casl/ability) (📥 1.7M / month):
 	```
 	npm install @casl/ability
-	```
-</details>
-<details><summary><b><a href="https://github.com/CanCanCommunity/cancancan">cancancan</a></b> (🥈30 ·  ⭐ 5.3K) - The authorization Gem for Ruby on Rails. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/CanCanCommunity/cancancan) (👨‍💻 220 · 🔀 600 · 📦 40K · 📋 400 - 9% open · ⏱️ 03.04.2023):
-
-	```
-	git clone https://github.com/cancancommunity/cancancan
 	```
 </details>
 <details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈30 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -274,9 +268,9 @@ _Authentication libraries, tools and projects_
 
 _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
-<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/keycloak/keycloak">cancancan</a></b> (🥇36 ·  ⭐ 16K · 📈) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
-- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/keycloak/keycloak
@@ -310,9 +304,9 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull apereo/cas
 	```
 </details>
-<details><summary><b><a href="https://github.com/authelia/authelia">authelia</a></b> (🥈29 ·  ⭐ 16K · ➕) - The Single Sign-On Multi-Factor portal for web apps. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/authelia/authelia">authelia</a></b> (🥈29 ·  ⭐ 16K) - The Single Sign-On Multi-Factor portal for web apps. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/authelia/authelia) (👨‍💻 120 · 🔀 890 · 📥 19K · 📦 2 · 📋 1.1K - 6% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/authelia/authelia) (👨‍💻 120 · 🔀 890 · 📥 19K · 📦 2 · 📋 1.1K - 6% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/authelia/authelia
@@ -320,7 +314,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥈27 ·  ⭐ 5.8K) - An open-source Identity and Access Management (IAM) / Single-Sign-On.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 680 · 📦 1 · 📋 730 - 14% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 680 · 📦 1 · 📋 730 - 14% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/casdoor/casdoor
@@ -354,7 +348,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull ghcr.io/zitadel/zitadel
 	```
 </details>
-<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥈27 ·  ⭐ 190 · ➕) - Welcome to the Janssen Project, an open standards-based.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥈27 ·  ⭐ 190) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 47 · 📥 610 · 📋 2K - 14% open · ⏱️ 14.04.2023):
 
@@ -434,7 +428,7 @@ _Tools, proxies, secured communications, certificate mangers_
 	git clone https://github.com/build-trust/ockam
 	```
 </details>
-<details><summary><b><a href="https://github.com/letsencrypt/boulder">boulder</a></b> (🥈28 ·  ⭐ 4.6K · ➕) - An ACME-based certificate authority, written in Go. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/letsencrypt/boulder">boulder</a></b> (🥈28 ·  ⭐ 4.6K) - An ACME-based certificate authority, written in Go. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/letsencrypt/boulder) (👨‍💻 120 · 🔀 520 · 📥 51K · 📋 2.8K - 6% open · ⏱️ 13.04.2023):
 
@@ -474,7 +468,7 @@ _Tools, proxies, secured communications, certificate mangers_
 
 _Tools and projects for DNS and service and device discovery_
 
-<details><summary><b><a href="https://github.com/coredns/coredns">coredns</a></b> (🥇41 ·  ⭐ 11K · ➕) - CoreDNS is a DNS server that chains plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/coredns/coredns">coredns</a></b> (🥇41 ·  ⭐ 11K) - CoreDNS is a DNS server that chains plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/coredns/coredns) (👨‍💻 350 · 🔀 1.8K · 📥 6.7M · 📦 5K · 📋 2.1K - 2% open · ⏱️ 13.04.2023):
 
@@ -486,6 +480,31 @@ _Tools and projects for DNS and service and device discovery_
 	docker pull coredns/coredns
 	```
 </details>
+<br>
+
+## Identity Wallets
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/walt-id/waltid-ssikit">waltid-ssikit</a></b> (🥇23 ·  ⭐ 120 · ➕) - Use web3 identity / self-sovereign identity (SSI).</summary>
+
+
+---
+
+<br>
+
+ _4 projects are hidden because they don't fulfill the minimal requirements._
+
+---
+</details>
+<br>
+
+## Decentralized Identity
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Trusted digital identity, Self-sovereign identity and decentralized identity projects_
+
 <br>
 
 ## Others
