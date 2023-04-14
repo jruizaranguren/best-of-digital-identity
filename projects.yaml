@@ -71,7 +71,7 @@ projects:
     pypi_id: casbin
     npm_id: casbin
     maven_id: org.casbin:casbin-spring-boot-starter
-  - name: cerbosreact-native-white-label-app
+  - name: cerbos
     github_id: cerbos/cerbos
     category: authorization
     dockerhub_id: ghcr.io/cerbos/cerbos
