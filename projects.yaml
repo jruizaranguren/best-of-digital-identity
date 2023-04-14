@@ -25,6 +25,12 @@ categories:
   - category: discovery
     title: DNS and Service Discovery
     subtitle: "Tools and projects for DNS and service and device discovery"
+  - category: wallet
+    title: Identity Wallets
+    subtitule: "Identity Wallets, sdks, libraries and components"
+  - category: decentralized
+    title: Decentralized Identity
+    subtitle: "Trusted digital identity, Self-sovereign identity and decentralized identity projects"
 
 labels:
   - label: ory
@@ -112,10 +118,6 @@ projects:
     category: oauth2-oidc
     gem_url: doorkeeper
   - name: cancancan
-    github_id: cancancommunity/cancancan
-    category: authorization
-    gem_url: cancancan
-  - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
     category: idp
@@ -204,6 +206,33 @@ projects:
     category: discovery
     labels: ["linux-foundation", "cncf"]
     dockerhub_id: coredns/coredns
+  - name: waltid-ssikit
+    github_id: walt-id/waltid-ssikit
+    category: wallet
+    dockerhub_id: waltid/ssikit
+    group_id: waltid-ssikit
+    group: Yes
+  - name: waltid-walletkit
+    github_id: walt-id/waltid-walletkit
+    category: wallet
+    dockerhub_id: waltid/walletkit
+    group_id: waltid-ssikit
+  - name: waltid-web-wallet
+    github_id: walt-id/waltid-web-wallet
+    category: wallet
+    dockerhub_id: waltid/ssikit-web-wallet
+    group_id: waltid-ssikit
+  - name: waltid-idpkit
+    github_id: walt-id/waltid-idpkit
+    category: wallet
+    dockerhub_id: waltid/idpkit
+    group_id: waltid-ssikit
+  - name: waltid-storagekit
+    github_id: walt-id/waltid-storagekit
+    category: wallet
+    group_id: waltid-ssikit
+
+
 
 
 
