@@ -71,7 +71,7 @@ projects:
     pypi_id: casbin
     npm_id: casbin
     maven_id: org.casbin:casbin-spring-boot-starter
-  - name: cerbos
+  - name: cerbosreact-native-white-label-app
     github_id: cerbos/cerbos
     category: authorization
     dockerhub_id: ghcr.io/cerbos/cerbos
@@ -249,13 +249,27 @@ projects:
     github_id: evernym/connectme
     group_id: evernym-ssi
     category: decentralized
-
-
-
-
-
-
-
-
-
-
+  - name: sphereon-ssi
+    github_id: sphereon-opensource/ssi-sdk
+    group_id: sphereon-ssi
+    group: Yes
+    category: decentralized
+  - name: openid4vci
+    github_id: sphereon-opensource/openid4vci
+    group_id: sphereon-ssi
+    category: decentralized
+  - name: ssi-mobile-wallet
+    github_id: sphereon-opensource/ssi-mobile-wallet
+    group_id: sphereon-ssi
+    category: decentralized
+  - name: pex
+    github_id: sphereon-opensource/pex
+    group_id: sphereon-ssi
+    category: decentralized
+  - name: siop-oid4vp
+    github_id: sphereon-opensource/siop-oid4vp
+    group_id: sphereon-ssi
+    category: decentralized
+  - name: veramo
+    github_id: uport-project/veramo
+    category: decentralized
