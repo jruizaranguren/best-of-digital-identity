@@ -22,6 +22,9 @@ categories:
   - category: pki
     title: Public Key Infrastructure
     subtitle: "Tools, proxies, secured communications, certificate mangers"
+  - category: discovery
+    title: DNS and Service Discovery
+    subtitle: "Tools and projects for DNS and service and device discovery"
 
 labels:
   - label: ory
@@ -32,6 +35,10 @@ labels:
     name: cncf
     url: https://www.cncf.io/
     description: "CNCF is the open source, vendor-neutral hub of cloud native computing, hosting projects like Kubernetes and Prometheus to make cloud native universal and sustainable."
+  - label: linux-foundation
+    name: linux-foundation
+    url: https://www.linuxfoundation.org/
+    description: "The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems."
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -47,6 +54,7 @@ projects:
     github_id: dexidp/dex
     category: oauth2-oidc
     dockerhub_id: quay.io/dexidp/dex
+    labels: ["linux-foundation"]
   - name: node-oidc-provider
     github_id: panva/node-oidc-provider
     category: oauth2-oidc
@@ -86,7 +94,7 @@ projects:
     github_id: open-policy-agent/opa
     category: authorization
     dockerhub_id: openpolicyagent/opa
-    labels: ["cncf"]
+    labels: ["cncf", "linux-foundation"]
   - name: oauthlib
     github_id: oauthlib/oauthlib
     category: oauth2-oidc
@@ -148,6 +156,13 @@ projects:
     github_id: kanidm/kanidm
     category: idp
     dockerhub_id: kanidm/server
+  - name: authelia
+    github_id: authelia/authelia
+    category: idp
+  - name: jansen
+    github_id: janssenproject/jans
+    category: idp
+    labels: ["linux-foundation"]
   - name: ockam
     github_id: build-trust/ockam
     brew_id: build-trust/ockam/ockam
@@ -155,19 +170,22 @@ projects:
   - name: cert-manager
     github_id: cert-manager/cert-manager
     category: pki
+    labels: ["linux-foundation"]
   - name: spiffe
     github_id: spiffe/spiffe
     category: standards
-    labels: ["cncf"]
+    labels: ["cncf", "linux-foundation"]
   - name: spire
     github_id: spiffe/spire
     dockerhub_id: ghcr.io/spiffe/spire-server
+    labels:  ["cncf", "linux-foundation"]
   - name: pomerium
     github_id: pomerium/pomerium
     dockerhub_id: pomerium/pomerium
   - name: athenz
     github_id: athenz/athenz
     category: pki
+    labels: ["linux-foundation"]
   - name: ja3
     github_id: salesforce/ja3
     category: pki
@@ -176,6 +194,16 @@ projects:
     github_id: cloudfare/cfssl
     category: pki
     dockerhub_id: cfssl/cfssl
+  - name: boulder
+    github_id: letsencrypt/boulder
+    category: pki
+    dockerhub_id: letsencrypt/boulder-tools
+    labels: ["linux-foundation"]
+  - name: coredns
+    github_id: coredns/coredns
+    category: discovery
+    labels: ["linux-foundation", "cncf"]
+    dockerhub_id: coredns/coredns
 
 
 
