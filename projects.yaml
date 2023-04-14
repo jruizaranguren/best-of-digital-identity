@@ -273,3 +273,88 @@ projects:
   - name: veramo
     github_id: uport-project/veramo
     category: decentralized
+  - name: spruceid
+    github_id: spruceid/ddkit
+    group_id: spruceid
+    group: Yes
+    dockerhub_id: ghcr.io/spruceid/didkit-http
+    category: decentralized
+  - name: spruceid-ssi
+    github_id: spruceid/ssi
+    group_id: spruceid
+    category: decentralized
+  - name: credible
+    github_id: spruceid/credible
+    group_id: spruceid
+    category: decentralized
+  - name: trinsic-id
+    github_id: trinsic-id/sdk
+    group_id: trinsic-id
+    group: Yes
+    category: decentralized
+  - name: trinsic-okapi
+    github_id: trinsic-id/okapi
+    group_id: trinsic-id
+    category: decentralized
+  - name: polygon-id
+    github_id: 0xPolygonID/sh-id-platform
+    group_id: polygon-id
+    group: Yes
+    category: decentralized
+  - name: polygon-js-sdk
+    github_id: 0xPolygonID/js-sdk
+    group_id: polygon-id
+    category: decentralized
+  - name: talao-altme
+    github_id: talaodao/altme
+    group_id: talao-altme
+    group: Yes
+    category: decentralized
+  - name: talao-wallet
+    github_id: talaodao/talao-wallet
+    group_id: talao-altme
+    category: decentralized
+  - name: aries
+    github_id: hyperledger/aries
+    group_id: aries
+    group: Yes
+    category: decentralized
+  - name: aries-rfcs
+    github_id: hyperledger/aries-rfcs
+    group_id: aries
+    category: decentralized
+  - name: aries-python
+    github_id: hyperledger/aries-cloudagent-python
+    group_id: aries
+    category: decentralized
+  - name: aries-mobile-agent-react-native
+    github_id: hyperledger/aries-mobile-agent-react-native
+    group_id: aries
+    category: decentralized
+  - name: aries-framework-dotnet
+    github_id: hyperledger/aries-framework-dotnet
+    group_id: aries
+    category: decentralized
+  - name: aries-framework-go
+    github_id: hyperledger/aries-framework-go
+    group_id: aries
+    category: decentralized
+  - name: aries-framework-javascript
+    github_id: hyperledger/aries-framework-javascript
+    group_id: aries
+    category: decentralized
+  - name: aries-vcx
+    github_id: hyperledger/aries-vcx
+    group_id: aries
+    category: decentralized
+
+
+
+
+
+
+
+
+
+
+
