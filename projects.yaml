@@ -114,7 +114,7 @@ projects:
     github_id: doorkeeper-gem/doorkeeper
     category: oauth2-oidc
     gem_url: doorkeeper
-  - name: cancancan
+  - name: keycloak
     github_id: keycloak/keycloak
     dockerhub_id: quay.io/keycloak/keycloak
     category: idp
