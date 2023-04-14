@@ -2,9 +2,11 @@
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥈18 ·  ⭐ 89 · ➕) - Evernym Verity is a decentralized protocol platform for issuing and..
-- <b><a href="https://github.com/evernym/verity-sdk">verity-sdk</a></b> (🥈14 ·  ⭐ 44 · ➕) - Evernym Verity is a decentralized protocol platform for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/evernym/mobile-sdk">mobile-sdk</a></b> (🥉13 ·  ⭐ 15 · ➕) - Evernyms SDK for building mobile identity agents. This is a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/evernym/react-native-white-label-app">react-native-white-label-app</a></b> (🥉12 ·  ⭐ 9 · ➕) - The Evernym React Native White Label App uses the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/evernym/ConnectMe">connectme</a></b> (🥉6 ·  ⭐ 1 · ➕) - Evernyms Connect.Me is an industry leading mobile identity wallet.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/ssi-sdk">sphereon-ssi</a></b> (🥇24 ·  ⭐ 120 · ➕) - Self Sovereign Identity SDK extending Veramo.
+- <b><a href="https://github.com/cerbos/cerbos">cerbosreact-native-white-label-app</a></b> (🥉26 ·  ⭐ 1.3K · ➕) - Cerbos is the open core, language-agnostic, scalable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/uport-project/veramo">veramo</a></b> (🥈21 ·  ⭐ 300 · ➕) - A JavaScript Framework for Verifiable Data. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/OpenID4VCI">openid4vci</a></b> (🥈15 ·  ⭐ 16 · 🐣) - OpenID for Verifiable Credential Issuance - client and issuer.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/SIOP-OID4VP">siop-oid4vp</a></b> (🥈14 ·  ⭐ 59 · ➕) - Self Issued OpenID Provider v2 (SIOP) with optional OpenID.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/PEX">pex</a></b> (🥉13 ·  ⭐ 20 · ➕) - A Typescript implementation of the DIF Presentation Exchange.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/ssi-mobile-wallet">ssi-mobile-wallet</a></b> (🥉8 ·  ⭐ 10 · 🐣) - Open-Source Mobile SSI Wallet. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 
