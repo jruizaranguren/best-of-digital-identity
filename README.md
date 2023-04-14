@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-40-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-41-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 40 awesome open-source projects with a total of 200K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 41 awesome open-source projects with a total of 200K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -28,8 +28,7 @@ This curated list contains 40 awesome open-source projects with a total of 200K 
 - [Standards](#standards) _1 projects_
 - [Public Key Infrastructure](#public-key-infrastructure) _5 projects_
 - [DNS and Service Discovery](#dns-and-service-discovery) _1 projects_
-- [Identity Wallets](#identity-wallets) _1 projects_
-- [Decentralized Identity](#decentralized-identity) _0 projects_
+- [Decentralized Identity](#decentralized-identity) _2 projects_
 - [Others](#others) _2 projects_
 
 ## Explanation
@@ -70,7 +69,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/casbin/casbin">casbin</a></b> (🥈35 ·  ⭐ 14K) - An authorization library that supports access control models like ACL,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casbin/casbin) (👨‍💻 130 · 🔀 1.5K · 📦 2.3K · 📋 710 - 1% open · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/casbin/casbin) (👨‍💻 130 · 🔀 1.5K · 📦 2.3K · 📋 710 - 1% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/casbin/casbin
@@ -268,7 +267,7 @@ _Authentication libraries, tools and projects_
 
 _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
-<details><summary><b><a href="https://github.com/keycloak/keycloak">cancancan</a></b> (🥇36 ·  ⭐ 16K · 📈) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/keycloak/keycloak">cancancan</a></b> (🥇36 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.1K · 📥 1.7M · 📋 5.9K - 26% open · ⏱️ 14.04.2023):
 
@@ -482,11 +481,13 @@ _Tools and projects for DNS and service and device discovery_
 </details>
 <br>
 
-## Identity Wallets
+## Decentralized Identity
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/walt-id/waltid-ssikit">waltid-ssikit</a></b> (🥇23 ·  ⭐ 120 · ➕) - Use web3 identity / self-sovereign identity (SSI).</summary>
+_Identity Wallets, Self-sovereign identity and decentralized identity projects_
+
+<details><summary><b><a href="https://github.com/walt-id/waltid-ssikit">waltid-ssikit</a></b> (🥇23 ·  ⭐ 120) - Use web3 identity / self-sovereign identity (SSI).</summary>
 
 
 ---
@@ -497,14 +498,10 @@ _Tools and projects for DNS and service and device discovery_
 
 ---
 </details>
-<br>
+<details><summary>Show 1 hidden projects...</summary>
 
-## Decentralized Identity
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-_Trusted digital identity, Self-sovereign identity and decentralized identity projects_
-
+- <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥈18 ·  ⭐ 89 · ➕) - Evernym Verity is a decentralized protocol platform for issuing and..
+</details>
 <br>
 
 ## Others
