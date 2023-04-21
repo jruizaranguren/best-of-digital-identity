@@ -20,8 +20,8 @@ categories:
     title: Standards
     subtitle: "Standard protocols, schemas, formats, etc."
   - category: pki
-    title: Public Key Infrastructure
-    subtitle: "Tools, libraries and certificate managers for Public Key Infrastructure"
+    title: Public Key Infrastructure and Key Management
+    subtitle: "Tools, libraries and certificate managers for Public Key Infrastructure and Key management"
   - category: decentralized
     title: Decentralized Identity
     subtitle: "Identity Wallets, Self-sovereign identity and decentralized identity projects"
@@ -42,6 +42,12 @@ labels:
     name: linux-foundation
     url: https://www.linuxfoundation.org/
     description: "The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems."
+  - label: openstack
+    name: openstack
+    url: https://www.openstack.org/
+  - label: hashicorp
+    name: hashicorp
+    url: https://www.hashicorp.com/
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -359,10 +365,22 @@ projects:
   - name: boundary
     github_id: hashicorp/boundary
     category: machine
+    labels: ["hashicorp"]
     dockerhub_id: hashicorp/boundary
   - name: keystone
     github_id: openstack/keystone
     category: idp
+    labels: ["openstack"]
+  - name: barbican
+    github_id: openstack/barbican
+    labels: ["openstack"]
+    category: pki
+  - name: vault
+    github_id: hashicorp/vault
+    category: pki
+    labels: ["hashicorp"]
+
+
 
 
 
