@@ -379,17 +379,30 @@ projects:
     github_id: hashicorp/vault
     category: pki
     labels: ["hashicorp"]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - name: beyond
+    github_id: cogolabs/beyond
+    category: machine
+    dockerhub_id: cogolabs/beyond
+  - name: gotrue
+    github_id: netlify/gotrue
+    category: idp
+  - name: oathkeeper
+    github_id: ory/oathkeeper
+    category: machine
+    labels: ["ory"]
+    dockerhub_id: oryd/oathkeeper
+  - name: conjur
+    category: machine
+    github_id: cyberark/conjur
+    dockerhub_id: cyberark/conjur
+  - name: supertokens
+    category: idp
+    github_id: supertokens/supertokens-core
+    dockerhub_id: registry.supertokens.io/supertokens/supertokens-postgresql
+  - name: opal
+    github_id: permitio/opal
+    category: authorization
+    dockerhub_id: permitio/opal-server
+  - name: lemur
+    github_id: netflix/lemur
+    category: pki
