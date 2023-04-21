@@ -5,30 +5,30 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome Digital Identity open source projects. Updated weekly.</strong>
 </p>
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-62-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-69-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 62 awesome open-source projects with a total of 240K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 69 awesome open-source projects with a total of 250K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Authorization](#authorization) _9 projects_
+- [Authorization](#authorization) _10 projects_
 - [OAuth2 and OIDC](#oauth2-and-oidc) _6 projects_
 - [Authentication](#authentication) _1 projects_
-- [Identity Providers](#identity-providers) _12 projects_
+- [Identity Providers](#identity-providers) _14 projects_
 - [Standards](#standards) _0 projects_
-- [Public Key Infrastructure and Key Management](#public-key-infrastructure-and-key-management) _6 projects_
+- [Public Key Infrastructure and Key Management](#public-key-infrastructure-and-key-management) _7 projects_
 - [Decentralized Identity](#decentralized-identity) _10 projects_
-- [Machine Identity Management](#machine-identity-management) _6 projects_
+- [Machine Identity Management](#machine-identity-management) _9 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -148,6 +148,18 @@ _Authorization and policy managing libraries, tools and projects._
 - [Docker Hub](https://hub.docker.com/r/ghcr.io/cerbos/cerbos):
 	```
 	docker pull ghcr.io/cerbos/cerbos
+	```
+</details>
+<details><summary><b><a href="https://github.com/permitio/opal">opal</a></b> (🥉24 ·  ⭐ 1.3K · ➕) - Policy and data administration, distribution, and real-time updates.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/permitio/opal) (👨‍💻 35 · 🔀 96 · 📥 360 · 📋 98 - 38% open · ⏱️ 20.04.2023):
+
+	```
+	git clone https://github.com/permitio/opal
+	```
+- [Docker Hub](https://hub.docker.com/r/permitio/opal-server) (📥 30K · ⏱️ 21.04.2023):
+	```
+	docker pull permitio/opal-server
 	```
 </details>
 <details><summary><b><a href="https://github.com/Permify/permify">permify</a></b> (🥉22 ·  ⭐ 1.3K) - Permify is an open-source authorization service inspired by Google.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -322,7 +334,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull casbin/casdoor
 	```
 </details>
-<details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥉27 ·  ⭐ 5.6K) - Logto is a cost-effective open-source alternative to Auth0. It offers.. <code><a href="https://www.mozilla.org/en-US/MPL/2.0/">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥈27 ·  ⭐ 5.6K) - Logto is a cost-effective open-source alternative to Auth0. It offers.. <code><a href="https://www.mozilla.org/en-US/MPL/2.0/">❗️Custom</a></code></summary>
 
 - [GitHub](https://github.com/logto-io/logto) (👨‍💻 33 · 🔀 190 · 📥 1.4K · 📦 6 · 📋 230 - 18% open · ⏱️ 21.04.2023):
 
@@ -334,7 +346,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull svhd/logto
 	```
 </details>
-<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 3.2K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥈27 ·  ⭐ 3.2K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 51 · 🔀 170 · 📥 1.9K · 📦 1 · 📋 1.4K - 23% open · ⏱️ 21.04.2023):
 
@@ -346,7 +358,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull ghcr.io/zitadel/zitadel
 	```
 </details>
-<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉27 ·  ⭐ 200) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥈27 ·  ⭐ 200) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 48 · 📥 510 · 📋 2K - 13% open · ⏱️ 21.04.2023):
 
@@ -378,7 +390,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull freeipa/freeipa-server
 	```
 </details>
-<details><summary><b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉19 ·  ⭐ 660 · ➕) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
+<details><summary><b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉19 ·  ⭐ 660) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
 
 - [GitHub](https://github.com/openstack/keystone) (👨‍💻 710 · 🔀 640 · ⏱️ 21.04.2023):
 
@@ -386,9 +398,11 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/openstack/keystone
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉23 ·  ⭐ 3.6K) - The authentication glue you need. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉21 ·  ⭐ 8.6K · ➕) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉21 ·  ⭐ 3.4K · 💀) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -414,7 +428,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 	git clone https://github.com/cert-manager/cert-manager
 	```
 </details>
-<details><summary><b><a href="https://github.com/hashicorp/vault">vault</a></b> (🥈38 ·  ⭐ 28K · ➕) - A tool for secrets management, encryption as a service, and.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
+<details><summary><b><a href="https://github.com/hashicorp/vault">vault</a></b> (🥈38 ·  ⭐ 28K) - A tool for secrets management, encryption as a service, and.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
 
 - [GitHub](https://github.com/hashicorp/vault) (👨‍💻 1.3K · 🔀 3.6K · 📦 6.2K · 📋 5.4K - 15% open · ⏱️ 21.04.2023):
 
@@ -432,6 +446,14 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 - [Docker Hub](https://hub.docker.com/r/letsencrypt/boulder-tools) (📥 1.9M · ⭐ 12 · ⏱️ 04.04.2023):
 	```
 	docker pull letsencrypt/boulder-tools
+	```
+</details>
+<details><summary><b><a href="https://github.com/Netflix/lemur">lemur</a></b> (🥉24 ·  ⭐ 1.6K · ➕) - Repository for the Lemur Certificate Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Netflix/lemur) (👨‍💻 150 · 🔀 300 · 📥 47 · 📋 510 - 23% open · ⏱️ 18.04.2023):
+
+	```
+	git clone https://github.com/netflix/lemur
 	```
 </details>
 <details><summary><b><a href="https://github.com/AthenZ/athenz">athenz</a></b> (🥉23 ·  ⭐ 760) - Open source platform for X.509 certificate based service.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
@@ -454,7 +476,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 	pip install pyja3
 	```
 </details>
-<details><summary><b><a href="https://github.com/openstack/barbican">barbican</a></b> (🥉17 ·  ⭐ 220 · ➕) - Barbican is a ReST API designed for the secure storage,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
+<details><summary><b><a href="https://github.com/openstack/barbican">barbican</a></b> (🥉17 ·  ⭐ 220) - Barbican is a ReST API designed for the secure storage,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
 
 - [GitHub](https://github.com/openstack/barbican) (👨‍💻 300 · 🔀 67 · ⏱️ 20.04.2023):
 
@@ -535,7 +557,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/iotaledger/identity.rs">iota-identity</a></b> (🥇24 ·  ⭐ 250 · ➕) - Implementation of the Decentralized Identity standards.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/iotaledger/identity.rs">iota-identity</a></b> (🥇24 ·  ⭐ 250) - Implementation of the Decentralized Identity standards such.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/iotaledger/identity.rs) (👨‍💻 32 · 🔀 59 · 📦 78 · 📋 250 - 22% open · ⏱️ 18.04.2023):
 
@@ -543,7 +565,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/iotaledger/identity.rs
 	```
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/universal-resolver">universal-resolver</a></b> (🥈23 ·  ⭐ 450 · ➕) - Universal Resolver implementation and drivers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/universal-resolver">universal-resolver</a></b> (🥈23 ·  ⭐ 450) - Universal Resolver implementation and drivers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/decentralized-identity/universal-resolver) (👨‍💻 91 · 🔀 200 · 📋 100 - 22% open · ⏱️ 16.04.2023):
 
@@ -622,7 +644,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull ghcr.io/spiffe/spire-server
 	```
 </details>
-<details><summary><b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉31 ·  ⭐ 3.6K · ➕) - Boundary enables identity-based access management for.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
+<details><summary><b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉31 ·  ⭐ 3.6K) - Boundary enables identity-based access management for dynamic.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
 
 - [GitHub](https://github.com/hashicorp/boundary) (👨‍💻 130 · 🔀 230 · 📦 8 · 📋 280 - 25% open · ⏱️ 21.04.2023):
 
@@ -634,6 +656,18 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull hashicorp/boundary
 	```
 </details>
+<details><summary><b><a href="https://github.com/ory/oathkeeper">oathkeeper</a></b> (🥉29 ·  ⭐ 2.9K · ➕) - A cloud native Identity & Access Proxy / API (IAP) and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
+
+- [GitHub](https://github.com/ory/oathkeeper) (👨‍💻 100 · 🔀 300 · 📥 22K · 📦 2 · 📋 310 - 15% open · ⏱️ 17.04.2023):
+
+	```
+	git clone https://github.com/ory/oathkeeper
+	```
+- [Docker Hub](https://hub.docker.com/r/oryd/oathkeeper) (📥 74M · ⭐ 22 · ⏱️ 15.03.2023):
+	```
+	docker pull oryd/oathkeeper
+	```
+</details>
 <details><summary><b><a href="https://github.com/spiffe/spiffe">spiffe</a></b> (🥉17 ·  ⭐ 1.2K) - The SPIFFE Project. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/spiffe/spiffe) (👨‍💻 56 · 🔀 140 · 📋 54 - 31% open · ⏱️ 21.04.2023):
@@ -641,6 +675,11 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	```
 	git clone https://github.com/spiffe/spiffe
 	```
+</details>
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉25 ·  ⭐ 660 · ➕) - CyberArk Conjur automatically secures secrets used by.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉11 ·  ⭐ 230 · 💤) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code>❗Unlicensed</code>
 </details>
 
 ---
