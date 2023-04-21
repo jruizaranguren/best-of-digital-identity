@@ -356,6 +356,14 @@ projects:
     github_id: decentralized-identity/universal-resolver
     category: decentralized
     dockerhub_id: universalresolver/uni-resolver-web
+  - name: boundary
+    github_id: hashicorp/boundary
+    category: machine
+    dockerhub_id: hashicorp/boundary
+  - name: keystone
+    github_id: openstack/keystone
+    category: idp
+
 
 
 
