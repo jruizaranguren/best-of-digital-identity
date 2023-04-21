@@ -21,13 +21,13 @@ categories:
     subtitle: "Standard protocols, schemas, formats, etc."
   - category: pki
     title: Public Key Infrastructure
-    subtitle: "Tools, proxies, secured communications, certificate mangers"
-  - category: discovery
-    title: DNS and Service Discovery
-    subtitle: "Tools and projects for DNS and service and device discovery"
+    subtitle: "Tools, libraries and certificate managers for Public Key Infrastructure"
   - category: decentralized
     title: Decentralized Identity
     subtitle: "Identity Wallets, Self-sovereign identity and decentralized identity projects"
+  - category: machine
+    title: Machine Identity Management
+    subtitle: "Tools, services and protocols for machine to machine secure digital interactions"
 
 labels:
   - label: ory
@@ -165,22 +165,24 @@ projects:
   - name: ockam
     github_id: build-trust/ockam
     brew_id: build-trust/ockam/ockam
-    category: pki
+    category: machine
   - name: cert-manager
     github_id: cert-manager/cert-manager
     category: pki
     labels: ["linux-foundation"]
   - name: spiffe
     github_id: spiffe/spiffe
-    category: standards
+    category: machine
     labels: ["cncf", "linux-foundation"]
   - name: spire
     github_id: spiffe/spire
     dockerhub_id: ghcr.io/spiffe/spire-server
     labels:  ["cncf", "linux-foundation"]
+    category: machine
   - name: pomerium
     github_id: pomerium/pomerium
     dockerhub_id: pomerium/pomerium
+    category: machine
   - name: athenz
     github_id: athenz/athenz
     category: pki
@@ -200,7 +202,7 @@ projects:
     labels: ["linux-foundation"]
   - name: coredns
     github_id: coredns/coredns
-    category: discovery
+    category: machine
     labels: ["linux-foundation", "cncf"]
     dockerhub_id: coredns/coredns
   - name: waltid-ssikit
@@ -347,6 +349,13 @@ projects:
     github_id: hyperledger/aries-vcx
     group_id: aries
     category: decentralized
+  - name: iota-identity
+    github_id: iotaledger/identity.rs
+    category: decentralized
+  - name: universal-resolver
+    github_id: decentralized-identity/universal-resolver
+    category: decentralized
+    dockerhub_id: universalresolver/uni-resolver-web
 
 
 

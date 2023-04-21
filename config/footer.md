@@ -4,6 +4,8 @@
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Awesome-self-sovereign-identity**](https://github.com/animo/awesome-self-sovereign-identity): A curated list of self-sovereign identity resources.
+- [**awesome-iam**](https://github.com/kdeldycke/awesome-iam): A curated list of resources on managing accounts, users, roles, permissions, authentication and authorization.
 
 ## Contribution
 
