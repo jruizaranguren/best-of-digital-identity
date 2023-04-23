@@ -52,8 +52,11 @@ labels:
     name: dif
     url: https://identity.foundation/
   - label: web5
-    title: web5
+    name: web5
     url: https://developer.tbd.website/
+  - label: hyperledger
+    name: hyperledger
+    url: https://www.hyperledger.org/
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -333,34 +336,41 @@ projects:
     group_id: aries
     group: Yes
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-rfcs
     github_id: hyperledger/aries-rfcs
-    group_id: aries
-    category: decentralized
+    category: standards
+    labels: ["hyperledger"]
   - name: aries-python
     github_id: hyperledger/aries-cloudagent-python
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-mobile-agent-react-native
     github_id: hyperledger/aries-mobile-agent-react-native
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-framework-dotnet
     github_id: hyperledger/aries-framework-dotnet
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-framework-go
     github_id: hyperledger/aries-framework-go
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-framework-javascript
     github_id: hyperledger/aries-framework-javascript
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: aries-vcx
     github_id: hyperledger/aries-vcx
     group_id: aries
     category: decentralized
+    labels: ["hyperledger"]
   - name: iota-identity
     github_id: iotaledger/identity.rs
     category: decentralized
@@ -430,7 +440,8 @@ projects:
     npm_id: solid-server
     dockerhub_id: nodesolidserver/node-solid-server
   - name: ion
-    github_id:
+    github_id: decentralized-identity/ion
+    category: decentralized
   - name: sidetree
     github_id: decentralized-identity/sidetree
     category: standards
@@ -458,3 +469,23 @@ projects:
     category: decentralized
     labels: ["dif"]
     npm_id: did-jwt-vc
+  - name: did-resolver
+    github_id: decentralized-identity/did-resolver
+    category: decentralized
+    labels: ["dif"]
+    npm_id: did-resolver
+  - name: dwn-sdk-js
+    github_id: TBD54566975/dwn-sdk-js
+    category: decentralized
+    labels: ["web5"]
+    npm_id: tbd54566975/dwn-sdk-js
+  - name: tbd-ssi-sdk
+    github_id: tbd54566975/ssi-sdk
+    category: decentralized
+    labels: ["web5"]
+  - name: tbd-ssi-service
+    github_id:  tbd54566975/ssi-service
+    category: decentralized
+    labels: ["web5"]
+
+
