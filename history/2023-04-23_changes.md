@@ -2,27 +2,14 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉24 ·  ⭐ 3.6K · 📈) - The authentication glue you need. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/hyperledger/aries-vcx">aries-vcx</a></b> (🥈23 ·  ⭐ 47 · 📈) - AriesVCX is a Rust library for building web and mobile.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈25 ·  ⭐ 220 · 📉) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/decentralized-identity/ion">ion</a></b> (🥈19 ·  ⭐ 1.2K · 📈) - The Identity Overlay Network (ION) is a DID Method implementation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇22 ·  ⭐ 8.6K · ➕) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/decentralized-identity/did-jwt">did-jwt</a></b> (🥇29 ·  ⭐ 290 · ➕) - Create and verify DID verifiable JWTs in Javascript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇27 ·  ⭐ 1.7K · ➕) - Solid server on top of the file-system in NodeJS. <code>❗Unlicensed</code> <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a></b> (🥈26 ·  ⭐ 150 · ➕) - Create and verify W3C Verifiable Credentials and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/decentralized-identity/web-did-resolver">web-did-resolver</a></b> (🥈21 ·  ⭐ 67 · ➕) - DID resolver for HTTPS domains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/decentralized-identity/sidetree">sidetree</a></b> (🥉20 ·  ⭐ 420 · ➕) - Sidetree Specification and Reference Implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥉16 ·  ⭐ 400 · ➕) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="{}">ion</a></b> (➕) -  <code>❗Unlicensed</code>
-- <b><a href="{}">decentralized-web-node</a></b> (➕) -  <code>❗Unlicensed</code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="{}">didcomm-messaging</a></b> (➕) -  <code>❗Unlicensed</code> <a href="https://identity.foundation/"><code>dif</code></a>
+- <b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥇26 ·  ⭐ 180 · ➕) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
+- <b><a href="https://github.com/TBD54566975/dwn-sdk-js">dwn-sdk-js</a></b> (🥈19 ·  ⭐ 280 · ➕) - Decentralized Web Node (DWN) Reference implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a>
+- <b><a href="https://github.com/TBD54566975/ssi-sdk">tbd-ssi-sdk</a></b> (🥉16 ·  ⭐ 160 · ➕) - self sovereign identity sdk. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a>
+- <b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥉14 ·  ⭐ 120 · ➕) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a>
 

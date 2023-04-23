@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-75-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-80-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 75 awesome open-source projects with a total of 260K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 80 awesome open-source projects with a total of 260K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -24,9 +24,9 @@ This curated list contains 75 awesome open-source projects with a total of 260K 
 - [Authorization](#authorization) _10 projects_
 - [Authentication, Oauth2, OIDC](#authentication-oauth2-oidc) _7 projects_
 - [Identity Providers](#identity-providers) _14 projects_
-- [Standards](#standards) _2 projects_
+- [Standards](#standards) _3 projects_
 - [Public Key Infrastructure and Key Management](#public-key-infrastructure-and-key-management) _7 projects_
-- [Decentralized Identity](#decentralized-identity) _14 projects_
+- [Decentralized Identity](#decentralized-identity) _19 projects_
 - [Machine Identity Management](#machine-identity-management) _9 projects_
 
 ## Explanation
@@ -247,7 +247,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 </details>
 <details><summary><b><a href="https://github.com/dexidp/dex">dex</a></b> (🥉28 ·  ⭐ 8K) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/dexidp/dex) (👨‍💻 220 · 🔀 1.4K · 📥 240 · 📦 15 · 📋 1.1K - 26% open · ⏱️ 21.04.2023):
+- [GitHub](https://github.com/dexidp/dex) (👨‍💻 220 · 🔀 1.4K · 📥 240 · 📦 15 · 📋 1.1K - 26% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/dexidp/dex
@@ -332,7 +332,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	```
 	git clone https://github.com/logto-io/logto
 	```
-- [Docker Hub](https://hub.docker.com/r/svhd/logto) (📥 7.2K · ⭐ 1 · ⏱️ 23.04.2023):
+- [Docker Hub](https://hub.docker.com/r/svhd/logto) (📥 7.3K · ⭐ 1 · ⏱️ 23.04.2023):
 	```
 	docker pull svhd/logto
 	```
@@ -391,7 +391,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉24 ·  ⭐ 3.6K · 📈) - The authentication glue you need. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉24 ·  ⭐ 3.6K) - The authentication glue you need. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉21 ·  ⭐ 8.6K) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉21 ·  ⭐ 3.4K · 💀) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -403,11 +403,11 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
 _Standard protocols, schemas, formats, etc._
 
-<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇22 ·  ⭐ 8.6K · ➕) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇22 ·  ⭐ 8.6K) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥉16 ·  ⭐ 400 · ➕) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥉16 ·  ⭐ 400) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 - [GitHub](https://github.com/solid/specification) (👨‍💻 19 · 🔀 35 · 📋 300 - 59% open · ⏱️ 20.04.2023):
 
@@ -418,12 +418,20 @@ _Standard protocols, schemas, formats, etc._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/sidetree">sidetree</a></b> (🥉20 ·  ⭐ 420 · ➕) - Sidetree Specification and Reference Implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/sidetree">sidetree</a></b> (🥈20 ·  ⭐ 420) - Sidetree Specification and Reference Implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
 - [GitHub](https://github.com/decentralized-identity/sidetree) (👨‍💻 47 · 🔀 100 · 📦 28 · 📋 480 - 7% open · ⏱️ 04.04.2023):
 
 	```
 	git clone https://github.com/decentralized-identity/sidetree
+	```
+</details>
+<details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥉19 ·  ⭐ 300) - Hyperledger Aries is infrastructure for blockchain-rooted,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
+
+- [GitHub](https://github.com/hyperledger/aries-rfcs) (👨‍💻 84 · 🔀 200 · 📋 220 - 22% open · ⏱️ 31.03.2023):
+
+	```
+	git clone https://github.com/hyperledger/aries-rfcs
 	```
 </details>
 <br>
@@ -436,7 +444,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 
 <details><summary><b><a href="https://github.com/cert-manager/cert-manager">cert-manager</a></b> (🥇39 ·  ⭐ 10K) - Automatically provision and manage TLS certificates in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/cert-manager/cert-manager) (👨‍💻 390 · 🔀 1.8K · 📥 45M · 📦 440 · 📋 3K - 5% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/cert-manager/cert-manager) (👨‍💻 390 · 🔀 1.8K · 📥 45M · 📦 440 · 📋 3K - 5% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/cert-manager/cert-manager
@@ -506,11 +514,11 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 
 _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
-<details><summary><b><a href="https://github.com/hyperledger/aries">aries</a></b> (🥇34 ·  ⭐ 1.5K) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer..</summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries">aries</a></b> (🥇34 ·  ⭐ 1.2K) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer.. <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈25 ·  ⭐ 220 · 📉) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈25 ·  ⭐ 220) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 56 · 🔀 150 · 📦 280 · 📋 1.6K - 24% open · ⏱️ 22.04.2023):
 
@@ -518,7 +526,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-framework-go
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥈24 ·  ⭐ 340) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥈24 ·  ⭐ 340) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-cloudagent-python) (👨‍💻 110 · 🔀 390 · 📋 900 - 19% open · ⏱️ 06.04.2023):
 
@@ -526,20 +534,12 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-cloudagent-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-framework-javascript">aries-framework-javascript</a></b> (🥈21 ·  ⭐ 180) - Aries Framework JavaScript (Built using TypeScript). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-javascript">aries-framework-javascript</a></b> (🥈21 ·  ⭐ 180) - Aries Framework JavaScript (Built using TypeScript). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-framework-javascript) (👨‍💻 50 · 🔀 120 · 📦 2 · 📋 540 - 27% open · ⏱️ 19.04.2023):
 
 	```
 	git clone https://github.com/hyperledger/aries-framework-javascript
-	```
-</details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥈19 ·  ⭐ 300) - Hyperledger Aries is infrastructure for blockchain-rooted, peer-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/hyperledger/aries-rfcs) (👨‍💻 84 · 🔀 200 · 📋 220 - 22% open · ⏱️ 31.03.2023):
-
-	```
-	git clone https://github.com/hyperledger/aries-rfcs
 	```
 </details>
 
@@ -571,7 +571,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt">did-jwt</a></b> (🥇29 ·  ⭐ 290 · ➕) - Create and verify DID verifiable JWTs in Javascript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt">did-jwt</a></b> (🥇29 ·  ⭐ 290) - Create and verify DID verifiable JWTs in Javascript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
 - [GitHub](https://github.com/decentralized-identity/did-jwt) (👨‍💻 39 · 🔀 62 · 📦 3.2K · 📋 79 - 8% open · ⏱️ 19.04.2023):
 
@@ -583,7 +583,19 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	npm install did-jwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a></b> (🥈26 ·  ⭐ 150 · ➕) - Create and verify W3C Verifiable Credentials and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥇26 ·  ⭐ 180 · ➕) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+
+- [GitHub](https://github.com/decentralized-identity/did-resolver) (👨‍💻 24 · 🔀 42 · 📦 3.8K · 📋 21 - 14% open · ⏱️ 08.03.2023):
+
+	```
+	git clone https://github.com/decentralized-identity/did-resolver
+	```
+- [npm](https://www.npmjs.com/package/did-resolver) (📥 170K / month):
+	```
+	npm install did-resolver
+	```
+</details>
+<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a></b> (🥇26 ·  ⭐ 150) - Create and verify W3C Verifiable Credentials and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
 - [GitHub](https://github.com/decentralized-identity/did-jwt-vc) (👨‍💻 21 · 🔀 36 · 📦 540 · 📋 47 - 10% open · ⏱️ 03.04.2023):
 
@@ -623,14 +635,50 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/uport-project/veramo
 	```
 </details>
+<details><summary><b><a href="https://github.com/decentralized-identity/ion">ion</a></b> (🥈19 ·  ⭐ 1.2K · 📈) - The Identity Overlay Network (ION) is a DID Method implementation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/decentralized-identity/ion) (👨‍💻 30 · 🔀 160 · 📋 130 - 47% open · ⏱️ 20.03.2023):
+
+	```
+	git clone https://github.com/decentralized-identity/ion
+	```
+</details>
+<details><summary><b><a href="https://github.com/TBD54566975/dwn-sdk-js">dwn-sdk-js</a></b> (🥈19 ·  ⭐ 280 · ➕) - Decentralized Web Node (DWN) Reference implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
+
+- [GitHub](https://github.com/TBD54566975/dwn-sdk-js) (👨‍💻 24 · 🔀 63 · 📦 20 · 📋 140 - 31% open · ⏱️ 20.04.2023):
+
+	```
+	git clone https://github.com/TBD54566975/dwn-sdk-js
+	```
+- [npm](https://www.npmjs.com/package/tbd54566975/dwn-sdk-js):
+	```
+	npm install tbd54566975/dwn-sdk-js
+	```
+</details>
+<details><summary><b><a href="https://github.com/TBD54566975/ssi-sdk">tbd-ssi-sdk</a></b> (🥉16 ·  ⭐ 160 · ➕) - self sovereign identity sdk. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
+
+- [GitHub](https://github.com/TBD54566975/ssi-sdk) (👨‍💻 15 · 🔀 41 · 📦 2 · 📋 130 - 35% open · ⏱️ 20.04.2023):
+
+	```
+	git clone https://github.com/tbd54566975/ssi-sdk
+	```
+</details>
+<details><summary><b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥉14 ·  ⭐ 120 · ➕) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
+
+- [GitHub](https://github.com/TBD54566975/ssi-service) (👨‍💻 16 · 🔀 41 · 📋 120 - 51% open · ⏱️ 19.04.2023):
+
+	```
+	git clone https://github.com/tbd54566975/ssi-service
+	```
+</details>
 <details><summary>Show 6 hidden projects...</summary>
 
 - <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 48) - Trinsic SDK repository.
 - <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥈19 ·  ⭐ 26) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and NFT..
 - <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥉18 ·  ⭐ 90) - Evernym Verity is a decentralized protocol platform for issuing and..
 - <b><a href="https://github.com/0xPolygonID/sh-id-platform">polygon-id</a></b> (🥉15 ·  ⭐ 52 · 🐣) - Self Hosted ID Platform.
-- <b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇27 ·  ⭐ 1.7K · ➕) - Solid server on top of the file-system in NodeJS. <code>❗Unlicensed</code> <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/decentralized-identity/web-did-resolver">web-did-resolver</a></b> (🥈21 ·  ⭐ 67 · ➕) - DID resolver for HTTPS domains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
+- <b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇27 ·  ⭐ 1.7K) - Solid server on top of the file-system in NodeJS. <code>❗Unlicensed</code> <a href="https://solidproject.org/"><code>solid</code></a>
+- <b><a href="https://github.com/decentralized-identity/web-did-resolver">web-did-resolver</a></b> (🥈21 ·  ⭐ 67) - DID resolver for HTTPS domains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 </details>
 <br>
 
