@@ -7,12 +7,9 @@ categories:
   - category: authorization
     title: Authorization
     subtitle: "Authorization and policy managing libraries, tools and projects."
-  - category: oauth2-oidc
-    title: OAuth2 and OIDC
-    subtitle: "Libraries, middleware and proxies implementing Oauth2 or OIDC"
   - category: authentication
-    title: Authentication
-    subtitle: "Authentication libraries, tools and projects"
+    title: Authentication, Oauth2, OIDC
+    subtitle: "Authentication, Oauth2 authorization, and OIDC tools and projects"
   - category: idp
     title: Identity Providers
     subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
@@ -48,6 +45,15 @@ labels:
   - label: hashicorp
     name: hashicorp
     url: https://www.hashicorp.com/
+  - label: solid
+    name: solid
+    url : https://solidproject.org/
+  - label: dif
+    name: dif
+    url: https://identity.foundation/
+  - label: web5
+    title: web5
+    url: https://developer.tbd.website/
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -55,22 +61,22 @@ projects:
     npm_id: next-auth
   - name: ory-hydra
     github_id: ory/hydra
-    category: oauth2-oidc
+    category: authentication
     labels: ["ory"]
     dockerhub_id: oryd/hydra
     helm_id: https://k8s.ory.sh/helm/charts
   - name: dex
     github_id: dexidp/dex
-    category: oauth2-oidc
+    category: authentication
     dockerhub_id: quay.io/dexidp/dex
     labels: ["linux-foundation"]
   - name: node-oidc-provider
     github_id: panva/node-oidc-provider
-    category: oauth2-oidc
+    category: authentication
     npm_id: oidc-provider
   - name: identity-server
     github_id: duendesoftware/identityserver
-    category: oauth2-oidc
+    category: authentication
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -106,7 +112,7 @@ projects:
     labels: ["cncf", "linux-foundation"]
   - name: oauthlib
     github_id: oauthlib/oauthlib
-    category: oauth2-oidc
+    category: authentication
     pypi_id: oauthlib
   - name: casl
     github_id: stalniy/casl
@@ -118,7 +124,7 @@ projects:
     dockerhub_id: authzed/spicedb
   - name: doorkeeper
     github_id: doorkeeper-gem/doorkeeper
-    category: oauth2-oidc
+    category: authentication
     gem_url: doorkeeper
   - name: keycloak
     github_id: keycloak/keycloak
@@ -406,3 +412,49 @@ projects:
   - name: lemur
     github_id: netflix/lemur
     category: pki
+  - name: solid-project
+    github_id: solid/solid
+    category: standards
+    group_id: solid-project
+    group: Yes
+    labels: ["solid"]
+  - name: solid-specification
+    github_id: solid/specification
+    category: standards
+    group_id: solid-project
+    labels: ["solid"]
+  - name: node-solid-server
+    github_id: nodesolidserver/node-solid-server
+    category: decentralized
+    labels: ["solid"]
+    npm_id: solid-server
+    dockerhub_id: nodesolidserver/node-solid-server
+  - name: ion
+    github_id:
+  - name: sidetree
+    github_id: decentralized-identity/sidetree
+    category: standards
+    labels: ["dif"]
+  - name: decentralized-web-node
+    github_id: decentralized-identity/decentralize-web-node
+    category: standards
+    labels: ["dif", "web5"]
+  - name: did-jwt
+    github_id: decentralized-identity/did-jwt
+    category: decentralized
+    npm_id: did-jwt
+    labels: ["dif"]
+  - name: web-did-resolver
+    github_id: decentralized-identity/web-did-resolver
+    category: decentralized
+    labels: ["dif"]
+    npm_id: web-did-resolver
+  - name: didcomm-messaging
+    github_id: decentralized-identity/didcomm-messagging
+    category: standards
+    labels: ["dif"]
+  - name: did-jwt-vc
+    github_id: decentralized-identity/did-jwt-vc
+    category: decentralized
+    labels: ["dif"]
+    npm_id: did-jwt-vc
