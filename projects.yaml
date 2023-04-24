@@ -82,6 +82,7 @@ projects:
   - name: identity-server
     github_id: duendesoftware/identityserver
     category: authentication
+    license: https://duendesoftware.com/license
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -168,6 +169,7 @@ projects:
     github_id: goauthentik/authentik
     category: idp
     helm_id: https://charts.goauthentik.io
+    license: https://github.com/goauthentik/authentik/blob/13591fc72cd2f07bdd1c17f66e4f4f0a6608d8eb/authentik/enterprise/LICENSE
   - name: kanidm
     github_id: kanidm/kanidm
     category: idp
@@ -401,9 +403,11 @@ projects:
     github_id: cogolabs/beyond
     category: machine
     dockerhub_id: cogolabs/beyond
+    license: http://www.apache.org/licenses/LICENSE-2.0
   - name: gotrue
     github_id: netlify/gotrue
     category: idp
+    license: "MIT"
   - name: oathkeeper
     github_id: ory/oathkeeper
     category: machine
@@ -413,10 +417,12 @@ projects:
     category: machine
     github_id: cyberark/conjur
     dockerhub_id: cyberark/conjur
+    license: "LGPL"
   - name: supertokens
     category: idp
     github_id: supertokens/supertokens-core
     dockerhub_id: registry.supertokens.io/supertokens/supertokens-postgresql
+    license: https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md
   - name: opal
     github_id: permitio/opal
     category: authorization
@@ -440,6 +446,7 @@ projects:
     category: decentralized
     labels: ["solid"]
     npm_id: solid-server
+    license: "MIT"
     dockerhub_id: nodesolidserver/node-solid-server
   - name: ion
     github_id: decentralized-identity/ion
@@ -493,8 +500,10 @@ projects:
     github_id: w3c/webauthn
     category: standards
     labels: ["w3c"]
+    license: https://www.w3.org/Consortium/Legal/2023/doc-license
   - name: vc-data-model
     github_id: w3c/vc-data-model
     category: standards
     labels: ["w3c"]
+    license: https://www.w3.org/Consortium/Legal/2023/doc-license
 
