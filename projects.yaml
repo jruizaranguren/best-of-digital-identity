@@ -159,7 +159,7 @@ projects:
     github_id: logto-io/logto
     category: idp
     dockerhub_id: svhd/logto
-    license: https://www.mozilla.org/en-US/MPL/2.0/
+    license: "MPL-2.0"
   - name: zitadel
     github_id: zitadel/zitadel
     category: idp
@@ -403,7 +403,7 @@ projects:
     github_id: cogolabs/beyond
     category: machine
     dockerhub_id: cogolabs/beyond
-    license: http://www.apache.org/licenses/LICENSE-2.0
+    license: "	Apache-2.0"
   - name: gotrue
     github_id: netlify/gotrue
     category: idp
@@ -500,10 +500,10 @@ projects:
     github_id: w3c/webauthn
     category: standards
     labels: ["w3c"]
-    license: https://www.w3.org/Consortium/Legal/2023/doc-license
+    license: "W3C"
   - name: vc-data-model
     github_id: w3c/vc-data-model
     category: standards
     labels: ["w3c"]
-    license: https://www.w3.org/Consortium/Legal/2023/doc-license
+    license: "W3C"
 
