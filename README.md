@@ -53,7 +53,7 @@ This curated list contains 82 awesome open-source projects with a total of 260K 
 
 _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
-<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇41 ·  ⭐ 16K · 📈) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇41 ·  ⭐ 16K) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/keycloak/keycloak) (👨‍💻 1.2K · 🔀 5.2K · 📥 1.7M · 📦 260 · 📋 5.9K - 26% open · ⏱️ 24.04.2023):
 
@@ -99,7 +99,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥈28 ·  ⭐ 5.9K) - An open-source Identity and Access Management (IAM) / Single-Sign-On.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 680 · 📦 1 · 📋 750 - 13% open · ⏱️ 23.04.2023):
+- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 110 · 🔀 680 · 📦 1 · 📋 750 - 14% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/casdoor/casdoor
@@ -141,6 +141,14 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/janssenproject/jans
 	```
 </details>
+<details><summary><b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉25 ·  ⭐ 3.6K · 📈) - The authentication glue you need. <code><a href="https://github.com/goauthentik/authentik/blob/13591fc72cd2f07bdd1c17f66e4f4f0a6608d8eb/authentik/enterprise/LICENSE">❗️Custom</a></code></summary>
+
+- [GitHub](https://github.com/goauthentik/authentik) (👨‍💻 150 · 🔀 290 · 📥 890 · 📋 1.2K - 25% open · ⏱️ 24.04.2023):
+
+	```
+	git clone https://github.com/goauthentik/authentik
+	```
+</details>
 <details><summary><b><a href="https://github.com/kanidm/kanidm">kanidm</a></b> (🥉25 ·  ⭐ 1.4K) - Kanidm: A simple, secure and fast identity management platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/kanidm/kanidm) (👨‍💻 40 · 🔀 80 · 📥 18 · 📦 42 · 📋 450 - 22% open · ⏱️ 24.04.2023):
@@ -165,6 +173,18 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull freeipa/freeipa-server
 	```
 </details>
+<details><summary><b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉22 ·  ⭐ 8.6K · 📈) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code></summary>
+
+- [GitHub](https://github.com/supertokens/supertokens-core) (👨‍💻 24 · 🔀 300 · 📋 400 - 22% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/supertokens/supertokens-core
+	```
+- [Docker Hub](https://hub.docker.com/r/registry.supertokens.io/supertokens/supertokens-postgresql):
+	```
+	docker pull registry.supertokens.io/supertokens/supertokens-postgresql
+	```
+</details>
 <details><summary><b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉19 ·  ⭐ 660) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
 
 - [GitHub](https://github.com/openstack/keystone) (👨‍💻 710 · 🔀 640 · ⏱️ 21.04.2023):
@@ -173,10 +193,8 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/openstack/keystone
 	```
 </details>
-<details><summary>Show 3 hidden projects...</summary>
+<details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉24 ·  ⭐ 3.6K) - The authentication glue you need. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉21 ·  ⭐ 8.6K) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉21 ·  ⭐ 3.4K · 💀) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -243,6 +261,14 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	git clone https://github.com/doorkeeper-gem/doorkeeper
 	```
 </details>
+<details><summary><b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉29 ·  ⭐ 1K · 📈) - The most flexible and standards-compliant OpenID Connect.. <code><a href="https://duendesoftware.com/license">❗️Custom</a></code></summary>
+
+- [GitHub](https://github.com/DuendeSoftware/IdentityServer) (👨‍💻 290 · 🔀 210 · 📦 950 · 📋 250 - 22% open · ⏱️ 20.04.2023):
+
+	```
+	git clone https://github.com/duendesoftware/identityserver
+	```
+</details>
 <details><summary><b><a href="https://github.com/dexidp/dex">dex</a></b> (🥉28 ·  ⭐ 8K) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/dexidp/dex) (👨‍💻 220 · 🔀 1.4K · 📥 240 · 📦 15 · 📋 1.1K - 26% open · ⏱️ 23.04.2023):
@@ -254,10 +280,6 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	```
 	docker pull quay.io/dexidp/dex
 	```
-</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉28 ·  ⭐ 1K) - The most flexible and standards-compliant OpenID Connect.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -377,7 +399,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/Permify/permify">permify</a></b> (🥉22 ·  ⭐ 1.3K) - Permify is an open-source authorization service inspired by Google.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Permify/permify) (👨‍💻 18 · 🔀 44 · 📥 390 · 📋 83 - 28% open · ⏱️ 24.04.2023):
+- [GitHub](https://github.com/Permify/permify) (👨‍💻 18 · 🔀 44 · 📥 390 · 📋 84 - 29% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/permify/permify
@@ -409,7 +431,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 ---
 <details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈25 ·  ⭐ 220) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
-- [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 56 · 🔀 150 · 📦 280 · 📋 1.6K - 24% open · ⏱️ 22.04.2023):
+- [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 56 · 🔀 150 · 📦 280 · 📋 1.6K - 24% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/hyperledger/aries-framework-go
@@ -459,6 +481,22 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
  _4 projects are hidden because they don't fulfill the minimal requirements._
 
 ---
+</details>
+<details><summary><b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇29 ·  ⭐ 1.7K · 📈) - Solid server on top of the file-system in NodeJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
+
+- [GitHub](https://github.com/nodeSolidServer/node-solid-server) (👨‍💻 85 · 🔀 280 · 📦 36 · 📋 880 - 30% open · ⏱️ 06.04.2023):
+
+	```
+	git clone https://github.com/nodesolidserver/node-solid-server
+	```
+- [npm](https://www.npmjs.com/package/solid-server) (📥 380 / month):
+	```
+	npm install solid-server
+	```
+- [Docker Hub](https://hub.docker.com/r/nodesolidserver/node-solid-server) (📥 840K · ⭐ 4 · ⏱️ 06.04.2023):
+	```
+	docker pull nodesolidserver/node-solid-server
+	```
 </details>
 <details><summary><b><a href="https://github.com/decentralized-identity/did-jwt">did-jwt</a></b> (🥇29 ·  ⭐ 290) - Create and verify DID verifiable JWTs in Javascript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
@@ -554,19 +592,18 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥉14 ·  ⭐ 120) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
 
-- [GitHub](https://github.com/TBD54566975/ssi-service) (👨‍💻 16 · 🔀 41 · 📋 120 - 51% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/TBD54566975/ssi-service) (👨‍💻 16 · 🔀 41 · 📋 120 - 51% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/tbd54566975/ssi-service
 	```
 </details>
-<details><summary>Show 6 hidden projects...</summary>
+<details><summary>Show 5 hidden projects...</summary>
 
 - <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 48) - Trinsic SDK repository.
 - <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥉18 ·  ⭐ 90) - Evernym Verity is a decentralized protocol platform for issuing and..
-- <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥉18 ·  ⭐ 26 · 📉) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and..
+- <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥉18 ·  ⭐ 26) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and NFT..
 - <b><a href="https://github.com/0xPolygonID/sh-id-platform">polygon-id</a></b> (🥉15 ·  ⭐ 52 · 🐣) - Self Hosted ID Platform.
-- <b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇27 ·  ⭐ 1.7K) - Solid server on top of the file-system in NodeJS. <code>❗Unlicensed</code> <a href="https://solidproject.org/"><code>solid</code></a>
 - <b><a href="https://github.com/decentralized-identity/web-did-resolver">web-did-resolver</a></b> (🥈21 ·  ⭐ 67) - DID resolver for HTTPS domains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 </details>
 <br>
@@ -600,6 +637,14 @@ _Standard protocols, schemas, formats, etc._
 	git clone https://github.com/decentralized-identity/sidetree
 	```
 </details>
+<details><summary><b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥈19 ·  ⭐ 950) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://www.w3.org/Consortium/Legal/2023/doc-license">❗️Custom</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
+
+- [GitHub](https://github.com/w3c/webauthn) (👨‍💻 67 · 🔀 140 · 📋 1.1K - 6% open · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/w3c/webauthn
+	```
+</details>
 <details><summary><b><a href="https://github.com/hyperledger/aries-rfcs">aries-rfcs</a></b> (🥈19 ·  ⭐ 300) - Hyperledger Aries is infrastructure for blockchain-rooted,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-rfcs) (👨‍💻 84 · 🔀 200 · 📋 220 - 22% open · ⏱️ 31.03.2023):
@@ -608,10 +653,13 @@ _Standard protocols, schemas, formats, etc._
 	git clone https://github.com/hyperledger/aries-rfcs
 	```
 </details>
-<details><summary>Show 2 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥉18 ·  ⭐ 230) - W3C Verifiable Credentials Working Group VC Data Model.. <code><a href="https://www.w3.org/Consortium/Legal/2023/doc-license">❗️Custom</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
-- <b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥉18 ·  ⭐ 950 · ➕) - Web Authentication: An API for accessing Public Key.. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥉17 ·  ⭐ 230 · ➕) - W3C Verifiable Credentials Working Group VC Data.. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 56 · 🔀 69 · 📋 520 - 12% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/w3c/vc-data-model
+	```
 </details>
 <br>
 
@@ -651,7 +699,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 </details>
 <details><summary><b><a href="https://github.com/Netflix/lemur">lemur</a></b> (🥉24 ·  ⭐ 1.6K) - Repository for the Lemur Certificate Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Netflix/lemur) (👨‍💻 150 · 🔀 300 · 📥 47 · 📋 510 - 23% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/Netflix/lemur) (👨‍💻 150 · 🔀 300 · 📥 47 · 📋 510 - 23% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/netflix/lemur
@@ -761,6 +809,18 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull oryd/oathkeeper
 	```
 </details>
+<details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉26 ·  ⭐ 660 · 📈) - CyberArk Conjur automatically secures secrets used by privileged.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
+
+- [GitHub](https://github.com/cyberark/conjur) (👨‍💻 87 · 🔀 120 · 📥 300 · 📋 1.1K - 18% open · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/cyberark/conjur
+	```
+- [Docker Hub](https://hub.docker.com/r/cyberark/conjur) (📥 6.8M · ⭐ 29 · ⏱️ 18.04.2023):
+	```
+	docker pull cyberark/conjur
+	```
+</details>
 <details><summary><b><a href="https://github.com/spiffe/spiffe">spiffe</a></b> (🥉17 ·  ⭐ 1.2K) - The SPIFFE Project. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/spiffe/spiffe) (👨‍💻 56 · 🔀 140 · 📋 54 - 31% open · ⏱️ 22.04.2023):
@@ -769,10 +829,17 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	git clone https://github.com/spiffe/spiffe
 	```
 </details>
-<details><summary>Show 2 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉12 ·  ⭐ 230 · 💤) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code><a href="http://www.apache.org/licenses/LICENSE-2.0">❗️Custom</a></code></summary>
 
-- <b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉25 ·  ⭐ 660) - CyberArk Conjur automatically secures secrets used by privileged.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉11 ·  ⭐ 230 · 💤) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code>❗Unlicensed</code>
+- [GitHub](https://github.com/cogolabs/beyond) (👨‍💻 5 · 🔀 25 · 📋 5 - 80% open · ⏱️ 25.05.2022):
+
+	```
+	git clone https://github.com/cogolabs/beyond
+	```
+- [Docker Hub](https://hub.docker.com/r/cogolabs/beyond) (📥 18K · ⏱️ 16.03.2021):
+	```
+	docker pull cogolabs/beyond
+	```
 </details>
 
 ---
