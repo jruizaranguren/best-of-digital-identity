@@ -4,28 +4,27 @@ configuration:
   allowed_licenses: ["all"]
 
 categories:
-  - category: authorization
-    title: Authorization
-    subtitle: "Authorization and policy managing libraries, tools and projects."
-  - category: authentication
-    title: Authentication, Oauth2, OIDC
-    subtitle: "Authentication, Oauth2 authorization, and OIDC tools and projects"
   - category: idp
     title: Identity Providers
     subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
+  - category: authentication
+    title: Authentication, Oauth2, OIDC
+    subtitle: "Authentication, Oauth2 authorization, and OIDC tools and projects"
+  - category: authorization
+    title: Authorization
+    subtitle: "Authorization and policy managing libraries, tools and projects."
+  - category: decentralized
+    title: Decentralized Identity
+    subtitle: "Identity Wallets, Self-sovereign identity and decentralized identity projects"
   - category: standards
     title: Standards
     subtitle: "Standard protocols, schemas, formats, etc."
   - category: pki
     title: Public Key Infrastructure and Key Management
     subtitle: "Tools, libraries and certificate managers for Public Key Infrastructure and Key management"
-  - category: decentralized
-    title: Decentralized Identity
-    subtitle: "Identity Wallets, Self-sovereign identity and decentralized identity projects"
   - category: machine
     title: Machine Identity Management
     subtitle: "Tools, services and protocols for machine to machine secure digital interactions"
-
 labels:
   - label: ory
     name: ory
@@ -57,6 +56,9 @@ labels:
   - label: hyperledger
     name: hyperledger
     url: https://www.hyperledger.org/
+  - label: w3c
+    name: w3c
+    url: https://www.w3.org/
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -487,5 +489,12 @@ projects:
     github_id:  tbd54566975/ssi-service
     category: decentralized
     labels: ["web5"]
-
+  - name: webauthn
+    github_id: w3c/webauthn
+    category: standards
+    labels: ["w3c"]
+  - name: vc-data-model
+    github_id: w3c/vc-data-model
+    category: standards
+    labels: ["w3c"]
 
