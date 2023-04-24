@@ -109,7 +109,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull casbin/casdoor
 	```
 </details>
-<details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥈27 ·  ⭐ 5.6K) - Logto is a cost-effective open-source alternative to Auth0. It offers.. <code><a href="https://www.mozilla.org/en-US/MPL/2.0/">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥈28 ·  ⭐ 5.6K · 📈) - Logto is a cost-effective open-source alternative to Auth0. It.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/logto-io/logto) (👨‍💻 33 · 🔀 200 · 📥 1.4K · 📦 6 · 📋 230 - 19% open · ⏱️ 24.04.2023):
 
@@ -121,7 +121,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull svhd/logto
 	```
 </details>
-<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥈27 ·  ⭐ 3.3K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 3.3K) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 52 · 🔀 180 · 📥 1.9K · 📦 1 · 📋 1.4K - 23% open · ⏱️ 24.04.2023):
 
@@ -133,7 +133,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull ghcr.io/zitadel/zitadel
 	```
 </details>
-<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥈27 ·  ⭐ 200) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉27 ·  ⭐ 200) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 48 · 📥 530 · 📋 2K - 13% open · ⏱️ 24.04.2023):
 
@@ -141,7 +141,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/janssenproject/jans
 	```
 </details>
-<details><summary><b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉25 ·  ⭐ 3.6K · 📈) - The authentication glue you need. <code><a href="https://github.com/goauthentik/authentik/blob/13591fc72cd2f07bdd1c17f66e4f4f0a6608d8eb/authentik/enterprise/LICENSE">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/goauthentik/authentik">authentik</a></b> (🥉25 ·  ⭐ 3.6K) - The authentication glue you need. <code><a href="https://github.com/goauthentik/authentik/blob/13591fc72cd2f07bdd1c17f66e4f4f0a6608d8eb/authentik/enterprise/LICENSE">❗️Custom</a></code></summary>
 
 - [GitHub](https://github.com/goauthentik/authentik) (👨‍💻 150 · 🔀 290 · 📥 890 · 📋 1.2K - 25% open · ⏱️ 24.04.2023):
 
@@ -173,7 +173,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull freeipa/freeipa-server
 	```
 </details>
-<details><summary><b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉22 ·  ⭐ 8.6K · 📈) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉22 ·  ⭐ 8.6K) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code></summary>
 
 - [GitHub](https://github.com/supertokens/supertokens-core) (👨‍💻 24 · 🔀 300 · 📋 400 - 22% open · ⏱️ 22.04.2023):
 
@@ -261,7 +261,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	git clone https://github.com/doorkeeper-gem/doorkeeper
 	```
 </details>
-<details><summary><b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉29 ·  ⭐ 1K · 📈) - The most flexible and standards-compliant OpenID Connect.. <code><a href="https://duendesoftware.com/license">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/DuendeSoftware/IdentityServer">identity-server</a></b> (🥉29 ·  ⭐ 1K) - The most flexible and standards-compliant OpenID Connect and.. <code><a href="https://duendesoftware.com/license">❗️Custom</a></code></summary>
 
 - [GitHub](https://github.com/DuendeSoftware/IdentityServer) (👨‍💻 290 · 🔀 210 · 📦 950 · 📋 250 - 22% open · ⏱️ 20.04.2023):
 
@@ -482,7 +482,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇29 ·  ⭐ 1.7K · 📈) - Solid server on top of the file-system in NodeJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇29 ·  ⭐ 1.7K) - Solid server on top of the file-system in NodeJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 - [GitHub](https://github.com/nodeSolidServer/node-solid-server) (👨‍💻 85 · 🔀 280 · 📦 36 · 📋 880 - 30% open · ⏱️ 06.04.2023):
 
@@ -637,7 +637,7 @@ _Standard protocols, schemas, formats, etc._
 	git clone https://github.com/decentralized-identity/sidetree
 	```
 </details>
-<details><summary><b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥈19 ·  ⭐ 950) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://www.w3.org/Consortium/Legal/2023/doc-license">❗️Custom</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
+<details><summary><b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥈19 ·  ⭐ 950) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
 - [GitHub](https://github.com/w3c/webauthn) (👨‍💻 67 · 🔀 140 · 📋 1.1K - 6% open · ⏱️ 21.04.2023):
 
@@ -653,7 +653,7 @@ _Standard protocols, schemas, formats, etc._
 	git clone https://github.com/hyperledger/aries-rfcs
 	```
 </details>
-<details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥉18 ·  ⭐ 230) - W3C Verifiable Credentials Working Group VC Data Model.. <code><a href="https://www.w3.org/Consortium/Legal/2023/doc-license">❗️Custom</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
+<details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥉18 ·  ⭐ 230) - W3C Verifiable Credentials Working Group VC Data Model and.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
 - [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 56 · 🔀 69 · 📋 520 - 12% open · ⏱️ 22.04.2023):
 
@@ -809,7 +809,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull oryd/oathkeeper
 	```
 </details>
-<details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉26 ·  ⭐ 660 · 📈) - CyberArk Conjur automatically secures secrets used by privileged.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
+<details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉26 ·  ⭐ 660) - CyberArk Conjur automatically secures secrets used by privileged users.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
 
 - [GitHub](https://github.com/cyberark/conjur) (👨‍💻 87 · 🔀 120 · 📥 300 · 📋 1.1K - 18% open · ⏱️ 21.04.2023):
 
@@ -829,7 +829,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	git clone https://github.com/spiffe/spiffe
 	```
 </details>
-<details><summary><b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉12 ·  ⭐ 230 · 💤) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code><a href="http://www.apache.org/licenses/LICENSE-2.0">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉13 ·  ⭐ 230 · 💤) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/cogolabs/beyond) (👨‍💻 5 · 🔀 25 · 📋 5 - 80% open · ⏱️ 25.05.2022):
 
