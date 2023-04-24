@@ -59,6 +59,9 @@ labels:
   - label: w3c
     name: w3c
     url: https://www.w3.org/
+  - label: openid
+    name: openid
+    url: https://openid.net/
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -506,4 +509,36 @@ projects:
     category: standards
     labels: ["w3c"]
     license: "W3C"
+  - name: presentation-exchange
+    github_id: decentralized-identity/presentation-exchange
+    category: standards
+    labels: ["dif"]
+  - name: appauth-android
+    github_id: openid/appauth-android
+    category: authentication
+    maven_id: net.openid:appauth
+    labels: ["openid"]
+  - name: appauth-ios
+    github_id: openid/appauth-ios
+    category: authentication
+    labels: ["openid"]
+  - name: appauth-js
+    github_id: openid/appauth-js
+    category: authentication
+    labels: ["openid"]
+  - name: did-core
+    github_id: w3c/did-core
+    category: standards
+    license: "W3C"
+    labels: ["w3c"]
+  - name: vc-api
+    github_Id: w3c-ccg/vs-api
+    category: standards
+    license: "W3C"
+    labels: ["w3c"]
+  - name: universal-wallet-interop-spec
+    github_Id: w3c-ccg/universal-wallet-interop-spec
+    category: standards
+    license: "W3C"
+    labels: ["w3c"]
 
