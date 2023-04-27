@@ -1,28 +1,10 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/spruceid/didkit">spruceid</a></b> (🥈20 ·  ⭐ 380 · 📈) - A cross-platform toolkit for decentralized identity.
-- <b><a href="https://github.com/0xPolygonID/sh-id-platform">polygon-id</a></b> (🥉16 ·  ⭐ 55 · 🐣) - Self Hosted ID Platform.
-- <b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥈28 ·  ⭐ 3.3K · 📈) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥇27 ·  ⭐ 180 · 📈) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/walt-id/waltid-idpkit">waltid-idpkit</a></b> (🥉15 ·  ⭐ 12 · 📈) - OIDC identity provider for SSI & NFTs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉20 ·  ⭐ 3.4K · 📉) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-
-## ➕ Added Projects
-
-_Projects that were recently added to this best-of list._
-
-- <b><a href="https://github.com/openid/AppAuth-iOS">appauth-ios</a></b> (🥉21 ·  ⭐ 1.5K · ➕) - iOS and macOS SDK for communicating with OAuth 2.0 and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openid.net/"><code>openid</code></a>
-- <b><a href="https://github.com/openid/AppAuth-Android">appauth-android</a></b> (🥉19 ·  ⭐ 2.4K · 💀) - Android client SDK for communicating with OAuth 2.0.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openid.net/"><code>openid</code></a>
-- <b><a href="https://github.com/openid/AppAuth-JS">appauth-js</a></b> (🥉17 ·  ⭐ 920 · 💤) - JavaScript client SDK for communicating with OAuth 2.0.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openid.net/"><code>openid</code></a>
-- <b><a href="https://github.com/w3c/did-core">did-core</a></b> (🥉15 ·  ⭐ 370 · ➕) - W3C Decentralized Identifier Specification v1.0. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/decentralized-identity/presentation-exchange">presentation-exchange</a></b> (🥉15 ·  ⭐ 70 · ➕) - Specification that codifies an inter-related pair of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="{}">vc-api</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="{}">universal-wallet-interop-spec</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- <b><a href="https://github.com/coredns/coredns">coredns</a></b> (🥇35 ·  ⭐ 11K · 📉) - CoreDNS is a DNS server that chains plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a> <a href="https://www.cncf.io/"><code>cncf</code></a>
+- <b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥈33 ·  ⭐ 16K · 📉) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code>
+- <b><a href="https://github.com/hashicorp/vault">vault</a></b> (🥈32 ·  ⭐ 28K · 📉) - A tool for secrets management, encryption as a service, and.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a>
+- <b><a href="https://github.com/stalniy/casl">casl</a></b> (🥈28 ·  ⭐ 4.8K · 📉) - CASL is an isomorphic authorization JavaScript library which restricts.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/doorkeeper-gem/doorkeeper">doorkeeper</a></b> (🥉24 ·  ⭐ 5.1K · 📉) - Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
