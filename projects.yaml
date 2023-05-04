@@ -547,5 +547,3 @@ projects:
   - name: entra-verifiedid-wallet-library-ios
     github_id: microsoft/entra-verifiedid-wallet-library-ios
     category: decentralized
-
-

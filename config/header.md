@@ -22,32 +22,7 @@ This curated list contains {project_count} awesome open-source projects with a t
 
 🔥 This list is also available on [best-of.org](https://best-of.org). There you can also find similar lists for other topics. 🏆
 
-[]: # Path: config/TOC.md
-## Contents
-
-- [Authentication](#authentication)
-- [Authorization](#authorization)
-- [Federation](#federation)
-- [Identity Management](#identity-management)
-- [Identity Proofing](#identity-proofing)
-- [Identity Verification](#identity-verification)
-- [OAuth](#oauth)
-- [OpenID](#openid)
-- [Passwordless](#passwordless)
-- [SAML](#saml)
-- [SCIM](#scim)
-- [Single Sign On](#single-sign-on)
-- [Social Login](#social-login)
-- [User Management](#user-management)
-- [WebAuthn](#webauthn)
-
-[]: # Path: config/authentication.md
-## Authentication
-
-- [authelia](
-
 If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
-
 
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
