@@ -532,13 +532,20 @@ projects:
     license: "W3C"
     labels: ["w3c"]
   - name: vc-api
-    github_Id: w3c-ccg/vs-api
+    github_id: w3c-ccg/vs-api
     category: standards
     license: "W3C"
     labels: ["w3c"]
   - name: universal-wallet-interop-spec
-    github_Id: w3c-ccg/universal-wallet-interop-spec
+    github_id: w3c-ccg/universal-wallet-interop-spec
     category: standards
     license: "W3C"
     labels: ["w3c"]
+  - name: entra-verifiedid-wallet-library-android
+    github_id: microsoft/entra-verifiedid-wallet-library-android
+    category: decentralized
+  - name: entra-verifiedid-wallet-library-ios
+    github_id: microsoft/entra-verifiedid-wallet-library-ios
+    category: decentralized
+
 
