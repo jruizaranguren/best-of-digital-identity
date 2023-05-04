@@ -15,7 +15,40 @@
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 92 awesome open-source projects with a total of 270K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 92 awesome open-source projects with a total of 270K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers.
+
+>   🚨 This calculation is just chosen by experience. There is no scientific proof that this really reflects the quality of a project. It considers evidence retrieved from github suchs as contributors, activity,     releases, commits, etc. and from package managers like npm, pypi, etc. such as downloads, dependents, etc.
+
+
+🔥 This list is also available on [best-of.org](https://best-of.org). There you can also find similar lists for other topics. 🏆
+
+[]: # Path: config/TOC.md
+## Contents
+
+- [Authentication](#authentication)
+- [Authorization](#authorization)
+- [Federation](#federation)
+- [Identity Management](#identity-management)
+- [Identity Proofing](#identity-proofing)
+- [Identity Verification](#identity-verification)
+- [OAuth](#oauth)
+- [OpenID](#openid)
+- [Passwordless](#passwordless)
+- [SAML](#saml)
+- [SCIM](#scim)
+- [Single Sign On](#single-sign-on)
+- [Social Login](#social-login)
+- [User Management](#user-management)
+- [WebAuthn](#webauthn)
+
+[]: # Path: config/authentication.md
+## Authentication
+
+- [authelia](
+
+If you like to add or update projects, feel free to open an [issue](https://github.com/jruizaranguren/best-of-digital-identity/issues/new/choose), submit a [pull request](https://github.com/jruizaranguren/best-of-digital-identity/pulls), or directly edit the [projects.yaml](https://github.com/jruizaranguren/best-of-digital-identity/edit/main/projects.yaml). Contributions are very welcome!
+
+
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -156,7 +189,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	```
 	git clone https://github.com/kanidm/kanidm
 	```
-- [Docker Hub](https://hub.docker.com/r/kanidm/server) (📥 4.9K · ⏱️ 01.05.2023):
+- [Docker Hub](https://hub.docker.com/r/kanidm/server) (📥 5K · ⏱️ 01.05.2023):
 	```
 	docker pull kanidm/server
 	```
