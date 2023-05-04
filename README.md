@@ -99,7 +99,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥈28 ·  ⭐ 5.9K) - An open-source Identity and Access Management (IAM) / Single-Sign-On.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 120 · 🔀 690 · 📦 1 · 📋 760 - 14% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 120 · 🔀 690 · 📦 1 · 📋 760 - 13% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/casdoor/casdoor
@@ -193,7 +193,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/netlify/gotrue
 	```
 </details>
-<details><summary><b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉18 ·  ⭐ 660 · 📉) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
+<details><summary><b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉18 ·  ⭐ 660) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a></summary>
 
 - [GitHub](https://github.com/openstack/keystone) (👨‍💻 710 · 🔀 640 · ⏱️ 21.04.2023):
 
@@ -209,7 +209,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 
 _Authentication, Oauth2 authorization, and OIDC tools and projects_
 
-<details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇41 ·  ⭐ 16K · 📈) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/nextauthjs/next-auth">nextauthjs</a></b> (🥇41 ·  ⭐ 16K) - Authentication for the Web. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/nextauthjs/next-auth) (👨‍💻 530 · 🔀 1.9K · 📦 78K · 📋 3K - 4% open · ⏱️ 03.05.2023):
 
@@ -313,7 +313,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 
 _Authorization and policy managing libraries, tools and projects._
 
-<details><summary><b><a href="https://github.com/open-policy-agent/opa">open-policy-agent</a></b> (🥇39 ·  ⭐ 8K · 📈) - An open source, general-purpose policy engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/open-policy-agent/opa">open-policy-agent</a></b> (🥇39 ·  ⭐ 8K) - An open source, general-purpose policy engine. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/open-policy-agent/opa) (👨‍💻 380 · 🔀 1.1K · 📥 2.9M · 📦 2.4K · 📋 2.2K - 13% open · ⏱️ 03.05.2023):
 
@@ -349,7 +349,7 @@ _Authorization and policy managing libraries, tools and projects._
 	</dependency>
 	```
 </details>
-<details><summary><b><a href="https://github.com/stalniy/casl">casl</a></b> (🥈35 ·  ⭐ 4.8K · 📈) - CASL is an isomorphic authorization JavaScript library which restricts.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stalniy/casl">casl</a></b> (🥈35 ·  ⭐ 4.8K) - CASL is an isomorphic authorization JavaScript library which restricts what.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stalniy/casl) (👨‍💻 65 · 🔀 240 · 📦 42K · 📋 420 - 1% open · ⏱️ 04.05.2023):
 
@@ -363,7 +363,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈31 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 27 · 🔀 180 · 📥 13K · 📦 22 · 📋 330 - 30% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 27 · 🔀 180 · 📥 13K · 📦 22 · 📋 330 - 30% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/authzed/spicedb
@@ -399,7 +399,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/cerbos/cerbos">cerbos</a></b> (🥉27 ·  ⭐ 1.3K) - Cerbos is the open core, language-agnostic, scalable authorization.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cerbos/cerbos) (👨‍💻 18 · 🔀 61 · 📥 34K · 📦 11 · 📋 240 - 16% open · ⏱️ 04.05.2023):
+- [GitHub](https://github.com/cerbos/cerbos) (👨‍💻 18 · 🔀 61 · 📥 34K · 📦 11 · 📋 240 - 13% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/cerbos/cerbos
@@ -423,7 +423,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/Permify/permify">permify</a></b> (🥉22 ·  ⭐ 1.3K) - Permify is an open-source authorization service inspired by Google.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Permify/permify) (👨‍💻 20 · 🔀 44 · 📥 410 · 📋 90 - 25% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/Permify/permify) (👨‍💻 20 · 🔀 44 · 📥 410 · 📋 90 - 25% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/permify/permify
@@ -659,11 +659,11 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 _Standard protocols, schemas, formats, etc._
 
-<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇21 ·  ⭐ 8.6K · 📉) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇21 ·  ⭐ 8.6K) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 
 ---
-<details><summary><b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥉15 ·  ⭐ 400 · 📉) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥉15 ·  ⭐ 400) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 - [GitHub](https://github.com/solid/specification) (👨‍💻 19 · 🔀 35 · 📋 300 - 59% open · ⏱️ 03.05.2023):
 
@@ -717,7 +717,7 @@ _Standard protocols, schemas, formats, etc._
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/decentralized-identity/presentation-exchange">presentation-exchange</a></b> (🥉15 ·  ⭐ 70) - Specification that codifies an inter-related pair of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/w3c-ccg/universal-wallet-interop-spec">universal-wallet-interop-spec</a></b> (🥉10 ·  ⭐ 52 · 📈) - A data model and abstract interfaces for digital.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- <b><a href="https://github.com/w3c-ccg/universal-wallet-interop-spec">universal-wallet-interop-spec</a></b> (🥉10 ·  ⭐ 52) - A data model and abstract interfaces for digital.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
 </details>
 <br>
 
@@ -745,7 +745,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 </details>
 <details><summary><b><a href="https://github.com/letsencrypt/boulder">boulder</a></b> (🥈28 ·  ⭐ 4.6K) - An ACME-based certificate authority, written in Go. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/letsencrypt/boulder) (👨‍💻 120 · 🔀 520 · 📥 52K · 📋 2.8K - 6% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/letsencrypt/boulder) (👨‍💻 120 · 🔀 520 · 📥 52K · 📋 2.8K - 6% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/letsencrypt/boulder
@@ -799,7 +799,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 
 _Tools, services and protocols for machine to machine secure digital interactions_
 
-<details><summary><b><a href="https://github.com/coredns/coredns">coredns</a></b> (🥇41 ·  ⭐ 11K · 📈) - CoreDNS is a DNS server that chains plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/coredns/coredns">coredns</a></b> (🥇41 ·  ⭐ 11K) - CoreDNS is a DNS server that chains plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/coredns/coredns) (👨‍💻 350 · 🔀 1.8K · 📥 6.7M · 📦 5.1K · 📋 2.1K - 3% open · ⏱️ 04.05.2023):
 
@@ -833,7 +833,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥈32 ·  ⭐ 1.4K) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/spiffe/spire) (👨‍💻 150 · 🔀 370 · 📥 120K · 📦 110 · 📋 1.2K - 15% open · ⏱️ 02.05.2023):
+- [GitHub](https://github.com/spiffe/spire) (👨‍💻 160 · 🔀 370 · 📥 120K · 📦 110 · 📋 1.2K - 14% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/spiffe/spire
@@ -845,7 +845,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉31 ·  ⭐ 3.6K) - Boundary enables identity-based access management for dynamic.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
 
-- [GitHub](https://github.com/hashicorp/boundary) (👨‍💻 130 · 🔀 230 · 📦 8 · 📋 290 - 25% open · ⏱️ 03.05.2023):
+- [GitHub](https://github.com/hashicorp/boundary) (👨‍💻 130 · 🔀 230 · 📦 8 · 📋 290 - 25% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/hashicorp/boundary
@@ -869,12 +869,12 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉26 ·  ⭐ 670) - CyberArk Conjur automatically secures secrets used by privileged users.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
 
-- [GitHub](https://github.com/cyberark/conjur) (👨‍💻 87 · 🔀 120 · 📥 300 · 📋 1.1K - 18% open · ⏱️ 21.04.2023):
+- [GitHub](https://github.com/cyberark/conjur) (👨‍💻 88 · 🔀 120 · 📥 300 · 📋 1.1K - 18% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/cyberark/conjur
 	```
-- [Docker Hub](https://hub.docker.com/r/cyberark/conjur) (📥 6.8M · ⭐ 30 · ⏱️ 18.04.2023):
+- [Docker Hub](https://hub.docker.com/r/cyberark/conjur) (📥 6.8M · ⭐ 30 · ⏱️ 04.05.2023):
 	```
 	docker pull cyberark/conjur
 	```
