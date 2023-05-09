@@ -584,3 +584,30 @@ projects:
   - name: openbr
     github_id: biometrics/openbr
     category: face
+  - name: faceswap
+    github_id: deepfakes/faceswap
+    category: face
+  - name: deepfacelab
+    github_id: iperov/DeepFaceLab
+    category: face
+  - name: deepfacelive
+    github_id: iperov/DeepFaceLive
+    category: face
+  - name: whisper
+    github_id: openai/whisper
+    category: voice
+    pypi_id: openai-whisper
+  - name: paddlespeech
+    github_id: PaddlePaddle/PaddleSpeech
+    category: voice
+    pypi_id: paddlepaddle
+  - name: speechbrain
+    github_id: speechbrain/speechbrain
+    category: voice
+    pypi_id: speechbrain
+  - name: keripy
+    github_id: weboftrust/keripy
+    category: decentralized
+  - name: vlei
+    github_id: weboftrust/vlei
+    category: standards
