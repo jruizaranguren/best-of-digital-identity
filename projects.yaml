@@ -25,6 +25,12 @@ categories:
   - category: machine
     title: Machine Identity Management
     subtitle: "Tools, services and protocols for machine to machine secure digital interactions"
+  - category: face
+    title: Face biometrics
+    subtitle: "Face biometrics tools and projects concerning natural person identification"
+  - category: voice
+    title: Voice biometrics
+    subtitle: "Voice biometrics tools and projects concerning natural person identification"
 labels:
   - label: ory
     name: ory
@@ -547,3 +553,34 @@ projects:
   - name: entra-verifiedid-wallet-library-ios
     github_id: microsoft/entra-verifiedid-wallet-library-ios
     category: decentralized
+  - name: ageitgey-face-recognition
+    github_id: ageitgey/face_recognition
+    category: face
+    pypi_id: face_recognition
+    dockerhub_id: animcogn/face_recognition
+  - name: face-api-js
+    github_id: justadudewhohacks/face-api.js
+    category: face
+    npm_id: face-api.js
+  - name: openface
+    github_id: cmusatyalab/openface
+    category: face
+    dockerhub_id: bamos/openface
+  - name: insightface
+    github_id: deepinsight/insightface
+    category: face
+    dockerhub_id: animcogn/insightface
+  - name: facenet
+    github_id: davidsandberg/facenet
+    category: face
+  - name: deepface
+    github_id: serengil/deepface
+    category: face
+    pypi_id: deepface
+  - name: howdy
+    github_id: boltgolt/howdy
+    category: authentication
+    apt_id: howdy
+  - name: openbr
+    github_id: biometrics/openbr
+    category: face
