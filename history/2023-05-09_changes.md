@@ -2,28 +2,18 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈20 ·  ⭐ 55 · 🐣) - Self Hosted Issuer Node.
-- <b><a href="https://github.com/kanidm/kanidm">kanidm</a></b> (🥉26 ·  ⭐ 1.4K · 📈) - Kanidm: A simple, secure and fast identity management platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code>
-- <b><a href="https://github.com/hyperledger/aries-vcx">aries-vcx</a></b> (🥈24 ·  ⭐ 52 · 📈) - AriesVCX is a Rust library for building web and mobile.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
-- <b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉23 ·  ⭐ 8.7K · 📈) - Open source alternative to Auth0 / Firebase Auth / AWS.. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code>
-- <b><a href="https://github.com/openstack/keystone">keystone</a></b> (🥉19 ·  ⭐ 660 · 📈) - OpenStack Identity (Keystone). Mirror of code maintained at.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.openstack.org/"><code>openstack</code></a>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉19 ·  ⭐ 3.4K · 📉) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/netlify/gotrue">gotrue</a></b> (🥉21 ·  ⭐ 3.4K · 📈) - An SWT based API for managing users and issuing SWT tokens. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/justadudewhohacks/face-api.js">face-api-js</a></b> (🥇33 ·  ⭐ 15K · 💀) - JavaScript API for face detection and face recognition in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/deepinsight/insightface">insightface</a></b> (🥈32 ·  ⭐ 14K · ➕) - State-of-the-art 2D and 3D Face Analysis Project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ageitgey/face_recognition">ageitgey-face-recognition</a></b> (🥈30 ·  ⭐ 48K · 💤) - The worlds simplest facial recognition api for Python.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/serengil/deepface">deepface</a></b> (🥈30 ·  ⭐ 6.2K · ➕) - A Lightweight Face Recognition and Facial Attribute Analysis (Age,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/cmusatyalab/openface">openface</a></b> (🥉28 ·  ⭐ 15K · 💀) - Face recognition with deep neural networks. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/boltgolt/howdy">howdy</a></b> (🥉23 ·  ⭐ 4.7K · ➕) - Windows Hello style facial authentication for Linux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/davidsandberg/facenet">facenet</a></b> (🥉21 ·  ⭐ 13K · 💀) - Face recognition using Tensorflow. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/biometrics/openbr">openbr</a></b> (🥉21 ·  ⭐ 2.8K · ➕) - Open Source Biometrics, Face Recognition. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/speechbrain/speechbrain">speechbrain</a></b> (🥇35 ·  ⭐ 5.9K · ➕) - A PyTorch-based Speech Toolkit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/PaddlePaddle/PaddleSpeech">paddlespeech</a></b> (🥉34 ·  ⭐ 7.2K · ➕) - Easy-to-use Speech Toolkit including Self-Supervised.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/deepfakes/faceswap">faceswap</a></b> (🥉29 ·  ⭐ 45K · ➕) - Deepfakes Software For All. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉26 ·  ⭐ 36K · ➕) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/iperov/DeepFaceLab">deepfacelab</a></b> (🥉24 ·  ⭐ 39K · ➕) - DeepFaceLab is the leading software for creating deepfakes. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/iperov/DeepFaceLive">deepfacelive</a></b> (🥉23 ·  ⭐ 11K · ➕) - Real-time face swap for PC streaming or video calls. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/WebOfTrust/keripy">keripy</a></b> (🥉17 ·  ⭐ 31 · ➕) - Key Event Receipt Infrastructure - the spec and implementation of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/WebOfTrust/vLEI">vlei</a></b> (🥉7 ·  ⭐ 14 · ➕) - Public Open Specifications for GLEIF vLEI (verifiable Legal Entity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 
