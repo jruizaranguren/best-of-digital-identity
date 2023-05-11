@@ -605,9 +605,27 @@ projects:
     github_id: speechbrain/speechbrain
     category: voice
     pypi_id: speechbrain
-  - name: keripy
-    github_id: weboftrust/keripy
+  - name: keripyhyperledger
     category: decentralized
   - name: vlei
     github_id: weboftrust/vlei
     category: standards
+  - name: bbs-signature
+    github_id: decentralized-identity/bbs-signature
+    category: standards
+    labels: ["dif"]
+  - name: anoncreds
+    github_id: hyperledger/anoncreds-spec
+    category: standards
+    labels: ["hyperledger"]
+  - name: fedfm
+    github_id: fedidcg/FedCM
+    category: standards
+    labels: ["w3c"]
+  - name: selective-disclosure-jwt
+    github_id: oauth-selective-disclosure-jwt
+    category: decentralized
+  - name: passport
+    github_id: jaredhanson/passport
+    category: authentication
+    npm_id: passport
