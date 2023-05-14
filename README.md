@@ -77,7 +77,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/ory/kratos">ory-kratos</a></b> (🥇36 ·  ⭐ 8.7K) - Next-gen identity server (think Auth0, Okta, Firebase) with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
 
-- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 730 · 📥 29K · 📦 320 · 📋 1.1K - 21% open · ⏱️ 08.05.2023):
+- [GitHub](https://github.com/ory/kratos) (👨‍💻 190 · 🔀 740 · 📥 29K · 📦 320 · 📋 1.1K - 21% open · ⏱️ 08.05.2023):
 
 	```
 	git clone https://github.com/ory/kratos
@@ -89,7 +89,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/apereo/cas">cas</a></b> (🥈31 ·  ⭐ 10K) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/apereo/cas) (👨‍💻 340 · 🔀 3.8K · ⏱️ 08.05.2023):
+- [GitHub](https://github.com/apereo/cas) (👨‍💻 340 · 🔀 3.8K · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/apereo/cas
@@ -109,7 +109,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/casdoor/casdoor">casdoor</a></b> (🥈28 ·  ⭐ 6K) - An open-source Identity and Access Management (IAM) / Single-Sign-On.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 120 · 🔀 710 · 📦 1 · 📋 770 - 12% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/casdoor/casdoor) (👨‍💻 120 · 🔀 700 · 📦 1 · 📋 770 - 12% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/casdoor/casdoor
@@ -121,7 +121,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/logto-io/logto">logto</a></b> (🥈28 ·  ⭐ 5.7K) - Logto is a cost-effective open-source alternative to Auth0. It offers a.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/logto-io/logto) (👨‍💻 33 · 🔀 200 · 📥 1.6K · 📦 6 · 📋 240 - 19% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/logto-io/logto) (👨‍💻 33 · 🔀 200 · 📥 1.6K · 📦 6 · 📋 250 - 19% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/logto-io/logto
@@ -145,7 +145,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉27 ·  ⭐ 220) - Welcome to the Janssen Project, an open standards-based digital.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 48 · 📥 450 · 📋 2.2K - 15% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 48 · 📥 450 · 📋 2.2K - 15% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/janssenproject/jans
@@ -153,7 +153,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/kanidm/kanidm">kanidm</a></b> (🥉26 ·  ⭐ 1.4K) - Kanidm: A simple, secure and fast identity management platform. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/kanidm/kanidm) (👨‍💻 40 · 🔀 85 · 📥 18 · 📦 42 · 📋 460 - 22% open · ⏱️ 11.05.2023):
+- [GitHub](https://github.com/kanidm/kanidm) (👨‍💻 40 · 🔀 85 · 📥 18 · 📦 42 · 📋 460 - 23% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/kanidm/kanidm
@@ -171,9 +171,9 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/goauthentik/authentik
 	```
 </details>
-<details><summary><b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉23 ·  ⭐ 9K) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code></summary>
+<details><summary><b><a href="https://github.com/supertokens/supertokens-core">supertokens</a></b> (🥉23 ·  ⭐ 9.2K) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito. <code><a href="https://github.com/supertokens/supertokens-core/blob/4a134fff6e96c46546fd11d66592d75c9fcef614/ee/LICENSE.md">❗️Custom</a></code></summary>
 
-- [GitHub](https://github.com/supertokens/supertokens-core) (👨‍💻 24 · 🔀 320 · 📋 400 - 23% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/supertokens/supertokens-core) (👨‍💻 24 · 🔀 320 · 📋 400 - 22% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/supertokens/supertokens-core
@@ -243,7 +243,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	pip install oauthlib
 	```
 </details>
-<details><summary><b><a href="https://github.com/jaredhanson/passport">passport</a></b> (🥈37 ·  ⭐ 21K · ➕) - Simple, unobtrusive authentication for Node.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jaredhanson/passport">passport</a></b> (🥈37 ·  ⭐ 21K) - Simple, unobtrusive authentication for Node.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jaredhanson/passport) (👨‍💻 38 · 🔀 1.2K · 📦 830K · 📋 740 - 44% open · ⏱️ 10.03.2023):
 
@@ -393,7 +393,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈31 ·  ⭐ 3.4K) - Open Source, Google Zanzibar-inspired fine-grained permissions.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 27 · 🔀 180 · 📥 13K · 📦 22 · 📋 330 - 30% open · ⏱️ 08.05.2023):
+- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 27 · 🔀 180 · 📥 13K · 📦 22 · 📋 330 - 30% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/authzed/spicedb
@@ -439,21 +439,21 @@ _Authorization and policy managing libraries, tools and projects._
 	docker pull ghcr.io/cerbos/cerbos
 	```
 </details>
-<details><summary><b><a href="https://github.com/permitio/opal">opal</a></b> (🥉25 ·  ⭐ 1.3K · 📈) - Policy and data administration, distribution, and real-time updates.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/permitio/opal">opal</a></b> (🥉25 ·  ⭐ 1.3K) - Policy and data administration, distribution, and real-time updates on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/permitio/opal) (👨‍💻 38 · 🔀 96 · 📥 380 · 📋 100 - 31% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/permitio/opal
 	```
-- [Docker Hub](https://hub.docker.com/r/permitio/opal-server) (📥 32K · ⏱️ 10.05.2023):
+- [Docker Hub](https://hub.docker.com/r/permitio/opal-server) (📥 33K · ⏱️ 10.05.2023):
 	```
 	docker pull permitio/opal-server
 	```
 </details>
 <details><summary><b><a href="https://github.com/Permify/permify">permify</a></b> (🥉22 ·  ⭐ 1.4K) - Permify is an open-source authorization service inspired by Google.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Permify/permify) (👨‍💻 20 · 🔀 44 · 📥 420 · 📋 94 - 23% open · ⏱️ 09.05.2023):
+- [GitHub](https://github.com/Permify/permify) (👨‍💻 20 · 🔀 44 · 📥 430 · 📋 94 - 23% open · ⏱️ 09.05.2023):
 
 	```
 	git clone https://github.com/permify/permify
@@ -595,7 +595,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	npm install did-resolver
 	```
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a></b> (🥈25 ·  ⭐ 150 · 📉) - Create and verify W3C Verifiable Credentials and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a></b> (🥈25 ·  ⭐ 150) - Create and verify W3C Verifiable Credentials and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
 - [GitHub](https://github.com/decentralized-identity/did-jwt-vc) (👨‍💻 22 · 🔀 36 · 📦 580 · 📋 47 - 10% open · ⏱️ 09.05.2023):
 
@@ -609,7 +609,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/iotaledger/identity.rs">iota-identity</a></b> (🥈24 ·  ⭐ 250) - Implementation of the Decentralized Identity standards such.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/iotaledger/identity.rs) (👨‍💻 32 · 🔀 59 · 📦 79 · 📋 250 - 22% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/iotaledger/identity.rs) (👨‍💻 32 · 🔀 59 · 📦 79 · 📋 250 - 22% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/iotaledger/identity.rs
@@ -645,7 +645,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/TBD54566975/dwn-sdk-js">dwn-sdk-js</a></b> (🥉19 ·  ⭐ 280) - Decentralized Web Node (DWN) Reference implementation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
 
-- [GitHub](https://github.com/TBD54566975/dwn-sdk-js) (👨‍💻 26 · 🔀 66 · 📦 22 · 📋 150 - 25% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/TBD54566975/dwn-sdk-js) (👨‍💻 26 · 🔀 67 · 📦 22 · 📋 150 - 25% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/TBD54566975/dwn-sdk-js
@@ -657,7 +657,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/TBD54566975/ssi-sdk">tbd-ssi-sdk</a></b> (🥉16 ·  ⭐ 160) - self sovereign identity sdk. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
 
-- [GitHub](https://github.com/TBD54566975/ssi-sdk) (👨‍💻 15 · 🔀 42 · 📦 2 · 📋 130 - 30% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/TBD54566975/ssi-sdk) (👨‍💻 15 · 🔀 42 · 📦 2 · 📋 140 - 31% open · ⏱️ 10.05.2023):
 
 	```
 	git clone https://github.com/tbd54566975/ssi-sdk
@@ -665,7 +665,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥉14 ·  ⭐ 120) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a></summary>
 
-- [GitHub](https://github.com/TBD54566975/ssi-service) (👨‍💻 19 · 🔀 43 · 📋 120 - 48% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/TBD54566975/ssi-service) (👨‍💻 19 · 🔀 43 · 📋 130 - 49% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/tbd54566975/ssi-service
@@ -674,7 +674,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 <details><summary>Show 7 hidden projects...</summary>
 
 - <b><a href="https://github.com/trinsic-id/sdk">trinsic-id</a></b> (🥇27 ·  ⭐ 49) - Trinsic SDK repository.
-- <b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈20 ·  ⭐ 55 · 🐣) - Self Hosted Issuer Node.
+- <b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈20 ·  ⭐ 56 · 🐣) - Self Hosted Issuer Node.
 - <b><a href="https://github.com/evernym/verity">evernym-ssi</a></b> (🥉18 ·  ⭐ 91) - Evernym Verity is a decentralized protocol platform for issuing and..
 - <b><a href="https://github.com/TalaoDAO/AltMe">talao-altme</a></b> (🥉18 ·  ⭐ 28) - SSI + crypto wallet .Self Sovereign Identity wallet with cryptos and NFT..
 - <b><a href="https://github.com/decentralized-identity/web-did-resolver">web-did-resolver</a></b> (🥈21 ·  ⭐ 67) - DID resolver for HTTPS domains. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
@@ -747,11 +747,11 @@ _Standard protocols, schemas, formats, etc._
 <details><summary>Show 6 hidden projects...</summary>
 
 - <b><a href="https://github.com/decentralized-identity/presentation-exchange">presentation-exchange</a></b> (🥈15 ·  ⭐ 71) - Specification that codifies an inter-related pair of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/fedidcg/FedCM">fedfm</a></b> (🥉14 ·  ⭐ 270 · ➕) - A privacy preserving identity exchange Web API. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/decentralized-identity/bbs-signature">bbs-signature</a></b> (🥉13 ·  ⭐ 49 · ➕) - The BBS Signature Scheme. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/hyperledger/anoncreds-spec">anoncreds</a></b> (🥉12 ·  ⭐ 36 · ➕) - The specification for AnonCreds verifiable credential.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
-- <b><a href="https://github.com/w3c-ccg/universal-wallet-interop-spec">universal-wallet-interop-spec</a></b> (🥉9 ·  ⭐ 52 · 📉) - A data model and abstract interfaces for digital.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/WebOfTrust/vLEI">vlei</a></b> (🥉8 ·  ⭐ 14 · 📈) - Public Open Specifications for GLEIF vLEI (verifiable Legal Entity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/fedidcg/FedCM">fedfm</a></b> (🥉14 ·  ⭐ 270) - A privacy preserving identity exchange Web API. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- <b><a href="https://github.com/decentralized-identity/bbs-signature">bbs-signature</a></b> (🥉13 ·  ⭐ 49) - The BBS Signature Scheme. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
+- <b><a href="https://github.com/hyperledger/anoncreds-spec">anoncreds</a></b> (🥉12 ·  ⭐ 36) - The specification for AnonCreds verifiable credential exchange. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
+- <b><a href="https://github.com/w3c-ccg/universal-wallet-interop-spec">universal-wallet-interop-spec</a></b> (🥉9 ·  ⭐ 52) - A data model and abstract interfaces for digital.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- <b><a href="https://github.com/WebOfTrust/vLEI">vlei</a></b> (🥉8 ·  ⭐ 14) - Public Open Specifications for GLEIF vLEI (verifiable Legal Entity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -779,7 +779,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 </details>
 <details><summary><b><a href="https://github.com/letsencrypt/boulder">boulder</a></b> (🥈28 ·  ⭐ 4.6K) - An ACME-based certificate authority, written in Go. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/letsencrypt/boulder) (👨‍💻 120 · 🔀 530 · 📥 52K · 📋 2.8K - 6% open · ⏱️ 10.05.2023):
+- [GitHub](https://github.com/letsencrypt/boulder) (👨‍💻 120 · 🔀 530 · 📥 52K · 📋 2.8K - 6% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/letsencrypt/boulder
@@ -865,7 +865,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	git clone https://github.com/build-trust/ockam
 	```
 </details>
-<details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥈31 ·  ⭐ 1.4K · 📉) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥈31 ·  ⭐ 1.4K) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/spiffe/spire) (👨‍💻 160 · 🔀 370 · 📥 120K · 📦 110 · 📋 1.2K - 14% open · ⏱️ 10.05.2023):
 
@@ -877,9 +877,9 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull ghcr.io/spiffe/spire-server
 	```
 </details>
-<details><summary><b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉30 ·  ⭐ 3.6K · 📉) - Boundary enables identity-based access management for.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
+<details><summary><b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉30 ·  ⭐ 3.6K) - Boundary enables identity-based access management for dynamic.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a></summary>
 
-- [GitHub](https://github.com/hashicorp/boundary) (👨‍💻 130 · 🔀 230 · 📦 8 · 📋 290 - 25% open · ⏱️ 09.05.2023):
+- [GitHub](https://github.com/hashicorp/boundary) (👨‍💻 130 · 🔀 230 · 📦 8 · 📋 290 - 25% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/hashicorp/boundary
@@ -903,7 +903,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉26 ·  ⭐ 670) - CyberArk Conjur automatically secures secrets used by privileged users.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
 
-- [GitHub](https://github.com/cyberark/conjur) (👨‍💻 88 · 🔀 120 · 📥 300 · 📋 1.1K - 18% open · ⏱️ 04.05.2023):
+- [GitHub](https://github.com/cyberark/conjur) (👨‍💻 88 · 🔀 120 · 📥 310 · 📋 1.1K - 18% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/cyberark/conjur
@@ -971,7 +971,7 @@ _Face biometrics tools and projects concerning natural person identification_
 </details>
 <details><summary><b><a href="https://github.com/serengil/deepface">deepface</a></b> (🥈30 ·  ⭐ 6.3K) - A Lightweight Face Recognition and Facial Attribute Analysis (Age,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/serengil/deepface) (👨‍💻 40 · 🔀 1.3K · 📦 1.4K · 📋 680 - 1% open · ⏱️ 29.04.2023):
+- [GitHub](https://github.com/serengil/deepface) (👨‍💻 41 · 🔀 1.3K · 📦 1.4K · 📋 680 - 1% open · ⏱️ 11.05.2023):
 
 	```
 	git clone https://github.com/serengil/deepface
@@ -1034,7 +1034,7 @@ _Voice biometrics tools and projects concerning natural person identification_
 </details>
 <details><summary><b><a href="https://github.com/PaddlePaddle/PaddleSpeech">paddlespeech</a></b> (🥉34 ·  ⭐ 7.3K) - Easy-to-use Speech Toolkit including Self-Supervised Learning.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) (👨‍💻 120 · 🔀 1.4K · 📦 51 · 📋 1.4K - 12% open · ⏱️ 04.05.2023):
+- [GitHub](https://github.com/PaddlePaddle/PaddleSpeech) (👨‍💻 120 · 🔀 1.4K · 📦 52 · 📋 1.4K - 12% open · ⏱️ 04.05.2023):
 
 	```
 	git clone https://github.com/PaddlePaddle/PaddleSpeech
