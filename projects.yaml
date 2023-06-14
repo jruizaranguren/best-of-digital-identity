@@ -629,3 +629,19 @@ projects:
     github_id: jaredhanson/passport
     category: authentication
     npm_id: passport
+  - name: elastos-did
+    github_id: elastos/Elastos.DID.Method
+    category: decentralized
+    npm_id: "@elastosfoundation/did-js-sdk"
+    labels: ["w3c"]
+    group_id: elastos
+    group: Yes
+  - name: elastos-essentials
+    github_id: elastos/Elastos.Essentials.App
+    category: decentralized
+    group_id: elastos
+  - name: elastos-identity-chain
+    github_id: elastos/Elastos.ELA.SideChain.EID
+    category: decentralized
+    labels: ["w3c"]
+    group_id: elastos
