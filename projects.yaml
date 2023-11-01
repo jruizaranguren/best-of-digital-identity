@@ -387,6 +387,20 @@ projects:
   - name: iota-identity
     github_id: iotaledger/identity.rs
     category: decentralized
+    group: Yes
+    group_id: iota
+  - name: iota-sdk
+    github_id: iotaledger/iota-sdk
+    group_id: iota
+    category: decentralized
+  - name: firefly
+    github_id: iotaledger/firefly
+    group_id: iota
+    category: decentralized
+  - name: Stronghold
+    github_id: iotaledger/stronghold.rs
+    group_id: iota
+    category: decentralized    
   - name: universal-resolver
     github_id: decentralized-identity/universal-resolver
     category: decentralized
