@@ -1,20 +1,6 @@
-## 📈 Trending Up
+## ➕ Added Projects
 
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+_Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇23 ·  ⭐ 8.6K · 📈) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈22 ·  ⭐ 100 · 📈) - Self Hosted Issuer Node.
-- <b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉28 ·  ⭐ 48K · 📈) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥇21 ·  ⭐ 1K · 📈) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/0xPolygonID/js-sdk">polygon-js-sdk</a></b> (🥉16 ·  ⭐ 39 · 📈) - SDK to work with Polygon ID. <code>❗Unlicensed</code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉26 ·  ⭐ 300 · 📉) - An open source enterprise digital identity platform that.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a>
-- <b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈20 ·  ⭐ 240 · 📉) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
-- <b><a href="https://github.com/walt-id/waltid-idpkit">waltid-idpkit</a></b> (🥉14 ·  ⭐ 20 · 📉) - OIDC identity provider for SSI & NFTs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/fedidcg/FedCM">fedfm</a></b> (🥉13 ·  ⭐ 300 · 📉) - A privacy preserving identity exchange Web API. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/TalaoDAO/talao-wallet">talao-wallet</a></b> (🥉10 ·  ⭐ 10 · 💤) - An open source SSI wallet prpposed as a white label.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="{}">weboftrust</a></b> (➕) -  <code>❗Unlicensed</code> <a href="https://github.com/WebOfTrust"><code>weboftrust</code></a>
 
