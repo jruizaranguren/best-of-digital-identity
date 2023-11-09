@@ -6,31 +6,34 @@ configuration:
 categories:
   - category: idp
     title: Identity Providers
-    subtitle: "Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions"
+    subtitle: Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions
   - category: authentication
     title: Authentication, Oauth2, OIDC
-    subtitle: "Authentication, Oauth2 authorization, and OIDC tools and projects"
+    subtitle: Authentication, Oauth2 authorization, and OIDC tools and projects
   - category: authorization
-    title: Authorization
-    subtitle: "Authorization and policy managing libraries, tools and projects."
+    title: Access control and authorization
+    subtitle: Authorization and policy managing libraries, tools and projects.
   - category: decentralized
     title: Decentralized Identity
-    subtitle: "Identity Wallets, Self-sovereign identity and decentralized identity projects"
+    subtitle: Identity Wallets, Self-sovereign identity and decentralized identity projects
   - category: standards
     title: Standards
-    subtitle: "Standard protocols, schemas, formats, etc."
+    subtitle: Standard protocols, schemas, formats, etc.
+  - category: organizations
+    title: Organizations
+    subtitle: Organizations and groups working on identity and access management
   - category: pki
     title: Public Key Infrastructure and Key Management
-    subtitle: "Tools, libraries and certificate managers for Public Key Infrastructure and Key management"
+    subtitle: Tools, libraries and certificate managers for Public Key Infrastructure and Key management
   - category: machine
     title: Machine Identity Management
-    subtitle: "Tools, services and protocols for machine to machine secure digital interactions"
+    subtitle: Tools, services and protocols for machine to machine secure digital interactions
   - category: face
     title: Face biometrics
-    subtitle: "Face biometrics tools and projects concerning natural person identification"
+    subtitle: Face biometrics tools and projects concerning natural person identification
   - category: voice
     title: Voice biometrics
-    subtitle: "Voice biometrics tools and projects concerning natural person identification"
+    subtitle: Voice biometrics tools and projects concerning natural person identification
 labels:
   - label: ory
     name: ory
@@ -68,6 +71,11 @@ labels:
   - label: openid
     name: openid
     url: https://openid.net/
+  - label: weboftrust
+    name: weboftrust
+    url: https://github.com/WebOfTrust
+    description: Standards Relating to a Web Of Trust Based on Autonomic Identifier Systems
+
 projects:
   - name: nextauthjs
     github_id: nextauthjs/next-auth
@@ -629,3 +637,7 @@ projects:
     github_id: jaredhanson/passport
     category: authentication
     npm_id: passport
+  - name: weboftrust
+    github_id: WebOfTrust
+    category: organizations
+    labels: ["weboftrust"]
