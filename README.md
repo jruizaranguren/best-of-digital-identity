@@ -15,7 +15,7 @@
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 110 awesome open-source projects with a total of 620K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers.
+This curated list contains 110 awesome open-source projects with a total of 620K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers.
 
 >   🚨 This calculation is just chosen by experience. There is no scientific proof that this really reflects the quality of a project. It considers evidence retrieved from github suchs as contributors, activity,     releases, commits, etc. and from package managers like npm, pypi, etc. such as downloads, dependents, etc.
 
@@ -31,9 +31,10 @@ If you like to add or update projects, feel free to open an [issue](https://gith
 
 - [Identity Providers](#identity-providers) _14 projects_
 - [Authentication, Oauth2, OIDC](#authentication-oauth2-oidc) _12 projects_
-- [Authorization](#authorization) _10 projects_
+- [Access control and authorization](#access-control-and-authorization) _10 projects_
 - [Decentralized Identity](#decentralized-identity) _22 projects_
 - [Standards](#standards) _12 projects_
+- [Organizations](#organizations) _0 projects_
 - [Public Key Infrastructure and Key Management](#public-key-infrastructure-and-key-management) _7 projects_
 - [Machine Identity Management](#machine-identity-management) _9 projects_
 - [Face biometrics](#face-biometrics) _10 projects_
@@ -163,7 +164,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	docker pull kanidm/server
 	```
 </details>
-<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉26 ·  ⭐ 300 · 📉) - An open source enterprise digital identity platform that.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
+<details><summary><b><a href="https://github.com/JanssenProject/jans">jansen</a></b> (🥉26 ·  ⭐ 300) - An open source enterprise digital identity platform that scales:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
 - [GitHub](https://github.com/JanssenProject/jans) (👨‍💻 110 · 🔀 50 · 📥 360 · 📋 2.8K - 12% open · ⏱️ 09.11.2023):
 
@@ -345,7 +346,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 </details>
 <br>
 
-## Authorization
+## Access control and authorization
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
@@ -353,12 +354,12 @@ _Authorization and policy managing libraries, tools and projects._
 
 <details><summary><b><a href="https://github.com/open-policy-agent/opa">open-policy-agent</a></b> (🥇40 ·  ⭐ 8.7K) - Open Policy Agent (OPA) is an open source, general-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/open-policy-agent/opa) (👨‍💻 430 · 🔀 1.2K · 📥 4.5M · 📦 3K · 📋 2.4K - 13% open · ⏱️ 07.11.2023):
+- [GitHub](https://github.com/open-policy-agent/opa) (👨‍💻 430 · 🔀 1.2K · 📥 4.5M · 📦 3K · 📋 2.4K - 13% open · ⏱️ 09.11.2023):
 
 	```
 	git clone https://github.com/open-policy-agent/opa
 	```
-- [Docker Hub](https://hub.docker.com/r/openpolicyagent/opa) (📥 450M · ⭐ 39 · ⏱️ 07.11.2023):
+- [Docker Hub](https://hub.docker.com/r/openpolicyagent/opa) (📥 450M · ⭐ 39 · ⏱️ 09.11.2023):
 	```
 	docker pull openpolicyagent/opa
 	```
@@ -401,7 +402,7 @@ _Authorization and policy managing libraries, tools and projects._
 </details>
 <details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈31 ·  ⭐ 4K) - Open Source, Google Zanzibar-inspired fine-grained permissions database. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 37 · 🔀 210 · 📥 31K · 📦 38 · 📋 400 - 25% open · ⏱️ 06.11.2023):
+- [GitHub](https://github.com/authzed/spicedb) (👨‍💻 37 · 🔀 210 · 📥 32K · 📦 38 · 📋 400 - 25% open · ⏱️ 06.11.2023):
 
 	```
 	git clone https://github.com/authzed/spicedb
@@ -499,7 +500,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 	git clone https://github.com/hyperledger/aries-cloudagent-python
 	```
 </details>
-<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈20 ·  ⭐ 240 · 📉) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
+<details><summary><b><a href="https://github.com/hyperledger/aries-framework-go">aries-framework-go</a></b> (🥈20 ·  ⭐ 240) - Hyperledger Aries Framework Go provides packages for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
 - [GitHub](https://github.com/hyperledger/aries-framework-go) (👨‍💻 59 · 🔀 160 · 📦 2 · 📋 1.6K - 24% open · ⏱️ 01.09.2023):
 
@@ -552,7 +553,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈22 ·  ⭐ 100 · 📈) - Self Hosted Issuer Node.</summary>
+<details><summary><b><a href="https://github.com/0xPolygonID/issuer-node">polygon-id</a></b> (🥈22 ·  ⭐ 100) - Self Hosted Issuer Node.</summary>
 
 
 ---
@@ -596,7 +597,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 </details>
 <details><summary><b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥇27 ·  ⭐ 190) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
-- [GitHub](https://github.com/decentralized-identity/did-resolver) (👨‍💻 24 · 🔀 40 · 📦 4.9K · 📋 21 - 14% open · ⏱️ 06.11.2023):
+- [GitHub](https://github.com/decentralized-identity/did-resolver) (👨‍💻 24 · 🔀 40 · 📦 5K · 📋 21 - 14% open · ⏱️ 06.11.2023):
 
 	```
 	git clone https://github.com/decentralized-identity/did-resolver
@@ -715,7 +716,7 @@ _Identity Wallets, Self-sovereign identity and decentralized identity projects_
 
 _Standard protocols, schemas, formats, etc._
 
-<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇23 ·  ⭐ 8.6K · 📈) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
+<details><summary><b><a href="https://github.com/solid/solid">solid-project</a></b> (🥇23 ·  ⭐ 8.6K) - Solid - Re-decentralizing the web (project directory). <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
 
 ---
@@ -730,7 +731,7 @@ _Standard protocols, schemas, formats, etc._
 
 ---
 </details>
-<details><summary><b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥇21 ·  ⭐ 1K · 📈) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
+<details><summary><b><a href="https://github.com/w3c/webauthn">webauthn</a></b> (🥇21 ·  ⭐ 1K) - Web Authentication: An API for accessing Public Key Credentials. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
 - [GitHub](https://github.com/w3c/webauthn) (👨‍💻 72 · 🔀 150 · 📋 1.1K - 7% open · ⏱️ 11.10.2023):
 
@@ -756,7 +757,7 @@ _Standard protocols, schemas, formats, etc._
 </details>
 <details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥈18 ·  ⭐ 260) - W3C Verifiable Credentials Working Group VC Data Model and.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
-- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 62 · 🔀 78 · 📋 630 - 8% open · ⏱️ 07.11.2023):
+- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 62 · 🔀 78 · 📋 640 - 8% open · ⏱️ 07.11.2023):
 
 	```
 	git clone https://github.com/w3c/vc-data-model
@@ -774,11 +775,19 @@ _Standard protocols, schemas, formats, etc._
 
 - <b><a href="https://github.com/decentralized-identity/presentation-exchange">presentation-exchange</a></b> (🥉15 ·  ⭐ 75) - Specification that codifies an inter-related pair of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 - <b><a href="https://github.com/hyperledger/anoncreds-spec">anoncreds</a></b> (🥉15 ·  ⭐ 39) - The specification for AnonCreds verifiable credential exchange. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
-- <b><a href="https://github.com/fedidcg/FedCM">fedfm</a></b> (🥉13 ·  ⭐ 300 · 📉) - A privacy preserving identity exchange Web API. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
-- <b><a href="https://github.com/decentralized-identity/bbs-signature">bbs-signature</a></b> (🥉12 ·  ⭐ 58) - The BBS Signature Scheme. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
+- <b><a href="https://github.com/fedidcg/FedCM">fedfm</a></b> (🥉13 ·  ⭐ 300) - A privacy preserving identity exchange Web API. <code>❗Unlicensed</code> <a href="https://www.w3.org/"><code>w3c</code></a>
+- <b><a href="https://github.com/decentralized-identity/bbs-signature">bbs-signature</a></b> (🥉12 ·  ⭐ 59) - The BBS Signature Scheme. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 - <b><a href="https://github.com/w3c-ccg/universal-wallet-interop-spec">universal-wallet-interop-spec</a></b> (🥉10 ·  ⭐ 53 · 💤) - A data model and abstract interfaces for digital.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a>
 - <b><a href="https://github.com/WebOfTrust/vLEI">vlei</a></b> (🥉9 ·  ⭐ 23) - Public Open Specifications for GLEIF vLEI (verifiable Legal Entity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
+<br>
+
+## Organizations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Organizations and groups working on identity and access management_
+
 <br>
 
 ## Public Key Infrastructure and Key Management
@@ -802,7 +811,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 	```
 	git clone https://github.com/letsencrypt/boulder
 	```
-- [Docker Hub](https://hub.docker.com/r/letsencrypt/boulder-tools) (📥 1.9M · ⭐ 13 · ⏱️ 12.10.2023):
+- [Docker Hub](https://hub.docker.com/r/letsencrypt/boulder-tools) (📥 1.9M · ⭐ 13 · ⏱️ 09.11.2023):
 	```
 	docker pull letsencrypt/boulder-tools
 	```
@@ -877,7 +886,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/pomerium/pomerium">pomerium</a></b> (🥈33 ·  ⭐ 3.7K) - Pomerium is an identity and context-aware access proxy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pomerium/pomerium) (👨‍💻 91 · 🔀 270 · 📥 49K · 📦 13 · 📋 940 - 9% open · ⏱️ 09.11.2023):
+- [GitHub](https://github.com/pomerium/pomerium) (👨‍💻 91 · 🔀 270 · 📥 49K · 📦 13 · 📋 940 - 8% open · ⏱️ 09.11.2023):
 
 	```
 	git clone https://github.com/pomerium/pomerium
@@ -1032,7 +1041,7 @@ _Voice biometrics tools and projects concerning natural person identification_
 	pip install paddlepaddle
 	```
 </details>
-<details><summary><b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉28 ·  ⭐ 48K · 📈) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉28 ·  ⭐ 48K) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/openai/whisper) (👨‍💻 64 · 🔀 5.3K · 📦 21 · ⏱️ 06.11.2023):
 
