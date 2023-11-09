@@ -81,7 +81,6 @@ labels:
   - label: weboftrust
     name: weboftrust
     url: https://github.com/WebOfTrust
-    resource: True
     description: Standards Relating to a Web Of Trust Based on Autonomic Identifier Systems
 
 projects:
@@ -648,8 +647,10 @@ projects:
   - name: weboftrust
     homepage: https://github.com/WebOfTrust
     category: organizations
+    resource: True
     labels: ["weboftrust"]
   - name: solidproject
     homepage: https://github.com/solid
     category: organizations
+    resource: True
     labels: ["solid"]
