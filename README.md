@@ -15,7 +15,7 @@
     <a href="https://github.com/jruizaranguren/best-of-digital-identity/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/jruizaranguren/best-of-digital-identity?color=green&label=updated"></a>
 </p>
 
-This curated list contains 110 awesome open-source projects with a total of 620K stars grouped into 10 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers.
+This curated list contains 110 awesome open-source projects with a total of 620K stars grouped into 12 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers.
 
 >   🚨 This calculation is just chosen by experience. There is no scientific proof that this really reflects the quality of a project. It considers evidence retrieved from github suchs as contributors, activity,     releases, commits, etc. and from package managers like npm, pypi, etc. such as downloads, dependents, etc.
 
@@ -34,11 +34,13 @@ If you like to add or update projects, feel free to open an [issue](https://gith
 - [Access control and authorization](#access-control-and-authorization) _10 projects_
 - [Decentralized Identity](#decentralized-identity) _22 projects_
 - [Standards](#standards) _12 projects_
-- [Organizations](#organizations) _0 projects_
+- [Organizations](#organizations) _2 projects_
 - [Public Key Infrastructure and Key Management](#public-key-infrastructure-and-key-management) _7 projects_
 - [Machine Identity Management](#machine-identity-management) _9 projects_
 - [Face biometrics](#face-biometrics) _10 projects_
 - [Voice biometrics](#voice-biometrics) _3 projects_
+- [Digital Credential Representations](#digital-credential-representations) _0 projects_
+- [Digital Interactions protocols](#digital-interactions-protocols) _0 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -788,6 +790,10 @@ _Standard protocols, schemas, formats, etc._
 
 _Organizations and groups working on identity and access management_
 
+🔗&nbsp;<b><a href="https://github.com/WebOfTrust">weboftrust</a></b>   <a href="https://github.com/WebOfTrust"><code>weboftrust</code></a>
+
+🔗&nbsp;<b><a href="https://github.com/solid">solidproject</a></b>   <a href="https://solidproject.org/"><code>solid</code></a>
+
 <br>
 
 ## Public Key Infrastructure and Key Management
@@ -1041,7 +1047,7 @@ _Voice biometrics tools and projects concerning natural person identification_
 	pip install paddlepaddle
 	```
 </details>
-<details><summary><b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉28 ·  ⭐ 48K) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉28 ·  ⭐ 49K) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/openai/whisper) (👨‍💻 64 · 🔀 5.3K · 📦 21 · ⏱️ 06.11.2023):
 
@@ -1053,6 +1059,22 @@ _Voice biometrics tools and projects concerning natural person identification_
 	pip install openai-whisper
 	```
 </details>
+<br>
+
+## Digital Credential Representations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Digital Credentials representations, formats and data models_
+
+<br>
+
+## Digital Interactions protocols
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Protocols for digital interactions between natural persons, organizations and machines_
+
 
 ---
 
