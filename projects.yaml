@@ -418,7 +418,6 @@ projects:
   - name: solid-project
     github_id: solid/solid
     category: protocols
-    group: Yes
     labels: ["solid"]
   - name: solid-specification
     github_id: solid/specification
