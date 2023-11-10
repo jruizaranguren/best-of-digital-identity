@@ -8,14 +8,11 @@ categories:
     title: Identity Providers
     subtitle: Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions
   - category: authentication
-    title: Authentication, Oauth2, OIDC
+    title: Authentication
     subtitle: Authentication, Oauth2 authorization, and OIDC tools and projects
   - category: authorization
     title: Access control and authorization
     subtitle: Authorization and policy managing libraries, tools and projects.
-  - category: decentralized
-    title: Decentralized Identity
-    subtitle: Identity Wallets, Self-sovereign identity and decentralized identity projects
   - category: standards
     title: Standards
     subtitle: Standard protocols, schemas, formats, etc.
@@ -34,15 +31,30 @@ categories:
   - category: voice
     title: Voice biometrics
     subtitle: Voice biometrics tools and projects concerning natural person identification
-  - category: representations
-    title: Digital Credential Representations
-    subtitle: Digital Credentials representations, formats and data models
+  - category: credentials
+    title: Digital Credential Standards
+    subtitle: Digital Credentials representations, formats and data model standards
+  - category: credentials-sdks
+    title: Digital Credentials SDKs
+    subtitle: SDKs for Digital Credentials, formats and data models
   - category: protocols
-    title: Digital Interactions protocols
-    subtitle: Protocols for digital interactions between natural persons, organizations and machines
+    title: Digital Interactions Protocols
+    subtitle: Protocols for digital interactions such as authentication, authorization, exchange of credentials, etc.
+  - category: protocols-sdks
+    title: Digital Interactions SDKs
+    subtitle: SDKs for digital interactions protocols such as authentication, authorization, exchange of credentials, etc.
   - category: dids
     title: Decentralized Identifiers
     subtitle: Decentralized Identifiers (DIDs), DID methods and resolver projects
+  - category: ssi-agents
+    title: Self-Sovereign Identity Agents
+    subtitle: SSI Agents such as Identity Wallets, decentralized nodes and decentralized web applications
+  - category: ssi-sdks
+    title: Self-Sovereign Identity SDKs 
+    subtitle: SDKs, toolkits and libraries for building SSI Agents and services
+  - category: ssi-infra
+    title: Self-Sovereign Identity Infrastructure
+    subtitle: Verifiable data registries, schema repositories, distributed ledgers for identity management.
 labels:
   - label: ory
     name: ory
@@ -254,162 +266,107 @@ projects:
     dockerhub_id: coredns/coredns
   - name: waltid-ssikit
     github_id: walt-id/waltid-ssikit
-    category: decentralized
+    category: ssi-sdks
     dockerhub_id: waltid/ssikit
-    group_id: waltid-ssikit
-    group: Yes
   - name: waltid-walletkit
     github_id: walt-id/waltid-walletkit
-    category: decentralized
+    category: ssi-sdks
     dockerhub_id: waltid/walletkit
-    group_id: waltid-ssikit
   - name: waltid-web-wallet
     github_id: walt-id/waltid-web-wallet
-    category: decentralized
+    category: ssi-agents
     dockerhub_id: waltid/ssikit-web-wallet
-    group_id: waltid-ssikit
   - name: waltid-idpkit
     github_id: walt-id/waltid-idpkit
-    category: decentralized
+    category: ssi-infra
     dockerhub_id: waltid/idpkit
-    group_id: waltid-ssikit
-  - name: waltid-storagekit
-    github_id: walt-id/waltid-storagekit
-    category: decentralized
-    group_id: waltid-ssikit
-  - name: evernym-ssi
-    github_id: evernym/verity
-    group_id: evernym-ssi
-    group: Yes
-    category: decentralized
   - name: verity-sdk
     github_id: evernym/verity-sdk
-    group_id: evernym-ssi
-    category: decentralized
-  - name: mobile-sdk
-    github_id: evernym/mobile-sdk
-    group_id: evernym-ssi
-    category: decentralized
-  - name: react-native-white-label-app
-    github_id: evernym/react-native-white-label-app
-    group_id: evernym-ssi
-    category: decentralized
-  - name: connectme
-    github_id: evernym/connectme
-    group_id: evernym-ssi
-    category: decentralized
+    category: ssi-sdks
   - name: sphereon-ssi
     github_id: sphereon-opensource/ssi-sdk
-    group_id: sphereon-ssi
-    group: Yes
-    category: decentralized
-  - name: openid4vci
+    category: ssi-sdks
+  - name: sphereon-openid4vci
     github_id: sphereon-opensource/openid4vci
-    group_id: sphereon-ssi
-    category: decentralized
-  - name: ssi-mobile-wallet
+    category: protocols-sdks
+  - name: sphereon-ssi-mobile-wallet
     github_id: sphereon-opensource/ssi-mobile-wallet
-    group_id: sphereon-ssi
-    category: decentralized
-  - name: pex
+    category: ssi-agents
+  - name: sphereon-pex
     github_id: sphereon-opensource/pex
-    group_id: sphereon-ssi
-    category: decentralized
-  - name: siop-oid4vp
+    category: protocols-sdks
+  - name: sphereon-siop-oid4vp
     github_id: sphereon-opensource/siop-oid4vp
-    group_id: sphereon-ssi
-    category: decentralized
+    category: protocols-sdks
   - name: veramo
-    github_id: uport-project/veramo
-    category: decentralized
-  - name: spruceid
+    github_id: decentralized-identity/veramo
+    category: ssi-sdks
+  - name: spruceid-didkit
     github_id: spruceid/didkit
-    group_id: spruceid
-    group: Yes
+    description: A cross-platform toolkit for decentralized identity
+    homepage: https://www.spruceid.dev/didkit/didkit
     dockerhub_id: ghcr.io/spruceid/didkit-http
-    category: decentralized
+    category: ssi-sdks
   - name: spruceid-ssi
     github_id: spruceid/ssi
-    group_id: spruceid
-    category: decentralized
+    description: Core library for decentralized identity
+    category: ssi-sdks
+  - name: kepler
+    github_id: spruceid/kepler
+    category: ssi-infra
   - name: credible
-    github_id: spruceid/credible
-    group_id: spruceid
-    category: decentralized
-  - name: trinsic-id
+    github_id: spruceid/wallet
+    category: ssi-agents
+  - name: trinsic-sdk
     github_id: trinsic-id/sdk
-    group_id: trinsic-id
-    group: Yes
-    category: decentralized
-  - name: trinsic-okapi
-    github_id: trinsic-id/okapi
-    group_id: trinsic-id
-    category: decentralized
-  - name: polygon-id
-    github_id: 0xPolygonID/sh-id-platform
-    group_id: polygon-id
-    group: Yes
-    category: decentralized
+    category: ssi-sdks
+  - name: polygon-issuer
+    github_id: 0xPolygonID/issuer-node
+    category: ssi-agents
   - name: polygon-js-sdk
     github_id: 0xPolygonID/js-sdk
-    group_id: polygon-id
-    category: decentralized
+    category: ssi-sdks
   - name: talao-altme
     github_id: talaodao/altme
-    group_id: talao-altme
-    group: Yes
-    category: decentralized
-  - name: talao-wallet
-    github_id: talaodao/talao-wallet
-    group_id: talao-altme
-    category: decentralized
-  - name: aries
-    github_id: hyperledger/aries
-    group_id: aries
-    group: Yes
-    category: decentralized
+    category: ssi-agents
+  - name: indy-node
+    github_id: hyperledger/indy-node
+    category: ssi-infra
     labels: ["hyperledger"]
   - name: aries-rfcs
     github_id: hyperledger/aries-rfcs
-    category: standards
+    category: protocols
     labels: ["hyperledger"]
   - name: aries-python
     github_id: hyperledger/aries-cloudagent-python
-    group_id: aries
-    category: decentralized
+    category: ssi-sdks
     labels: ["hyperledger"]
   - name: aries-mobile-agent-react-native
     github_id: hyperledger/aries-mobile-agent-react-native
-    group_id: aries
-    category: decentralized
-    labels: ["hyperledger"]
-  - name: aries-framework-dotnet
-    github_id: hyperledger/aries-framework-dotnet
-    group_id: aries
-    category: decentralized
+    category: ssi-agents
     labels: ["hyperledger"]
   - name: aries-framework-go
     github_id: hyperledger/aries-framework-go
-    group_id: aries
-    category: decentralized
+    category: ssi-sdks
+    labels: ["hyperledger"]
+  - name: hyperledger-anoncreds-rs
+    github_id: hyperledger/anoncreds-rs
+    category: credentials-sdks
     labels: ["hyperledger"]
   - name: aries-framework-javascript
     github_id: hyperledger/aries-framework-javascript
-    group_id: aries
-    category: decentralized
-    labels: ["hyperledger"]
-  - name: aries-vcx
-    github_id: hyperledger/aries-vcx
-    group_id: aries
-    category: decentralized
+    category: ssi-sdiks
     labels: ["hyperledger"]
   - name: iota-identity
     github_id: iotaledger/identity.rs
-    category: decentralized
+    category: ssi-sdks
   - name: universal-resolver
     github_id: decentralized-identity/universal-resolver
-    category: decentralized
+    category: dids
     dockerhub_id: universalresolver/uni-resolver-web
+  - name: universal-registrar
+    github_id: decentralized-identity/universal-registrar
+    category: dids
   - name: boundary
     github_id: hashicorp/boundary
     category: machine
@@ -460,28 +417,38 @@ projects:
     category: pki
   - name: solid-project
     github_id: solid/solid
-    category: standards
-    group_id: solid-project
+    category: protocols
     group: Yes
     labels: ["solid"]
   - name: solid-specification
     github_id: solid/specification
-    category: standards
-    group_id: solid-project
+    category: protocols
+    labels: ["solid"]
+  - name: web-access-control
+    github_id: solid/web-access-control-spec
+    category: protocols
     labels: ["solid"]
   - name: node-solid-server
     github_id: nodesolidserver/node-solid-server
-    category: decentralized
+    category: ssi-agents
     labels: ["solid"]
     npm_id: solid-server
     license: "MIT"
     dockerhub_id: nodesolidserver/node-solid-server
+  - name: solid-client-authn-js
+    github_id: inrupt/solid-client-authn-js
+    category: authentication
+    labels: ["solid"]
+    npm_id: inrupt/solid-client-authn-node
   - name: ion
     github_id: decentralized-identity/ion
-    category: decentralized
+    category: ssi-infra
+  - name: ion-tools
+    github_id: decentralized-identity/ion-tools
+    category: dids
   - name: sidetree
     github_id: decentralized-identity/sidetree
-    category: standards
+    category: protocols
     labels: ["dif"]
   - name: decentralized-web-node
     github_id: decentralized-identity/decentralize-web-node
@@ -489,40 +456,52 @@ projects:
     labels: ["dif", "web5"]
   - name: did-jwt
     github_id: decentralized-identity/did-jwt
-    category: decentralized
+    category: dids
     npm_id: did-jwt
+    labels: ["dif"]
+  - name: did-key.rs
+    github_id: decentralized-identity/did-key.rs
+    category: dids
     labels: ["dif"]
   - name: web-did-resolver
     github_id: decentralized-identity/web-did-resolver
-    category: decentralized
+    category: dids
     labels: ["dif"]
     npm_id: web-did-resolver
+  - name: decentralized-web-node
+    github_id: decentralized-identity/decentralized-web-node
+    category: protocols
   - name: didcomm-messaging
     github_id: decentralized-identity/didcomm-messagging
-    category: standards
+    category: protocols
     labels: ["dif"]
+  - name: ethr-did-resolver
+    github_id: decentralized-identity/ethr-did-resolver
+    category: dids
+    labels: ["dif"]
+    npm_id: ethr-did-resolver
   - name: did-jwt-vc
     github_id: decentralized-identity/did-jwt-vc
-    category: decentralized
+    category: credentials-sdks
     labels: ["dif"]
     npm_id: did-jwt-vc
   - name: did-resolver
     github_id: decentralized-identity/did-resolver
-    category: decentralized
+    category: dids
     labels: ["dif"]
     npm_id: did-resolver
   - name: dwn-sdk-js
     github_id: TBD54566975/dwn-sdk-js
-    category: decentralized
+    category: ssi-agents
     labels: ["web5"]
     npm_id: tbd54566975/dwn-sdk-js
   - name: tbd-ssi-sdk
     github_id: tbd54566975/ssi-sdk
-    category: decentralized
+    category: ssi-sdks
     labels: ["web5"]
   - name: tbd-ssi-service
     github_id:  tbd54566975/ssi-service
-    category: decentralized
+    category: ssi-agents
     labels: ["web5"]
   - name: webauthn
     github_id: w3c/webauthn
@@ -536,7 +515,7 @@ projects:
     license: "W3C"
   - name: presentation-exchange
     github_id: decentralized-identity/presentation-exchange
-    category: standards
+    category: protocols
     labels: ["dif"]
   - name: appauth-android
     github_id: openid/appauth-android
@@ -568,10 +547,10 @@ projects:
     labels: ["w3c"]
   - name: entra-verifiedid-wallet-library-android
     github_id: microsoft/entra-verifiedid-wallet-library-android
-    category: decentralized
+    category: ssi-sdks
   - name: entra-verifiedid-wallet-library-ios
     github_id: microsoft/entra-verifiedid-wallet-library-ios
-    category: decentralized
+    category: ssi-sdks
   - name: ageitgey-face-recognition
     github_id: ageitgey/face_recognition
     category: face
@@ -624,14 +603,12 @@ projects:
     github_id: speechbrain/speechbrain
     category: voice
     pypi_id: speechbrain
-  - name: keripyhyperledger
-    category: decentralized
   - name: vlei
     github_id: weboftrust/vlei
     category: standards
   - name: bbs-signature
     github_id: decentralized-identity/bbs-signature
-    category: standards
+    category: credentials
     labels: ["dif"]
   - name: anoncreds
     github_id: hyperledger/anoncreds-spec
@@ -642,8 +619,8 @@ projects:
     category: standards
     labels: ["w3c"]
   - name: selective-disclosure-jwt
-    github_id: oauth-selective-disclosure-jwt
-    category: decentralized
+    github_id: oauth-wg/oauth-selective-disclosure-jwt
+    category: credentials
   - name: passport
     github_id: jaredhanson/passport
     category: authentication
@@ -653,6 +630,14 @@ projects:
     category: organizations
     description: Standards Relating to a Web Of Trust Based on Autonomic Identifier Systems
     resource: True
+    labels: ["weboftrust"]
+  - name: identity-foundation
+    homepage: https://identity.foundation/
+    description: Developing the foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices
+    resource: True
+  - name: keri
+    github_id: weboftrust/keri
+    category: protocols
     labels: ["weboftrust"]
   - name: solidproject
     homepage: https://github.com/solid
