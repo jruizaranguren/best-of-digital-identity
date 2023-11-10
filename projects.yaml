@@ -13,9 +13,6 @@ categories:
   - category: authorization
     title: Access control and authorization
     subtitle: Authorization and policy managing libraries, tools and projects.
-  - category: standards
-    title: Standards
-    subtitle: Standard protocols, schemas, formats, etc.
   - category: organizations
     title: Organizations
     subtitle: Organizations and groups working on identity and access management with open source projects
@@ -355,7 +352,7 @@ projects:
     labels: ["hyperledger"]
   - name: aries-framework-javascript
     github_id: hyperledger/aries-framework-javascript
-    category: ssi-sdiks
+    category: ssi-sdks
     labels: ["hyperledger"]
   - name: iota-identity
     github_id: iotaledger/identity.rs
@@ -451,7 +448,7 @@ projects:
     labels: ["dif"]
   - name: decentralized-web-node
     github_id: decentralized-identity/decentralize-web-node
-    category: standards
+    category: protocols
     labels: ["dif", "web5"]
   - name: did-jwt
     github_id: decentralized-identity/did-jwt
@@ -467,9 +464,6 @@ projects:
     category: dids
     labels: ["dif"]
     npm_id: web-did-resolver
-  - name: decentralized-web-node
-    github_id: decentralized-identity/decentralized-web-node
-    category: protocols
   - name: didcomm-messaging
     github_id: decentralized-identity/didcomm-messagging
     category: protocols
@@ -504,12 +498,12 @@ projects:
     labels: ["web5"]
   - name: webauthn
     github_id: w3c/webauthn
-    category: standards
+    category: protocols
     labels: ["w3c"]
     license: "W3C"
   - name: vc-data-model
     github_id: w3c/vc-data-model
-    category: standards
+    category: credentials
     labels: ["w3c"]
     license: "W3C"
   - name: presentation-exchange
@@ -531,17 +525,17 @@ projects:
     labels: ["openid"]
   - name: did-core
     github_id: w3c/did-core
-    category: standards
+    category: credentials
     license: "W3C"
     labels: ["w3c"]
   - name: vc-api
     github_id: w3c-ccg/vs-api
-    category: standards
+    category: protocols
     license: "W3C"
     labels: ["w3c"]
   - name: universal-wallet-interop-spec
     github_id: w3c-ccg/universal-wallet-interop-spec
-    category: standards
+    category: protocols
     license: "W3C"
     labels: ["w3c"]
   - name: entra-verifiedid-wallet-library-android
@@ -604,18 +598,18 @@ projects:
     pypi_id: speechbrain
   - name: vlei
     github_id: weboftrust/vlei
-    category: standards
+    category: credentials
   - name: bbs-signature
     github_id: decentralized-identity/bbs-signature
     category: credentials
     labels: ["dif"]
   - name: anoncreds
     github_id: hyperledger/anoncreds-spec
-    category: standards
+    category: credentials
     labels: ["hyperledger"]
   - name: fedfm
     github_id: fedidcg/FedCM
-    category: standards
+    category: protocols
     labels: ["w3c"]
   - name: selective-disclosure-jwt
     github_id: oauth-wg/oauth-selective-disclosure-jwt
@@ -633,6 +627,7 @@ projects:
   - name: identity-foundation
     homepage: https://identity.foundation/
     description: Developing the foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices
+    category: organizations
     resource: True
   - name: keri
     github_id: weboftrust/keri
