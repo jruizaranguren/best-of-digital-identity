@@ -506,6 +506,11 @@ projects:
     category: credentials
     labels: ["w3c"]
     license: "W3C"
+  - name: identity-credential
+    github_id: wicg/identity-credential
+    description: Proposals related to the invocation of digital identity wallets from the web
+    category: credentials
+    labels: ["w3c"]
   - name: presentation-exchange
     github_id: decentralized-identity/presentation-exchange
     category: protocols
