@@ -442,6 +442,12 @@ projects:
   - name: ion-tools
     github_id: decentralized-identity/ion-tools
     category: dids
+  - name: did-key.js
+    github_id: transmute-industries/did-key.js
+    category: 
+  - name: sidetree.js
+    github_id: transmute-industries/sidetree.js
+    category: dids
   - name: sidetree
     github_id: decentralized-identity/sidetree
     category: protocols
@@ -496,6 +502,9 @@ projects:
     github_id:  tbd54566975/ssi-service
     category: ssi-agents
     labels: ["web5"]
+  - name: digitalbazaar-vc
+    github_id: digitalbazaar/vc
+    category: credentials-sdks
   - name: webauthn
     github_id: w3c/webauthn
     category: protocols
