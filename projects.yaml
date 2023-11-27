@@ -120,6 +120,17 @@ projects:
     github_id: duendesoftware/identityserver
     category: authentication
     license: https://duendesoftware.com/license
+  - name: pysaml2
+    github_id: IdentityPython/pysaml2
+    category: authentication
+    pypi_id: pysaml2
+  - name: satosa
+    github_id: IdentityPython/satosa
+    category: authentication
+  - name: pyMDOC-CBOR
+    github_id: IdentityPython/pyMDOC-CBOR
+    category: credentials-sdks
+    pypi_id: pymdoccobr
   - name: casbin
     github_id: casbin/casbin
     category: authorization
@@ -502,6 +513,11 @@ projects:
     github_id:  tbd54566975/ssi-service
     category: ssi-agents
     labels: ["web5"]
+  - name: web5-js
+    github_id: TBD54566975/web5-js
+    category: ssi-sdks
+    labels: ["web5"]
+    npm_id: web5/api
   - name: digitalbazaar-vc
     github_id: digitalbazaar/vc
     category: credentials-sdks
