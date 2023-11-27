@@ -663,6 +663,9 @@ projects:
     github_id: weboftrust/keri
     category: protocols
     labels: ["weboftrust"]
+  - name: keripy
+    github_id: weboftrust/keripy
+    category: ssi-sdks
   - name: solidproject
     homepage: https://github.com/solid
     description: Re-decentralizing the web
