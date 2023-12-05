@@ -455,7 +455,7 @@ projects:
     category: dids
   - name: did-key.js
     github_id: transmute-industries/did-key.js
-    category: 
+    category: dids
   - name: sidetree.js
     github_id: transmute-industries/sidetree.js
     category: dids
