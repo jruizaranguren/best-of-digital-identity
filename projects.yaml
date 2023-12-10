@@ -168,6 +168,10 @@ projects:
     github_id: oauthlib/oauthlib
     category: authentication
     pypi_id: oauthlib
+  - name: authlib
+    github_id: lepture/authlib
+    category: authentication
+    pypi_id: authlib
   - name: casl
     github_id: stalniy/casl
     category: authorization
