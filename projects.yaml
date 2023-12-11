@@ -180,6 +180,10 @@ projects:
     github_id: authzed/spicedb
     category: authorization
     dockerhub_id: authzed/spicedb
+  - name: warrant
+    github_id: warrant-dev/warrant
+    category: authorization
+    dockerhub_id: warrantdev/warrant
   - name: doorkeeper
     github_id: doorkeeper-gem/doorkeeper
     category: authentication
@@ -396,6 +400,13 @@ projects:
     github_id: hashicorp/vault
     category: pki
     labels: ["hashicorp"]
+  - name: ejbca-ce
+    github_id: Keyfactor/ejbca
+    category: pki
+    dockerhub_id: keyfactor/ejbca-ce
+  - name: dogtagpki
+    github_id: dogtagpki/pki
+    category: pki
   - name: beyond
     github_id: cogolabs/beyond
     category: machine
