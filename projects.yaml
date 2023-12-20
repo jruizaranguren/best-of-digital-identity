@@ -292,10 +292,17 @@ projects:
     github_id: walt-id/waltid-web-wallet
     category: ssi-agents
     dockerhub_id: waltid/ssikit-web-wallet
+  - name: waltid-identity
+    github_id: walt-id/waltid-identity
+    category: ssi-sdks
+    dockerhub_id: waltid/identity
   - name: waltid-idpkit
     github_id: walt-id/waltid-idpkit
     category: ssi-infra
     dockerhub_id: waltid/idpkit
+  - name: cf-identity-wallet
+    github_id: cardano-foundation/cf-identity-wallet
+    category: ssi-agents
   - name: verity-sdk
     github_id: evernym/verity-sdk
     category: ssi-sdks
