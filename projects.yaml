@@ -390,6 +390,9 @@ projects:
   - name: universal-registrar
     github_id: decentralized-identity/universal-registrar
     category: dids
+  - name: did-webs
+    github_id: trustoverip/tswg-did-method-webs-specification
+    category: dids
   - name: boundary
     github_id: hashicorp/boundary
     category: machine
