@@ -478,6 +478,12 @@ projects:
   - name: ion-tools
     github_id: decentralized-identity/ion-tools
     category: dids
+  - name: did-spec-registries
+    github_id: w3c/did-spec-registries
+    category: dids
+  - name: did-webs-resolver
+    github_id: hyperledger-labs/did-webs-resolver
+    category: dids
   - name: did-key.js
     github_id: transmute-industries/did-key.js
     category: dids
