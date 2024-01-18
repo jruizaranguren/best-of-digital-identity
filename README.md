@@ -126,7 +126,7 @@ _Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
 	git clone https://github.com/authelia/authelia
 	```
 </details>
-<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 6K · 📉) - ZITADEL - Identity infrastructure, simplified foryou. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 6K) - ZITADEL - Identity infrastructure, simplified foryou. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 96 · 🔀 350 · 📥 2.3K · 📋 1.9K - 24% open · ⏱️ 18.01.2024):
 
@@ -226,7 +226,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	npm install next-auth
 	```
 </details>
-<details><summary><b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇40 ·  ⭐ 2.7K · 📈) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇40 ·  ⭐ 2.7K) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/oauthlib/oauthlib) (👨‍💻 200 · 🔀 460 · 📦 480K · 📋 370 - 21% open · ⏱️ 06.01.2024):
 
@@ -427,7 +427,7 @@ _Authorization and policy managing libraries, tools and projects._
 	</dependency>
 	```
 </details>
-<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈32 ·  ⭐ 4.1K · 📈) - Open Source, Google Zanzibar-inspired permissions database to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈32 ·  ⭐ 4.1K) - Open Source, Google Zanzibar-inspired permissions database to enable.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/authzed/spicedb) (👨‍💻 40 · 🔀 220 · 📥 42K · 📦 42 · 📋 410 - 24% open · ⏱️ 18.01.2024):
 
@@ -451,7 +451,7 @@ _Authorization and policy managing libraries, tools and projects._
 	pip install oso
 	```
 </details>
-<details><summary><b><a href="https://github.com/ory/keto">keto</a></b> (🥉28 ·  ⭐ 4.4K · 📉) - Open Source (Go) implementation of Zanzibar: Googles.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
+<details><summary><b><a href="https://github.com/ory/keto">keto</a></b> (🥉28 ·  ⭐ 4.4K) - Open Source (Go) implementation of Zanzibar: Googles Consistent,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
 
 - [GitHub](https://github.com/ory/keto) (👨‍💻 71 · 🔀 320 · 📥 19K · 📦 26 · 📋 310 - 13% open · ⏱️ 09.01.2024):
 
@@ -657,7 +657,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary><b><a href="https://github.com/spiffe/spire">spire</a></b> (🥈32 ·  ⭐ 1.6K) - The SPIFFE Runtime Environment. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a></summary>
 
-- [GitHub](https://github.com/spiffe/spire) (👨‍💻 180 · 🔀 420 · 📥 180K · 📦 130 · 📋 1.3K - 10% open · ⏱️ 18.01.2024):
+- [GitHub](https://github.com/spiffe/spire) (👨‍💻 180 · 🔀 420 · 📥 180K · 📦 130 · 📋 1.3K - 11% open · ⏱️ 18.01.2024):
 
 	```
 	git clone https://github.com/spiffe/spire
@@ -679,7 +679,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 	docker pull oryd/oathkeeper
 	```
 </details>
-<details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉24 ·  ⭐ 730 · 📉) - CyberArk Conjur automatically secures secrets used by privileged.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
+<details><summary><b><a href="https://github.com/cyberark/conjur">conjur</a></b> (🥉24 ·  ⭐ 730) - CyberArk Conjur automatically secures secrets used by privileged users.. <code><a href="https://tldrlegal.com/search?q=LGPL">❗️LGPL</a></code></summary>
 
 - [GitHub](https://github.com/cyberark/conjur) (👨‍💻 96 · 🔀 120 · 📥 380 · 📋 1.1K - 18% open · ⏱️ 13.10.2023):
 
@@ -701,7 +701,7 @@ _Tools, services and protocols for machine to machine secure digital interaction
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉31 ·  ⭐ 3.7K · 📈) - Boundary enables identity-based access management for.. <code>❗Unlicensed</code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a>
+- <b><a href="https://github.com/hashicorp/boundary">boundary</a></b> (🥉31 ·  ⭐ 3.7K) - Boundary enables identity-based access management for.. <code>❗Unlicensed</code> <a href="https://www.hashicorp.com/"><code>hashicorp</code></a>
 - <b><a href="https://github.com/cogolabs/beyond">beyond</a></b> (🥉13 ·  ⭐ 240 · 💀) - BeyondCorp-inspired HTTPS/SSO Access Proxy. Secure internal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
@@ -776,7 +776,7 @@ _Face biometrics tools and projects concerning natural person identification_
 
 _Voice biometrics tools and projects concerning natural person identification_
 
-<details><summary><b><a href="https://github.com/speechbrain/speechbrain">speechbrain</a></b> (🥇36 ·  ⭐ 7.1K · 📉) - A PyTorch-based Speech Toolkit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/speechbrain/speechbrain">speechbrain</a></b> (🥇36 ·  ⭐ 7.1K) - A PyTorch-based Speech Toolkit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/speechbrain/speechbrain) (👨‍💻 220 · 🔀 1.2K · 📦 1.4K · 📋 990 - 11% open · ⏱️ 18.01.2024):
 
@@ -822,7 +822,7 @@ _Digital Credentials representations, formats and data model standards_
 
 <details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥇19 ·  ⭐ 260) - W3C Verifiable Credentials Working Group VC Data Model and.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
-- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 65 · 🔀 78 · 📋 660 - 5% open · ⏱️ 14.01.2024):
+- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 65 · 🔀 79 · 📋 660 - 5% open · ⏱️ 14.01.2024):
 
 	```
 	git clone https://github.com/w3c/vc-data-model
@@ -943,7 +943,7 @@ _SDKs for digital interactions protocols such as authentication, authorization, 
 
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/Sphereon-Opensource/PEX">sphereon-pex</a></b> (🥇16 ·  ⭐ 28 · 📈) - A Typescript implementation of the DIF Presentation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Sphereon-Opensource/PEX">sphereon-pex</a></b> (🥇16 ·  ⭐ 28) - A Typescript implementation of the DIF Presentation Exchange.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Sphereon-Opensource/SIOP-OID4VP">sphereon-siop-oid4vp</a></b> (🥉14 ·  ⭐ 70) - Self Issued OpenID Provider v2 (SIOP) with optional.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Sphereon-Opensource/OID4VCI">sphereon-openid4vci</a></b> (🥉14 ·  ⭐ 42) - OpenID for Verifiable Credential Issuance - client and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
