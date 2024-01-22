@@ -68,7 +68,7 @@ If you like to add or update projects, feel free to open an [issue](https://gith
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-_Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions_
+_Identity providers (IdPs) and Identity and Access Management (IAMs) solutions_
 
 <details><summary><b><a href="https://github.com/ory/kratos">ory-kratos</a></b> (🥇35 ·  ⭐ 9.8K) - Next-gen identity server (think Auth0, Okta, Firebase) with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.ory.sh/"><code>ory</code></a></summary>
 
