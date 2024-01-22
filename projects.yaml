@@ -6,7 +6,7 @@ configuration:
 categories:
   - category: idp
     title: Identity Providers
-    subtitle: Identity providers (IdPs) and Identity and Acesss Management (IAMs) solutions
+    subtitle: Identity providers (IdPs) and Identity and Access Management (IAMs) solutions
   - category: authentication
     title: Authentication
     subtitle: Authentication, Oauth2 authorization, and OIDC tools and projects
