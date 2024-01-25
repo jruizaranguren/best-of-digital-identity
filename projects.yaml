@@ -245,6 +245,9 @@ projects:
     github_id: wso2/product-is
     category: idp
     dockerhub_id: wso2/wso2is
+  - name: hanko
+    github_id: teamhanko/hanko
+    category: idp
   - name: ockam
     github_id: build-trust/ockam
     brew_id: build-trust/ockam/ockam
@@ -732,3 +735,17 @@ projects:
     homepage: https://github.com/openwallet-foundation
     description: OpenWallet Foundation
     category: organizations
+  - name: django-passkeys
+    github_id: mkalioby/django-passkeys
+    category: authentication
+    pypi_id: django-passkeys
+  - name: laragear-webauthn
+    github_id: laragear/webauthn
+    category: authentication
+  - name: webauthn-ruby
+    github_id: cedarcode/webauthn-ruby
+    category: authentication
+  - name: passwordlessid-webauthn
+    github_id: passwordless-id/webauthn
+    category: authentication
+    npm_id: passwordless-id/webauthn
