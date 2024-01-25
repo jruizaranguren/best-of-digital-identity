@@ -539,6 +539,9 @@ projects:
     github_id: decentralized-identity/did-resolver
     category: dids
     labels: ["dif"]
+  - name: did-method-plc
+    github_id: did-method-plc/did-method-plc
+    category: dids
     npm_id: did-resolver
   - name: dwn-sdk-js
     github_id: TBD54566975/dwn-sdk-js
@@ -761,4 +764,18 @@ projects:
   - name: fido2-net-lib
     github_id: passwordless-lib/fido2-net-lib
     category: authentication
+  - name: py_webauthn
+    github_id: duo-labs/py_webauthn
+    category: authentication
+    pypi_id: webauthn
+  - name: webauthn-json
+    github_id: github/webauthn-json
+    category: authentication
+    npm_id: github/webauthn-json
+  - name: libfido2
+    github_id: yubico/libfido2
+    category: authentication
+  - name: ssi-to-oidc-bridge
+    github_id: gaia-x4plc-aad/ssi-to-oidc-bridge
+    category: ssi-sdks
 
