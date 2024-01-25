@@ -31,15 +31,9 @@ categories:
   - category: credentials
     title: Digital Credential Standards
     subtitle: Digital Credentials representations, formats and data model standards
-  - category: credentials-sdks
-    title: Digital Credentials SDKs
-    subtitle: SDKs for Digital Credentials, formats and data models
   - category: protocols
     title: Digital Interactions Protocols
     subtitle: Protocols for digital interactions such as authentication, authorization, exchange of credentials, etc.
-  - category: protocols-sdks
-    title: Digital Interactions SDKs
-    subtitle: SDKs for digital interactions protocols such as authentication, authorization, exchange of credentials, etc.
   - category: dids
     title: Decentralized Identifiers
     subtitle: Decentralized Identifiers (DIDs), DID methods and resolver projects
@@ -47,7 +41,7 @@ categories:
     title: Self-Sovereign Identity Agents
     subtitle: SSI Agents such as Identity Wallets, decentralized nodes and decentralized web applications
   - category: ssi-sdks
-    title: Self-Sovereign Identity SDKs 
+    title: Self-Sovereign Identity, credentials and protocols SDKs 
     subtitle: SDKs, toolkits and libraries for building SSI Agents and services
   - category: ssi-infra
     title: Self-Sovereign Identity Infrastructure
@@ -133,7 +127,7 @@ projects:
     category: authentication
   - name: pyMDOC-CBOR
     github_id: IdentityPython/pyMDOC-CBOR
-    category: credentials-sdks
+    category: ssi-sdks
     pypi_id: pymdoccobr
   - name: casbin
     github_id: casbin/casbin
@@ -286,6 +280,10 @@ projects:
     category: pki
     dockerhub_id: letsencrypt/boulder-tools
     labels: ["linux-foundation"]
+  - name: yubikey-manager
+    github_id: Yubico/yubikey-manager
+    category: pki
+    pypi_id: yubikey-manager
   - name: coredns
     github_id: coredns/coredns
     category: machine
@@ -322,16 +320,16 @@ projects:
     category: ssi-sdks
   - name: sphereon-openid4vci
     github_id: sphereon-opensource/openid4vci
-    category: protocols-sdks
+    category: ssi-sdks
   - name: sphereon-ssi-mobile-wallet
     github_id: sphereon-opensource/ssi-mobile-wallet
     category: ssi-agents
   - name: sphereon-pex
     github_id: sphereon-opensource/pex
-    category: protocols-sdks
+    category: ssi-sdks
   - name: sphereon-siop-oid4vp
     github_id: sphereon-opensource/siop-oid4vp
-    category: protocols-sdks
+    category: ssi-sdks
   - name: veramo
     github_id: decentralized-identity/veramo
     category: ssi-sdks
@@ -385,7 +383,7 @@ projects:
     labels: ["hyperledger"]
   - name: hyperledger-anoncreds-rs
     github_id: hyperledger/anoncreds-rs
-    category: credentials-sdks
+    category: ssi-sdks
     labels: ["hyperledger"]
   - name: credo-ts
     github_id: openwallet-foundation/credo-ts
@@ -534,7 +532,7 @@ projects:
     npm_id: ethr-did-resolver
   - name: did-jwt-vc
     github_id: decentralized-identity/did-jwt-vc
-    category: credentials-sdks
+    category: ssi-sdks
     labels: ["dif"]
     npm_id: did-jwt-vc
   - name: did-resolver
@@ -562,7 +560,7 @@ projects:
     npm_id: web5/api
   - name: digitalbazaar-vc
     github_id: digitalbazaar/vc
-    category: credentials-sdks
+    category: ssi-sdks
   - name: webauthn
     github_id: w3c/webauthn
     category: protocols
@@ -749,3 +747,18 @@ projects:
     github_id: passwordless-id/webauthn
     category: authentication
     npm_id: passwordless-id/webauthn
+  - name: webauthn4j
+    github_id: webauthn4j/webauthn4j
+    category: authentication
+    maven_id: com.webauthn4j:webauthn4j-core
+  - name: opensk
+    github_id: google/OpenSK
+    category: authentication
+    labels: ["cncf"]
+  - name: go-webauthn
+    github-id: go-webauthn/webauthn
+    category: authentication
+  - name: fido2-net-lib
+    github_id: passwordless-lib/fido2-net-lib
+    category: authentication
+
