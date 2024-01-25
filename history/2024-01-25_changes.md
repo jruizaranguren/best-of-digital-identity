@@ -1,33 +1,21 @@
-## 📈 Trending Up
-
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
-
-- <b><a href="https://github.com/keycloak/keycloak">keycloak</a></b> (🥇37 ·  ⭐ 19K · 📈) - Open Source Identity and Access Management For Modern.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a>
-- <b><a href="https://github.com/serengil/deepface">deepface</a></b> (🥇36 ·  ⭐ 9K · 📈) - A Lightweight Face Recognition and Facial Attribute Analysis (Age,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/justadudewhohacks/face-api.js">face-api-js</a></b> (🥈34 ·  ⭐ 16K · 💀) - JavaScript API for face detection and face recognition in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/authzed/spicedb">spicedb</a></b> (🥈33 ·  ⭐ 4.1K · 📈) - Open Source, Google Zanzibar-inspired permissions database to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/dexidp/dex">dex</a></b> (🥈31 ·  ⭐ 8.8K · 📈) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.linuxfoundation.org/"><code>linux-foundation</code></a>
-
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/decentralized-identity/did-jwt">did-jwt</a></b> (🥇29 ·  ⭐ 310 · 📉) - Create and verify DID verifiable JWTs in Javascript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
-- <b><a href="https://github.com/spruceid/ssi">spruceid-ssi</a></b> (🥉17 ·  ⭐ 170 · 📉) - Core library for decentralized identity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://www.spruceid.dev/didkit/didkit">spruceid-didkit</a></b> (🥉15 ·  ⭐ 240 · 📉) - A cross-platform toolkit for decentralized identity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/w3c/did-spec-registries">did-spec-registries</a></b> (🥉14 ·  ⭐ 100 · 📉) - DID Spec Registry (Note). <code>❗Unlicensed</code>
-- <b><a href="https://github.com/walt-id/waltid-idpkit">waltid-idpkit</a></b> (🥉14 ·  ⭐ 22 · 📉) - OIDC identity provider for digital identity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥈23 ·  ⭐ 200 · 📉) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 
 ## ➕ Added Projects
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/wso2/product-is">wso2-identity-server</a></b> (🥈32 ·  ⭐ 720 · ➕) - Welcome to the WSO2 Identity Server source code! For.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/teamhanko/hanko">hanko</a></b> (🥉23 ·  ⭐ 5.2K · ➕) - Auth and user management for the passkey era. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/openwallet-foundation/credo-ts">credo-ts</a></b> (🥈21 ·  ⭐ 220 · ➕) - Credo: The Open Trust Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openwallet.foundation/"><code>openwallet-foundation</code></a>
-- <b><a href="https://github.com/cedarcode/webauthn-ruby">webauthn-ruby</a></b> (🥉18 ·  ⭐ 600 · ➕) - WebAuthn ruby server library Make your Ruby/Rails web server.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/passwordless-id/webauthn">passwordlessid-webauthn</a></b> (🥉18 ·  ⭐ 280 · ➕) - Webauthn / passkeys helper library to make your life.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/Laragear/WebAuthn">laragear-webauthn</a></b> (🥉15 ·  ⭐ 200 · ➕) - Authenticate users with Passkeys: fingerprints, patterns.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/mkalioby/django-passkeys">django-passkeys</a></b> (🥉12 ·  ⭐ 140 · ➕) - Django Authentication Backend For Passkeys. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/openwallet-foundation">openwallet-foundation</a></b> (🥇1 · ➕) - OpenWallet Foundation. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/duo-labs/py_webauthn">py_webauthn</a></b> (🥈30 ·  ⭐ 760 · ➕) - Pythonic WebAuthn. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/Yubico/yubikey-manager">yubikey-manager</a></b> (🥈28 ·  ⭐ 780 · ➕) - Python library and command line tool for configuring any.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
+- <b><a href="https://github.com/passwordless-lib/fido2-net-lib">fido2-net-lib</a></b> (🥉24 ·  ⭐ 1K · ➕) - FIDO2 .NET library for FIDO2 / WebAuthn Attestation and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/google/OpenSK">opensk</a></b> (🥉22 ·  ⭐ 2.8K · ➕) - OpenSK is an open-source implementation for security keys.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a>
+- <b><a href="https://github.com/github/webauthn-json">webauthn-json</a></b> (🥉21 ·  ⭐ 700 · ➕) - A small WebAuthn API wrapper that translates to/from pure JSON.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/webauthn4j/webauthn4j">webauthn4j</a></b> (🥉20 ·  ⭐ 360 · ➕) - A portable Java library for WebAuthn and Apple App Attest.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Yubico/libfido2">libfido2</a></b> (🥉16 ·  ⭐ 520 · ➕) - Provides library functionality for FIDO2, including.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/did-method-plc/did-method-plc">did-method-plc</a></b> (🥉12 ·  ⭐ 100 · ➕) - A cryptographic, strongly-consistent, and recoverable.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/GAIA-X4PLC-AAD/ssi-to-oidc-bridge">ssi-to-oidc-bridge</a></b> (🥉5 ·  ⭐ 7 · 🐣) - TP 1.2 OIDC Provider with VC Support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="{}">go-webauthn</a></b> (➕) -  <code>❗Unlicensed</code>
 
