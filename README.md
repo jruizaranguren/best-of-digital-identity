@@ -106,7 +106,7 @@ _Identity providers (IdPs) and Identity and Access Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/wso2/product-is">wso2-identity-server</a></b> (🥈32 ·  ⭐ 720) - Welcome to the WSO2 Identity Server source code! For.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/wso2/product-is) (👨‍💻 700 · 🔀 690 · 📥 22K · 📋 13K - 30% open · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/wso2/product-is) (👨‍💻 700 · 🔀 690 · 📥 22K · 📋 13K - 30% open · ⏱️ 25.01.2024):
 
 	```
 	git clone https://github.com/wso2/product-is
@@ -150,7 +150,7 @@ _Identity providers (IdPs) and Identity and Access Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/zitadel/zitadel">zitadel</a></b> (🥉27 ·  ⭐ 6.1K) - ZITADEL - Identity infrastructure, simplified foryou. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 96 · 🔀 360 · 📥 2.4K · 📋 1.9K - 24% open · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/zitadel/zitadel) (👨‍💻 96 · 🔀 360 · 📥 2.4K · 📋 1.9K - 24% open · ⏱️ 25.01.2024):
 
 	```
 	git clone https://github.com/zitadel/zitadel
@@ -190,7 +190,7 @@ _Identity providers (IdPs) and Identity and Access Management (IAMs) solutions_
 </details>
 <details><summary><b><a href="https://github.com/freeipa/freeipa">freeipa</a></b> (🥉23 ·  ⭐ 1K) - Mirror of FreeIPA, an integrated security information management.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/freeipa/freeipa) (👨‍💻 220 · 🔀 310 · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/freeipa/freeipa) (👨‍💻 220 · 🔀 310 · ⏱️ 25.01.2024):
 
 	```
 	git clone https://github.com/freeipa/freeipa
@@ -324,7 +324,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	docker pull quay.io/dexidp/dex
 	```
 </details>
-<details><summary><b><a href="https://github.com/duo-labs/py_webauthn">py_webauthn</a></b> (🥈30 ·  ⭐ 760 · ➕) - Pythonic WebAuthn. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/duo-labs/py_webauthn">py_webauthn</a></b> (🥈30 ·  ⭐ 760) - Pythonic WebAuthn. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/duo-labs/py_webauthn) (👨‍💻 26 · 🔀 150 · 📦 980 · 📋 88 - 1% open · ⏱️ 11.01.2024):
 
@@ -364,7 +364,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	npm install oidc-provider
 	```
 </details>
-<details><summary><b><a href="https://github.com/passwordless-lib/fido2-net-lib">fido2-net-lib</a></b> (🥉24 ·  ⭐ 1K · ➕) - FIDO2 .NET library for FIDO2 / WebAuthn Attestation and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/passwordless-lib/fido2-net-lib">fido2-net-lib</a></b> (🥉24 ·  ⭐ 1K) - FIDO2 .NET library for FIDO2 / WebAuthn Attestation and Assertion.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/passwordless-lib/fido2-net-lib) (👨‍💻 44 · 🔀 150 · 📦 220 · 📋 230 - 26% open · ⏱️ 16.01.2024):
 
@@ -380,7 +380,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	git clone https://github.com/boltgolt/howdy
 	```
 </details>
-<details><summary><b><a href="https://github.com/google/OpenSK">opensk</a></b> (🥉22 ·  ⭐ 2.8K · ➕) - OpenSK is an open-source implementation for security keys.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
+<details><summary><b><a href="https://github.com/google/OpenSK">opensk</a></b> (🥉22 ·  ⭐ 2.8K) - OpenSK is an open-source implementation for security keys.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a></summary>
 
 - [GitHub](https://github.com/google/OpenSK) (👨‍💻 23 · 🔀 260 · 📦 78 · 📋 180 - 13% open · ⏱️ 15.01.2024):
 
@@ -388,7 +388,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	git clone https://github.com/google/OpenSK
 	```
 </details>
-<details><summary><b><a href="https://github.com/github/webauthn-json">webauthn-json</a></b> (🥉21 ·  ⭐ 700 · ➕) - A small WebAuthn API wrapper that translates to/from pure JSON.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/github/webauthn-json">webauthn-json</a></b> (🥉21 ·  ⭐ 700) - A small WebAuthn API wrapper that translates to/from pure JSON.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/github/webauthn-json) (👨‍💻 12 · 🔀 51 · 📦 1.1K · 📋 45 - 13% open · ⏱️ 17.07.2023):
 
@@ -416,7 +416,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 	git clone https://github.com/openid/appauth-ios
 	```
 </details>
-<details><summary><b><a href="https://github.com/webauthn4j/webauthn4j">webauthn4j</a></b> (🥉20 ·  ⭐ 360 · ➕) - A portable Java library for WebAuthn and Apple App Attest.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/webauthn4j/webauthn4j">webauthn4j</a></b> (🥉20 ·  ⭐ 360) - A portable Java library for WebAuthn and Apple App Attest server.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/webauthn4j/webauthn4j) (👨‍💻 26 · 🔀 66 · 📋 100 - 5% open · ⏱️ 01.01.2024):
 
@@ -491,7 +491,7 @@ _Authentication, Oauth2 authorization, and OIDC tools and projects_
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/inrupt/solid-client-authn-js">solid-client-authn-js</a></b> (🥉21 ·  ⭐ 62) - A client library for authenticating with Solid. <code>❗Unlicensed</code> <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/Yubico/libfido2">libfido2</a></b> (🥉16 ·  ⭐ 520 · ➕) - Provides library functionality for FIDO2, including.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Yubico/libfido2">libfido2</a></b> (🥉16 ·  ⭐ 520) - Provides library functionality for FIDO2, including.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/openid/AppAuth-JS">appauth-js</a></b> (🥉14 ·  ⭐ 950 · 💀) - JavaScript client SDK for communicating with OAuth 2.0.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openid.net/"><code>openid</code></a>
 </details>
 <br>
@@ -694,7 +694,7 @@ _Tools, libraries and certificate managers for Public Key Infrastructure and Key
 	docker pull letsencrypt/boulder-tools
 	```
 </details>
-<details><summary><b><a href="https://github.com/Yubico/yubikey-manager">yubikey-manager</a></b> (🥈28 ·  ⭐ 780 · ➕) - Python library and command line tool for configuring any.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Yubico/yubikey-manager">yubikey-manager</a></b> (🥈28 ·  ⭐ 780) - Python library and command line tool for configuring any.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/Yubico/yubikey-manager) (👨‍💻 43 · 🔀 120 · 📥 7.4K · 📦 130 · 📋 280 - 10% open · ⏱️ 23.01.2024):
 
@@ -961,7 +961,7 @@ _Digital Credentials representations, formats and data model standards_
 
 <details><summary><b><a href="https://github.com/w3c/vc-data-model">vc-data-model</a></b> (🥇19 ·  ⭐ 260) - W3C Verifiable Credentials Working Group VC Data Model and.. <code><a href="https://tldrlegal.com/search?q=W3C">❗️W3C</a></code> <a href="https://www.w3.org/"><code>w3c</code></a></summary>
 
-- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 65 · 🔀 80 · 📋 660 - 5% open · ⏱️ 14.01.2024):
+- [GitHub](https://github.com/w3c/vc-data-model) (👨‍💻 65 · 🔀 81 · 📋 660 - 5% open · ⏱️ 14.01.2024):
 
 	```
 	git clone https://github.com/w3c/vc-data-model
@@ -1017,7 +1017,7 @@ _Protocols for digital interactions such as authentication, authorization, excha
 </details>
 <details><summary><b><a href="https://github.com/solid/specification">solid-specification</a></b> (🥈17 ·  ⭐ 450) - Solid Technical Reports. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a></summary>
 
-- [GitHub](https://github.com/solid/specification) (👨‍💻 22 · 🔀 37 · 📋 320 - 53% open · ⏱️ 20.01.2024):
+- [GitHub](https://github.com/solid/specification) (👨‍💻 22 · 🔀 37 · 📋 320 - 53% open · ⏱️ 25.01.2024):
 
 	```
 	git clone https://github.com/solid/specification
@@ -1083,7 +1083,7 @@ _Decentralized Identifiers (DIDs), DID methods and resolver projects_
 	docker pull universalresolver/uni-resolver-web
 	```
 </details>
-<details><summary><b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥈23 ·  ⭐ 200 · 📉) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
+<details><summary><b><a href="https://github.com/decentralized-identity/did-resolver">did-resolver</a></b> (🥈23 ·  ⭐ 200) - Universal did-resolver for javascript environments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a></summary>
 
 - [GitHub](https://github.com/decentralized-identity/did-resolver) (👨‍💻 24 · 🔀 41 · 📦 5.5K · 📋 21 - 14% open · ⏱️ 15.01.2024):
 
@@ -1097,7 +1097,7 @@ _Decentralized Identifiers (DIDs), DID methods and resolver projects_
 - <b><a href="https://github.com/decentralized-identity/universal-registrar">universal-registrar</a></b> (🥈15 ·  ⭐ 67) - Universal Registrar implementation and drivers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/w3c/did-spec-registries">did-spec-registries</a></b> (🥉14 ·  ⭐ 100) - DID Spec Registry (Note). <code>❗Unlicensed</code>
 - <b><a href="https://github.com/transmute-industries/sidetree.js">sidetree.js</a></b> (🥉14 ·  ⭐ 50 · 💀) - Sidetree Core Protocol and DID Method Drivers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/did-method-plc/did-method-plc">did-method-plc</a></b> (🥉12 ·  ⭐ 100 · ➕) - A cryptographic, strongly-consistent, and recoverable.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/did-method-plc/did-method-plc">did-method-plc</a></b> (🥉12 ·  ⭐ 100) - A cryptographic, strongly-consistent, and recoverable.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/transmute-industries/did-key.js">did-key.js</a></b> (🥉12 ·  ⭐ 50 · 💀) - A DID Key Implementation in TypeScript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/decentralized-identity/did-key.rs">did-key.rs</a></b> (🥉12 ·  ⭐ 47 · 💤) - Rust implementation of the did:key method. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://identity.foundation/"><code>dif</code></a>
 - <b><a href="https://github.com/trustoverip/tswg-did-method-webs-specification">did-webs</a></b> (🥉10 ·  ⭐ 11) - a DID method spec for did:webs. <code>❗Unlicensed</code>
@@ -1195,7 +1195,7 @@ _SDKs, toolkits and libraries for building SSI Agents and services_
 </details>
 <details><summary><b><a href="https://github.com/hyperledger/aries-cloudagent-python">aries-python</a></b> (🥇25 ·  ⭐ 380) - Hyperledger Aries Cloud Agent Python (ACA-Py) is a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a></summary>
 
-- [GitHub](https://github.com/hyperledger/aries-cloudagent-python) (👨‍💻 140 · 🔀 440 · 📋 1.1K - 19% open · ⏱️ 24.01.2024):
+- [GitHub](https://github.com/hyperledger/aries-cloudagent-python) (👨‍💻 140 · 🔀 440 · 📋 1.1K - 19% open · ⏱️ 25.01.2024):
 
 	```
 	git clone https://github.com/hyperledger/aries-cloudagent-python
