@@ -13,9 +13,9 @@ categories:
   - category: authorization
     title: Access control and authorization
     subtitle: Authorization and policy managing libraries, tools and projects.
-  - category: organizations
-    title: Organizations
-    subtitle: Organizations and groups working on identity and access management with open source projects
+  - category: groups
+    title: Shared Groups
+    subtitle: Repository groups from organizations, business or open-source communities that collaborate across many open source projects at once.
   - category: pki
     title: Public Key Infrastructure and Key Management
     subtitle: Tools, libraries and certificate managers for Public Key Infrastructure and Key management
@@ -684,14 +684,14 @@ projects:
     npm_id: passport
   - name: weboftrust
     homepage: https://github.com/WebOfTrust
-    category: organizations
+    category: groups
     description: Standards Relating to a Web Of Trust Based on Autonomic Identifier Systems
     resource: True
     labels: ["weboftrust"]
   - name: identity-foundation
     homepage: https://identity.foundation/
     description: Developing the foundational components of an open, standards-based, decentralized identity ecosystem for people, organizations, apps, and devices
-    category: organizations
+    category: groups
     resource: True
   - name: keri
     github_id: weboftrust/keri
@@ -703,30 +703,30 @@ projects:
   - name: solidproject
     homepage: https://github.com/solid
     description: Re-decentralizing the web
-    category: organizations
+    category: groups
     resource: True
     labels: ["solid"]
   - name: w3c
     homepage: https://github.com/w3c
     description: We are an international community that develops open standards to ensure the long-term growth of the Web. 
-    category: organizations
+    category: groups
     resource: True
     labels: ["w3c"]
   - name: openid
     homepage: https://github.com/openid
     description: OpenID Foundation Working Groups
-    category: organizations
+    category: groups
     resource: True
     labels: ["openid"]
   - name: trustoverip
     homepage: https://github.com/trustoverip
     description: Trust over IP Foundation
-    category: organizations
+    category: groups
     resource: True
   - name: openwallet-foundation
     homepage: https://github.com/openwallet-foundation
     description: OpenWallet Foundation
-    category: organizations
+    category: groups
   - name: django-passkeys
     github_id: mkalioby/django-passkeys
     category: authentication
