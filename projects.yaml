@@ -22,12 +22,9 @@ categories:
   - category: machine
     title: Machine Identity Management
     subtitle: Tools, services and protocols for machine to machine secure digital interactions
-  - category: face
-    title: Face biometrics
-    subtitle: Face biometrics tools and projects concerning natural person identification
-  - category: voice
-    title: Voice biometrics
-    subtitle: Voice biometrics tools and projects concerning natural person identification
+  - category: biometrics
+    title: Biometrics
+    subtitle: Face, voice and other biometrics tools and projects concerning natural person identification
   - category: specs
     title: Specifications
     subtitle: Specification documents for protocols, standards, format, data models and digital identity representations.
@@ -613,27 +610,27 @@ projects:
     category: ssi-sdks
   - name: ageitgey-face-recognition
     github_id: ageitgey/face_recognition
-    category: face
+    category: biometrics
     pypi_id: face_recognition
     dockerhub_id: animcogn/face_recognition
   - name: face-api-js
     github_id: justadudewhohacks/face-api.js
-    category: face
+    category: biometrics
     npm_id: face-api.js
   - name: openface
     github_id: cmusatyalab/openface
-    category: face
+    category: biometrics
     dockerhub_id: bamos/openface
   - name: insightface
     github_id: deepinsight/insightface
-    category: face
+    category: biometrics
     dockerhub_id: animcogn/insightface
   - name: facenet
     github_id: davidsandberg/facenet
-    category: face
+    category: biometrics
   - name: deepface
     github_id: serengil/deepface
-    category: face
+    category: biometrics
     pypi_id: deepface
   - name: howdy
     github_id: boltgolt/howdy
@@ -641,27 +638,27 @@ projects:
     apt_id: howdy
   - name: openbr
     github_id: biometrics/openbr
-    category: face
+    category: biometrics
   - name: faceswap
     github_id: deepfakes/faceswap
-    category: face
+    category: biometrics
   - name: deepfacelab
     github_id: iperov/DeepFaceLab
-    category: face
+    category: biometrics
   - name: deepfacelive
     github_id: iperov/DeepFaceLive
-    category: face
+    category: biometrics
   - name: whisper
     github_id: openai/whisper
-    category: voice
+    category: biometrics
     pypi_id: openai-whisper
   - name: paddlespeech
     github_id: PaddlePaddle/PaddleSpeech
-    category: voice
+    category: biometrics
     pypi_id: paddlepaddle
   - name: speechbrain
     github_id: speechbrain/speechbrain
-    category: voice
+    category: biometrics
     pypi_id: speechbrain
   - name: vlei
     github_id: weboftrust/vlei
