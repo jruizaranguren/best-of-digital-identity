@@ -8,7 +8,7 @@ categories:
     title: Identity Providers
     subtitle: Identity providers (IdPs) and Identity and Access Management (IAMs) solutions
   - category: authentication
-    title: Authentication
+    title: Authentication, Oauth2, OIDC, Webauthn
     subtitle: Authentication, Oauth2 authorization, and OIDC tools and projects
   - category: authorization
     title: Access control and authorization
