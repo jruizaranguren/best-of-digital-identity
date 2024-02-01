@@ -233,6 +233,10 @@ projects:
   - name: hanko
     github_id: teamhanko/hanko
     category: idp
+  - name: maxkey
+    github_id: dromara/MaxKey
+    category: idp
+    dockerhub_id: maxkeytop/maxkey
   - name: ockam
     github_id: build-trust/ockam
     brew_id: build-trust/ockam/ockam
