@@ -787,6 +787,10 @@ projects:
   - name: libfido2
     github_id: yubico/libfido2
     category: authentication
+  - name: oauth2-proxy
+    github-id: oauth2-proxy/oauth2-proxy
+    category: authentication
+    dockerhub_id: quay.io/oauth2-proxy/oauth2-proxy
   - name: ssi-to-oidc-bridge
     github_id: gaia-x4plc-aad/ssi-to-oidc-bridge
     category: ssi-sdks
