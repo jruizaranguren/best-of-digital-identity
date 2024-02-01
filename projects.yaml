@@ -28,12 +28,9 @@ categories:
   - category: voice
     title: Voice biometrics
     subtitle: Voice biometrics tools and projects concerning natural person identification
-  - category: credentials
-    title: Digital Credential Standards
-    subtitle: Digital Credentials representations, formats and data model standards
-  - category: protocols
-    title: Digital Interactions Protocols
-    subtitle: Protocols for digital interactions such as authentication, authorization, exchange of credentials, etc.
+  - category: specs
+    title: Specifications
+    subtitle: Specification documents for protocols, standards, format, data models and digital identity representations.
   - category: dids
     title: Decentralized Identifiers
     subtitle: Decentralized Identifiers (DIDs), DID methods and resolver projects
@@ -43,9 +40,6 @@ categories:
   - category: ssi-sdks
     title: Self-Sovereign Identity, credentials and protocols SDKs 
     subtitle: SDKs, toolkits and libraries for building SSI Agents and services
-  - category: ssi-infra
-    title: Self-Sovereign Identity Infrastructure
-    subtitle: Verifiable data registries, schema repositories, distributed ledgers for identity management.
 labels:
   - label: ory
     name: ory
@@ -307,7 +301,7 @@ projects:
     dockerhub_id: waltid/identity
   - name: waltid-idpkit
     github_id: walt-id/waltid-idpkit
-    category: ssi-infra
+    category: ssi-sdks
     dockerhub_id: waltid/idpkit
   - name: cf-identity-wallet
     github_id: cardano-foundation/cf-identity-wallet
@@ -345,7 +339,7 @@ projects:
     category: ssi-sdks
   - name: kepler
     github_id: spruceid/kepler
-    category: ssi-infra
+    category: ssi-sdks
   - name: credible
     github_id: spruceid/wallet
     category: ssi-agents
@@ -363,11 +357,11 @@ projects:
     category: ssi-agents
   - name: indy-node
     github_id: hyperledger/indy-node
-    category: ssi-infra
+    category: ssi-sdks
     labels: ["hyperledger"]
   - name: aries-rfcs
     github_id: hyperledger/aries-rfcs
-    category: protocols
+    category: specs
     labels: ["hyperledger"]
   - name: aries-python
     github_id: hyperledger/aries-cloudagent-python
@@ -459,15 +453,15 @@ projects:
     category: pki
   - name: solid-project
     github_id: solid/solid
-    category: protocols
+    category: specs
     labels: ["solid"]
   - name: solid-specification
     github_id: solid/specification
-    category: protocols
+    category: specs
     labels: ["solid"]
   - name: web-access-control
     github_id: solid/web-access-control-spec
-    category: protocols
+    category: specs
     labels: ["solid"]
   - name: node-solid-server
     github_id: nodesolidserver/node-solid-server
@@ -483,7 +477,7 @@ projects:
     npm_id: inrupt/solid-client-authn-node
   - name: ion
     github_id: decentralized-identity/ion
-    category: ssi-infra
+    category: dids
   - name: ion-tools
     github_id: decentralized-identity/ion-tools
     category: dids
@@ -501,11 +495,11 @@ projects:
     category: dids
   - name: sidetree
     github_id: decentralized-identity/sidetree
-    category: protocols
+    category: specs
     labels: ["dif"]
   - name: decentralized-web-node
     github_id: decentralized-identity/decentralize-web-node
-    category: protocols
+    category: specs
     labels: ["dif", "web5"]
   - name: did-jwt
     github_id: decentralized-identity/did-jwt
@@ -523,7 +517,7 @@ projects:
     npm_id: web-did-resolver
   - name: didcomm-messaging
     github_id: decentralized-identity/didcomm-messagging
-    category: protocols
+    category: specs
     labels: ["dif"]
   - name: ethr-did-resolver
     github_id: decentralized-identity/ethr-did-resolver
@@ -566,22 +560,22 @@ projects:
     category: ssi-sdks
   - name: webauthn
     github_id: w3c/webauthn
-    category: protocols
+    category: specs
     labels: ["w3c"]
     license: "W3C"
   - name: vc-data-model
     github_id: w3c/vc-data-model
-    category: credentials
+    category: specs
     labels: ["w3c"]
     license: "W3C"
   - name: identity-credential
     github_id: wicg/identity-credential
     description: Proposals related to the invocation of digital identity wallets from the web
-    category: credentials
+    category: specs
     labels: ["w3c"]
   - name: presentation-exchange
     github_id: decentralized-identity/presentation-exchange
-    category: protocols
+    category: specs
     labels: ["dif"]
   - name: appauth-android
     github_id: openid/appauth-android
@@ -598,17 +592,17 @@ projects:
     labels: ["openid"]
   - name: did-core
     github_id: w3c/did-core
-    category: credentials
+    category: specs
     license: "W3C"
     labels: ["w3c"]
   - name: vc-api
     github_id: w3c-ccg/vs-api
-    category: protocols
+    category: specs
     license: "W3C"
     labels: ["w3c"]
   - name: universal-wallet-interop-spec
     github_id: w3c-ccg/universal-wallet-interop-spec
-    category: protocols
+    category: specs
     license: "W3C"
     labels: ["w3c"]
   - name: entra-verifiedid-wallet-library-android
@@ -671,22 +665,22 @@ projects:
     pypi_id: speechbrain
   - name: vlei
     github_id: weboftrust/vlei
-    category: credentials
+    category: specs
   - name: bbs-signature
     github_id: decentralized-identity/bbs-signature
-    category: credentials
+    category: specs
     labels: ["dif"]
   - name: anoncreds
     github_id: hyperledger/anoncreds-spec
-    category: credentials
+    category: specs
     labels: ["hyperledger"]
   - name: fedfm
     github_id: fedidcg/FedCM
-    category: protocols
+    category: specs
     labels: ["w3c"]
   - name: selective-disclosure-jwt
     github_id: oauth-wg/oauth-selective-disclosure-jwt
-    category: credentials
+    category: specs
   - name: passport
     github_id: jaredhanson/passport
     category: authentication
@@ -704,7 +698,7 @@ projects:
     resource: True
   - name: keri
     github_id: weboftrust/keri
-    category: protocols
+    category: specs
     labels: ["weboftrust"]
   - name: keripy
     github_id: weboftrust/keripy
