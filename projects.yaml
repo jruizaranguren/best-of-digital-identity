@@ -798,4 +798,21 @@ projects:
   - name: ssi-to-oidc-bridge
     github_id: gaia-x4plc-aad/ssi-to-oidc-bridge
     category: ssi-sdks
-
+  - name: procivis-one-wallet
+    labels: ["w3c"]
+    github_id: procivis/one-wallet
+    category: ssi-agents
+    license: "Apache-2.0"
+    description: Digital wallet with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
+  - name: procivis-one-core
+    labels: ["w3c"]
+    github: procivis/one-core
+    category:  ssi-sdks
+    description: Issue, hold and verify digital identities and credentials on any device with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
+    license: "Apache-2.0"
+  - name: procivis-one-core
+    labels: ["w3c"]
+    github: procivis/one-core
+    category: ssi-agents
+    description: Issue, hold and verify digital identities and credentials on any device with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
+    license: "Apache-2.0"
