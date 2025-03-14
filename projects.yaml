@@ -17,8 +17,8 @@ categories:
     title: Shared Groups
     subtitle: Repository groups from organizations, business or open-source communities that collaborate across many open source projects at once.
   - category: pki
-    title: Public Key Infrastructure and Key Management
-    subtitle: Tools, libraries and certificate managers for Public Key Infrastructure and Key management
+    title: Cryptographics and Public Key Infrastructure
+    subtitle: Tools, libraries and services for cryptographics and PKI management
   - category: machine
     title: Machine Identity Management
     subtitle: Tools, services and protocols for machine to machine secure digital interactions
@@ -266,6 +266,10 @@ projects:
     github_id: salesforce/ja3
     category: pki
     pypi_id: pyja3
+  - name: crypto
+    category: pki
+    description: "Library providing privacy enhancing cryptographic primitives, ZKPs, BBS+ and BBS# signatures"
+    github_id: docknetwork/crypto
   - name: cfssl
     github_id: cloudfare/cfssl
     category: pki
@@ -413,6 +417,7 @@ projects:
   - name: vault
     github_id: hashicorp/vault
     category: pki
+    license: "Business Source License 1.1"
     labels: ["hashicorp"]
   - name: ejbca-ce
     github_id: Keyfactor/ejbca
@@ -425,7 +430,7 @@ projects:
     github_id: cogolabs/beyond
     category: machine
     dockerhub_id: cogolabs/beyond
-    license: "	Apache-2.0"
+    license: "Apache-2.0"
   - name: gotrue
     github_id: netlify/gotrue
     category: idp
