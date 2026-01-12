@@ -821,3 +821,6 @@ projects:
     category: ssi-agents
     description: Issue, hold and verify digital identities and credentials on any device with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
     license: "Apache-2.0"
+  - name: authgear
+    github_id: authgear/authgear-server
+    category: idp
