@@ -824,3 +824,4 @@ projects:
   - name: authgear
     github_id: authgear/authgear-server
     category: idp
+    license: "Apache-2.0"
