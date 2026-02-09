@@ -821,6 +821,11 @@ projects:
     category: ssi-agents
     description: Issue, hold and verify digital identities and credentials on any device with eIDAS 2.0 compliancy, ISO 18013-5 mdocs, IETF SD-JWT VC, OID4VC, and W3C VCs.
     license: "Apache-2.0"
+  - name: chitin
+    homepage: https://chitin.id
+    category: dids
+    npm_id: chitin-mcp-server
+    description: On-chain soul identity for AI agents on Base L2. Issues Soulbound Tokens (EIP-5192) as verifiable birth certificates with ERC-8004 agent passports, W3C DID resolution (did:chitin), on-chain certificates, and multi-method governance voting.
   - name: authgear
     github_id: authgear/authgear-server
     category: idp
