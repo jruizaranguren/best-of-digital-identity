@@ -825,3 +825,9 @@ projects:
     github_id: authgear/authgear-server
     category: idp
     license: "Apache-2.0"
+  - name: aip-identity
+    github_id: The-Nexus-Guard/aip
+    pypi_id: aip-identity
+    category: dids
+    description: Decentralized identity and trust layer for AI agents using Ed25519-based DIDs, vouch-based trust chains, and encrypted messaging.
+    license: "MIT"
