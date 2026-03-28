@@ -831,3 +831,8 @@ projects:
     category: dids
     description: Decentralized identity and trust layer for AI agents using Ed25519-based DIDs, vouch-based trust chains, and encrypted messaging.
     license: "MIT"
+
+  - name: hashgraph-online
+    github_id: hashgraph-online/hol
+    category: machine
+    npm_id: @hol-org/standards-sdk
