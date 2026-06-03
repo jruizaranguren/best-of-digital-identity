@@ -398,6 +398,13 @@ projects:
   - name: universal-registrar
     github_id: decentralized-identity/universal-registrar
     category: dids
+  - name: "did:aip (Agent Internet Protocol)"
+    github_id: dr-wilson-empty/aip-beta
+    npm_id: "@aipagents/did-resolver"
+    dockerhub_id: ghcr.io/dr-wilson-empty/driver-did-aip
+    description: W3C-conformant, Solana-anchored DID method and open-source resolver for autonomous AI agent identity
+    homepage: https://aipagents.xyz
+    category: dids
   - name: did-webs
     github_id: trustoverip/tswg-did-method-webs-specification
     category: dids
