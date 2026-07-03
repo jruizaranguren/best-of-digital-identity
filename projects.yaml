@@ -831,3 +831,9 @@ projects:
     category: dids
     description: Decentralized identity and trust layer for AI agents using Ed25519-based DIDs, vouch-based trust chains, and encrypted messaging.
     license: "MIT"
+  - name: Memdeklaro
+    github_id: memdeklaro/memdeklaro.github.io
+    category: dids
+    description: Memdeklaro - Self declaration of identity - Peer-to-peer identity without third parties
+    homepage: https://memdeklaro.org
+    license: Unlicense
