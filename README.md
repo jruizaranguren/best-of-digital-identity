@@ -169,7 +169,7 @@ _SDKs, toolkits and libraries for building SSI Agents and services_
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://www.spruceid.dev/didkit/didkit">spruceid-didkit</a></b> (🥈4) - A cross-platform toolkit for decentralized identity. <code>❗Unlicensed</code>
+- <b><a href="https://www.spruceid.dev/didkit/didkit">spruceid-didkit</a></b> (🥉3 · 📉) - A cross-platform toolkit for decentralized identity. <code>❗Unlicensed</code>
 </details>
 
 ---
