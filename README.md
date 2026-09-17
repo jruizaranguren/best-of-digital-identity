@@ -131,7 +131,7 @@ _Repository groups from organizations, business or open-source communities that 
 
 _Tools, libraries and services for cryptographics and PKI management_
 
-<details><summary><b><a href="https://github.com/Netflix/lemur">lemur</a></b> (🥇25 ·  ⭐ 1.8K · 📈) - Repository for the Lemur Certificate Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Netflix/lemur">lemur</a></b> (🥇25 ·  ⭐ 1.8K) - Repository for the Lemur Certificate Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/Netflix/lemur) (👨‍💻 160 · 🔀 320 · 📥 76 · 📋 570 - 19% open · ⏱️ 06.07.2026):
 
