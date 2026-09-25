@@ -133,7 +133,7 @@ _Tools, libraries and services for cryptographics and PKI management_
 
 <details><summary><b><a href="https://github.com/Netflix/lemur">lemur</a></b> (🥇25 ·  ⭐ 1.8K) - Repository for the Lemur Certificate Manager. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Netflix/lemur) (👨‍💻 160 · 🔀 320 · 📥 76 · 📋 570 - 19% open · ⏱️ 06.07.2026):
+- [GitHub](https://github.com/Netflix/lemur) (👨‍💻 160 · 🔀 320 · 📥 78 · 📋 570 - 19% open · ⏱️ 06.07.2026):
 
 	```
 	git clone https://github.com/netflix/lemur
@@ -190,7 +190,7 @@ _SSI Agents such as Identity Wallets, decentralized nodes and decentralized web 
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥇14 ·  ⭐ 150 · 💀) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a>
-- <b><a href="https://github.com/spruceid/wallet">credible</a></b> (🥈10 ·  ⭐ 46 · 💀) - A reference credential wallet built on Flutter and DIDKit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/spruceid/wallet">credible</a></b> (🥈10 ·  ⭐ 47 · 💀) - A reference credential wallet built on Flutter and DIDKit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/walt-id/waltid-web-wallet">waltid-web-wallet</a></b> (🥈6 ·  ⭐ 2 · 💀) - Custodian identity wallet white-label solution. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -208,7 +208,7 @@ _SDKs, toolkits and libraries for building SSI Agents and services_
 	```
 	git clone https://github.com/walt-id/waltid-ssikit
 	```
-- [Docker Hub](https://hub.docker.com/r/waltid/ssikit) (📥 26K · ⏱️ 13.12.2023):
+- [Docker Hub](https://hub.docker.com/r/waltid/ssikit) (📥 27K · ⏱️ 13.12.2023):
 	```
 	docker pull waltid/ssikit
 	```
