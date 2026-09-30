@@ -23,16 +23,23 @@ jobs:
         env:
           GH_API_TOKEN: ${{ secrets.GH_API_TOKEN }}
         run: |
-          # Fail before creating any branch, PR or release instead of publishing an almost empty list
+          # Fail before creating any branch, PR or release instead of publishing an almost empty list.
+          # best-of-generator silently drops a repo when the token can't read one of the fields it queries,
+          # so this asks for the same kinds of fields.
           if [ -z "$GH_API_TOKEN" ]; then
             echo "::error::The GH_API_TOKEN repository secret is not set (see the github_key comment below)."
             exit 1
           fi
+          query='{ repository(owner: "keycloak", name: "keycloak") {
+            url stargazers { totalCount } watchers { totalCount } forks { totalCount }
+            pullRequests { totalCount } issues { totalCount } repositoryTopics(first: 1) { totalCount }
+            defaultBranchRef { target { ... on Commit { history(first: 1) { totalCount } } } }
+            releases(first: 1) { nodes { releaseAssets(first: 1) { nodes { downloadCount } } } } } }'
           response=$(curl -sS https://api.github.com/graphql \
             -H "Authorization: bearer $GH_API_TOKEN" \
-            -d '{"query": "{ repository(owner: \"keycloak\", name: \"keycloak\") { stargazerCount } }"}')
-          if [[ "$response" != *'"stargazerCount"'* ]]; then
-            echo "::error::GH_API_TOKEN cannot read repository metadata from the GitHub GraphQL API: $response"
+            -d "$(jq -n --arg query "$query" '{query: $query}')")
+          if ! jq -e '.data.repository.url and (.errors | not)' <<< "$response" > /dev/null; then
+            echo "::error::GH_API_TOKEN cannot read all the repository fields best-of-generator needs (use a classic token): $response"
             exit 1
           fi
       - if: ${{ github.event.inputs != null  &&  github.event.inputs.version != null }}
@@ -64,8 +71,9 @@ jobs:
         uses: best-of-lists/best-of-update-action@v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          # Must be a personal access token: since late July 2026 the workflow GITHUB_TOKEN gets no GraphQL
-          # metadata for other non-archived repos, hiding almost every project (best-of-generator issue #90).
+          # Must be a classic personal access token (no scopes needed): the workflow GITHUB_TOKEN (since late
+          # July 2026) and fine-grained tokens can't read all the GraphQL fields best-of-generator queries for
+          # other repos, and it then hides almost every project (best-of-generator issue #90).
           github_key: ${{ secrets.GH_API_TOKEN }}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v7
