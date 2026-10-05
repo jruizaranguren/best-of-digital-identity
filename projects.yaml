@@ -329,6 +329,11 @@ projects:
   - name: sphereon-siop-oid4vp
     github_id: sphereon-opensource/siop-oid4vp
     category: ssi-sdks
+  - name: polaris-oid4vp
+    github_id: EgorKhaklin/polaris-id
+    pypi_id: polaris-oid4vp
+    description: OpenID4VP 1.0 + HAIP 1.0 verifier for SD-JWT VC in Python; 1.0.0rc7 is OpenID Certified
+    category: ssi-sdks
   - name: veramo
     github_id: decentralized-identity/veramo
     category: ssi-sdks
