@@ -841,3 +841,8 @@ projects:
     category: ssi-sdks
     description: C#/.NET verifier for the EUDI Wallet using OpenID4VP and DCQL – reads the PID (mso_mdoc and SD-JWT VC) via a QR cross-device flow; NuGet library, REST API and Docker.
     license: "Apache-2.0"
+  - name: miSWIYUverifier
+    github_id: Mibuw/miSWIYUverifier
+    category: ssi-sdks
+    description: C#/.NET verifier for the Swiss E-ID (swiyu) Beta-ID using OpenID4VP and DCQL via the swiyu-verifier management API; NuGet library, REST API and Docker.
+    license: "MIT"
