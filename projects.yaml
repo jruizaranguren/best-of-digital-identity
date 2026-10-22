@@ -836,3 +836,8 @@ projects:
     category: dids
     description: Decentralized identity and trust layer for AI agents using Ed25519-based DIDs, vouch-based trust chains, and encrypted messaging.
     license: "MIT"
+  - name: miEUDIverifier
+    github_id: Mibuw/miEUDIverifier
+    category: ssi-sdks
+    description: C#/.NET verifier for the EUDI Wallet using OpenID4VP and DCQL – reads the PID (mso_mdoc and SD-JWT VC) via a QR cross-device flow; NuGet library, REST API and Docker.
+    license: "Apache-2.0"
