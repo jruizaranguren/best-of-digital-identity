@@ -2,19 +2,16 @@
 
 _Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
 
-- <b><a href="https://github.com/oauthlib/oauthlib">oauthlib</a></b> (🥇43 ·  ⭐ 3K · 📈) - A generic, spec-compliant, thorough implementation of the OAuth.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/authlib/authlib">authlib</a></b> (🥇41 ·  ⭐ 5.4K · 📈) - The ultimate Python library in building OAuth, OpenID Connect.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/pomerium/pomerium">pomerium</a></b> (🥈34 ·  ⭐ 5.1K · 📈) - Pomerium is an identity and context-aware access proxy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/teamhanko/hanko">hanko</a></b> (🥉29 ·  ⭐ 9.1K · 📈) - Modern authentication, on your terms. Open source alternative to.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
-- <b><a href="https://github.com/DuendeSoftware/products">identity-server</a></b> (🥈28 ·  ⭐ 1.6K · 📈) - The most flexible and standards-compliant OpenID.. <code><a href="https://duendesoftware.com/license">❗️Custom</a></code>
+- <b><a href="https://github.com/apache/casbin">casbin</a></b> (🥈34 ·  ⭐ 20K · 📈) - Apache Casbin: an authorization library that supports access.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/permitio/opal">opal</a></b> (🥈30 ·  ⭐ 5.5K · 📈) - Policy and data administration, distribution, and real-time updates.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/justadudewhohacks/face-api.js">face-api-js</a></b> (🥉28 ·  ⭐ 18K · 💀) - JavaScript API for face detection and face recognition in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/openwallet-foundation/credo-ts">credo-ts</a></b> (🥇24 ·  ⭐ 360 · 📈) - Typescript framework for building decentralized identity.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://openwallet.foundation/"><code>openwallet-foundation</code></a>
+- <b><a href="https://github.com/google/OpenSK">opensk</a></b> (🥉22 ·  ⭐ 3.5K · 📈) - OpenSK is an open-source implementation for security keys.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.cncf.io/"><code>cncf</code></a>
 
 ## 📉 Trending Down
 
 _Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
 
-- <b><a href="https://github.com/PaddlePaddle/PaddleSpeech">paddlespeech</a></b> (🥈33 ·  ⭐ 13K · 📉) - Easy-to-use Speech Toolkit including Self-Supervised.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/wso2/product-is">wso2-identity-server</a></b> (🥈31 ·  ⭐ 930 · 📉) - Welcome to the WSO2 Identity Server source code! For.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/openai/whisper">whisper</a></b> (🥉29 ·  ⭐ 110K · 📉) - Robust Speech Recognition via Large-Scale Weak Supervision. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/nodeSolidServer/node-solid-server">node-solid-server</a></b> (🥇25 ·  ⭐ 1.8K · 📉) - Solid server on top of the file-system in NodeJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://solidproject.org/"><code>solid</code></a>
-- <b><a href="https://github.com/decentralized-identity/aries-rfcs">aries-rfcs</a></b> (🥈16 ·  ⭐ 340 · 📉) - Hyperledger Aries is infrastructure for blockchain-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://www.hyperledger.org/"><code>hyperledger</code></a>
+- <b><a href="https://github.com/teamhanko/hanko">hanko</a></b> (🥉28 ·  ⭐ 9.1K · 📉) - Modern authentication, on your terms. Open source alternative to.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/TBD54566975/ssi-service">tbd-ssi-service</a></b> (🥉13 ·  ⭐ 150 · 💀) - The Self Sovereign Identity Service. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <a href="https://developer.tbd.website/"><code>web5</code></a>
 
